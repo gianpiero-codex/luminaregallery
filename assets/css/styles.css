@@ -740,8 +740,8 @@ h3 {
 }
 
 .footer-social .social-icon-link img {
-  filter: brightness(0) invert(1);
-  opacity: 0.75;
+  border-radius: 50%;
+  opacity: 0.85;
 }
 
 .footer-social .social-icon-link:hover img {
