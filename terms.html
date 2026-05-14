@@ -3,157 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
   <title>Terms of Service | Luminare Gallery</title>
-  <meta name="description" content="Terms of Service for Luminare Gallery." />
-
-  <style>
-    :root {
-      --bg: #F7F3EA;
-      --paper: #FFFFFF;
-      --text: #1F1F1F;
-      --muted: #66615A;
-      --accent: #8A6A43;
-      --border: #E4DDD0;
-    }
-
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      font-family: Arial, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.7;
-    }
-
-    header {
-      padding: 28px 7%;
-      border-bottom: 1px solid var(--border);
-      display: flex;
-      justify-content: space-between;
-      gap: 20px;
-      align-items: center;
-    }
-
-    .brand {
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: 22px;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--text);
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    nav {
-      display: flex;
-      gap: 22px;
-      flex-wrap: wrap;
-      font-size: 14px;
-    }
-
-    nav a,
-    footer a {
-      color: var(--muted);
-      text-decoration: none;
-    }
-
-    nav a:hover,
-    footer a:hover {
-      color: var(--accent);
-    }
-
-    main {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 70px 7%;
-    }
-
-    .content {
-      background: var(--paper);
-      border: 1px solid var(--border);
-      border-radius: 22px;
-      padding: 44px;
-      box-shadow: 0 18px 60px rgba(31, 31, 31, 0.06);
-    }
-
-    h1, h2 {
-      font-family: Georgia, "Times New Roman", serif;
-      line-height: 1.2;
-    }
-
-    h1 {
-      font-size: clamp(36px, 5vw, 54px);
-      margin-bottom: 12px;
-    }
-
-    .updated {
-      color: var(--muted);
-      margin-bottom: 36px;
-      font-size: 14px;
-    }
-
-    h2 {
-      font-size: 26px;
-      margin-top: 34px;
-      margin-bottom: 12px;
-    }
-
-    p, li {
-      color: var(--muted);
-      font-size: 16px;
-      margin-bottom: 14px;
-    }
-
-    ul {
-      margin-left: 22px;
-      margin-bottom: 20px;
-    }
-
-    strong {
-      color: var(--text);
-    }
-
-    footer {
-      padding: 36px 7%;
-      border-top: 1px solid var(--border);
-      display: flex;
-      justify-content: space-between;
-      gap: 20px;
-      flex-wrap: wrap;
-      color: var(--muted);
-      font-size: 14px;
-    }
-
-    @media (max-width: 700px) {
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      .content {
-        padding: 28px;
-      }
-    }
-  </style>
+  <meta name="description" content="Terms of Service for Luminare Gallery, including Etsy purchases, digital products, printed products, intellectual property, and platform integrations." />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/assets/css/styles.css" />
 </head>
-
 <body>
-  <header>
-    <a class="brand" href="/">Luminare Gallery</a>
-    <nav>
-      <a href="/">Home</a>
-      <a href="https://www.etsy.com/shop/LuminareGallery" target="_blank" rel="noopener noreferrer">Etsy Shop</a>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="/index.html" aria-label="Luminare Gallery home">
+      <img class="brand-mark" src="/assets/brand/luminare-logo.png" alt="" />
+      <span>Luminare Gallery</span>
+    </a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/index.html">Home</a>
+      <a href="/shop.html">Shop</a>
+      <a href="/collections.html">Collections</a>
+      <a href="/about.html">About</a>
+      <a href="https://www.etsy.com/shop/LuminareGallery" target="_blank" rel="noopener noreferrer">Etsy</a>
       <a href="/privacy.html">Privacy</a>
+      <a href="/terms.html" aria-current="page">Terms</a>
     </nav>
   </header>
 
-  <main>
-    <article class="content">
+  <main id="main" class="legal-main">
+    <article class="legal-content">
       <h1>Terms of Service</h1>
       <p class="updated">Last updated: May 14, 2026</p>
 
@@ -184,18 +59,14 @@
         Product purchases are currently handled through external platforms such as Etsy. When you purchase through Etsy,
         Etsy's own terms, policies, payment systems, order management and customer protection rules apply.
       </p>
-      <p>
-        Luminare Gallery does not directly process payments through this website.
-      </p>
+      <p>Luminare Gallery does not directly process payments through this website.</p>
 
       <h2>4. Product descriptions and availability</h2>
       <p>
         We aim to present products accurately. Product availability, pricing, formats, print options, digital download
         options and shipping details may vary depending on the platform where the product is listed.
       </p>
-      <p>
-        The final product information shown on the sales platform at the time of purchase controls the order.
-      </p>
+      <p>The final product information shown on the sales platform at the time of purchase controls the order.</p>
 
       <h2>5. Digital products</h2>
       <p>
@@ -219,9 +90,7 @@
         Returns, refunds, cancellations, replacements and order support are handled according to the policies displayed
         on the sales platform where the purchase is made.
       </p>
-      <p>
-        For Etsy purchases, please refer to the specific Etsy listing and shop policies available at the time of purchase.
-      </p>
+      <p>For Etsy purchases, please refer to the specific Etsy listing and shop policies available at the time of purchase.</p>
 
       <h2>8. Intellectual property</h2>
       <p>
@@ -251,7 +120,7 @@
 
       <h2>11. No warranties</h2>
       <p>
-        This website is provided on an “as available” basis. We do not guarantee that the website will be uninterrupted,
+        This website is provided on an "as available" basis. We do not guarantee that the website will be uninterrupted,
         error-free, secure, or always available.
       </p>
 
@@ -265,23 +134,24 @@
       <h2>13. Changes to these terms</h2>
       <p>
         We may update these Terms of Service from time to time. Updates will be posted on this page with a revised
-        “Last updated” date.
+        "Last updated" date.
       </p>
 
       <h2>14. Contact</h2>
-      <p>
-        For questions about these terms, contact:
-        <strong>luminare.gallery@gmail.com</strong>
-      </p>
+      <p>For questions about these terms, contact: <strong>luminare.gallery@gmail.com</strong></p>
     </article>
   </main>
 
-  <footer>
-    <span>© 2026 Luminare Gallery</span>
-    <span>
-      <a href="/">Home</a> |
+  <footer class="site-footer">
+    <div>
+      <strong>Luminare Gallery</strong>
+      <p>Contact: <a href="mailto:luminare.gallery@gmail.com">luminare.gallery@gmail.com</a></p>
+    </div>
+    <nav class="footer-links" aria-label="Footer navigation">
+      <a href="https://www.etsy.com/shop/LuminareGallery" target="_blank" rel="noopener noreferrer">Etsy Shop</a>
       <a href="/privacy.html">Privacy Policy</a>
-    </span>
+      <a href="/terms.html">Terms of Service</a>
+    </nav>
   </footer>
 </body>
 </html>
