@@ -163,21 +163,40 @@ def fetch_sections():
     return {s["shop_section_id"]: s["title"] for s in resp.json().get("results", [])}
 
 
-def fetch_listing_image(listing_id):
-    """Returns the first image URL for a listing (570px), or empty string."""
-    try:
-        resp = requests.get(
-            f"{BASE_URL}/listings/{listing_id}/images",
-            headers=AUTH_HEADERS, timeout=15
-        )
-        if not resp.ok:
+def _pick_image(item, fallback_map):
+    """Return best image URL: embedded Images association first, then fallback_map."""
+    images = item.get("images") or []
+    if images:
+        img = images[0]
+        return img.get("url_570xN") or img.get("url_fullxfull") or ""
+    return fallback_map.get(item["listing_id"], "")
+
+
+def fetch_listing_image(listing_id, retries=3):
+    """Returns the first image URL for a listing (570px), or empty string.
+    Retries with backoff on rate-limit or network errors."""
+    import time
+    for attempt in range(retries + 1):
+        try:
+            resp = requests.get(
+                f"{BASE_URL}/listings/{listing_id}/images",
+                headers=AUTH_HEADERS, timeout=15
+            )
+            if resp.status_code == 429:
+                time.sleep(2 ** attempt)   # 1s, 2s, 4s
+                continue
+            if not resp.ok:
+                return listing_id, ""
+            results = resp.json().get("results", [])
+            if results:
+                return listing_id, results[0].get("url_570xN") or results[0].get("url_fullxfull") or ""
             return listing_id, ""
-        results = resp.json().get("results", [])
-        if results:
-            return listing_id, results[0].get("url_570xN") or results[0].get("url_fullxfull") or ""
-        return listing_id, ""
-    except Exception:
-        return listing_id, ""
+        except Exception:
+            if attempt < retries:
+                import time as _t; _t.sleep(1)
+            else:
+                return listing_id, ""
+    return listing_id, ""
 
 
 def fetch_all_listings(sections):
@@ -186,7 +205,15 @@ def fetch_all_listings(sections):
         resp = requests.get(
             f"{BASE_URL}/shops/{SHOP_ID}/listings/active",
             headers=AUTH_HEADERS,
-            params={"limit": limit, "offset": offset, "sort_on": "created", "sort_order": "desc"},
+            # includes[]=Images returns image objects alongside each listing
+            # so we don't need a separate per-listing image request
+            params=[
+                ("limit", limit),
+                ("offset", offset),
+                ("sort_on", "created"),
+                ("sort_order", "desc"),
+                ("includes[]", "Images"),
+            ],
             timeout=15,
         )
         resp.raise_for_status()
@@ -236,7 +263,8 @@ def build_products(raw_listings, sections, image_map):
             "price":       f"{amount:.2f}",
             "currency":    currency,
             "url":         item["url"],
-            "image_url":   image_map.get(item["listing_id"], ""),
+            # Prefer embedded Images association; fall back to separate fetch
+            "image_url":   _pick_image(item, image_map),
             "section":     section,
             "is_digital":  is_digital,
             "type":        product_type,
@@ -277,19 +305,22 @@ def main():
     raw = fetch_all_listings(sections)
     print(f"  {len(raw)} listings found")
 
-    print(f"Fetching images in parallel ({len(raw)} requests)...")
+    # Build fallback image_map for listings where includes[]=Images returned nothing
+    needs_fallback = [item for item in raw if not (item.get("images") or [])]
     image_map = {}
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = {executor.submit(fetch_listing_image, item["listing_id"]): item["listing_id"] for item in raw}
-        done = 0
-        for future in as_completed(futures):
-            lid, url = future.result()
-            image_map[lid] = url
-            done += 1
-            if done % 10 == 0:
-                print(f"  {done}/{len(raw)} images fetched...")
-    
-    with_img = sum(1 for u in image_map.values() if u)
+    if needs_fallback:
+        print(f"Fetching images separately for {len(needs_fallback)} listings (fallback)...")
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = {executor.submit(fetch_listing_image, item["listing_id"]): item["listing_id"] for item in needs_fallback}
+            done = 0
+            for future in as_completed(futures):
+                lid, url = future.result()
+                image_map[lid] = url
+                done += 1
+                if done % 10 == 0:
+                    print(f"  {done}/{len(needs_fallback)} images fetched...")
+
+    with_img = sum(1 for item in raw if _pick_image(item, image_map))
     print(f"  Images found: {with_img}/{len(raw)}")
 
     products = build_products(raw, sections, image_map)

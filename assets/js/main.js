@@ -150,7 +150,19 @@
     var opts = { silent: true };
     var sg = document.getElementById("shop-grid");
     var fg = document.getElementById("featured-grid");
-    if (sg) window.LuminareProducts.loadProducts(sg, null, opts);
+    if (sg) {
+      window.LuminareProducts.loadProducts(sg, null, opts).then(function () {
+        // Reapplica il filtro attivo dopo il refresh
+        if (!filterBar) return;
+        var activeBtn = filterBar.querySelector(".filter-button.is-active");
+        if (activeBtn && activeBtn.dataset.filter !== "all") {
+          var selected = activeBtn.dataset.filter;
+          sg.querySelectorAll(".product-card").forEach(function (card) {
+            card.hidden = card.dataset.category !== selected;
+          });
+        }
+      });
+    }
     if (fg) window.LuminareProducts.loadProducts(fg, 3, opts);
   }, 5 * 60 * 1000);
 
