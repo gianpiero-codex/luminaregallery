@@ -37,6 +37,7 @@ window.SITE_CONFIG = {
   ],
 
   categories: [
+    { slug: "digital-download",        label: "Digital Download",         i18nKey: "cat.digital-download" },
     { slug: "abstract-art",            label: "Abstract Art",             i18nKey: "cat.abstract-art" },
     { slug: "city-art",                label: "City Art",                 i18nKey: "cat.city-art" },
     { slug: "kitchen-wall-art",        label: "Kitchen Wall Art",         i18nKey: "cat.kitchen-wall-art" },

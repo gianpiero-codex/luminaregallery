@@ -144,4 +144,14 @@
     }
   }
 
+  // ── Auto-refresh ogni 5 minuti ─────────────────────────────────────
+  setInterval(function () {
+    if (!window.LuminareProducts) return;
+    var opts = { silent: true };
+    var sg = document.getElementById("shop-grid");
+    var fg = document.getElementById("featured-grid");
+    if (sg) window.LuminareProducts.loadProducts(sg, null, opts);
+    if (fg) window.LuminareProducts.loadProducts(fg, 3, opts);
+  }, 5 * 60 * 1000);
+
 })();

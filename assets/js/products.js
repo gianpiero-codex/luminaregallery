@@ -17,15 +17,26 @@
   }
 
   function renderCard(product) {
-    var section     = product.section || "Wall Art";
-    var catSlug     = slugify(section);
-    var priceLabel  = product.price && parseFloat(product.price) > 0
+    // Detect digital: explicit API field first, fallback to title keyword
+    var isDigital = product.is_digital === true ||
+                    product.type === "digital" ||
+                    (product.title || "").toLowerCase().indexOf("digital download") !== -1 ||
+                    (product.title || "").toLowerCase().indexOf("instant download") !== -1;
+
+    var section    = isDigital ? "Digital Download" : (product.section || "Wall Art");
+    var catSlug    = slugify(section);
+    var priceLabel = product.price && parseFloat(product.price) > 0
       ? product.currency + " " + product.price
       : "View on Etsy";
+
+    var badge = isDigital
+      ? '<span class="prod-badge prod-badge--digital" data-i18n="badge.digital">⬇ Digital Download</span>'
+      : '<span class="prod-badge prod-badge--print" data-i18n="badge.print">🖼 Print via Gelato</span>';
 
     var article = document.createElement("article");
     article.className        = "product-card";
     article.dataset.category = catSlug;
+    article.dataset.type     = isDigital ? "digital" : "print";
 
     article.innerHTML = [
       '<a class="product-link" href="' + esc(product.url) + '"',
@@ -35,7 +46,7 @@
       '    <img src="' + esc(product.image_url) + '" alt="' + esc(product.title) + '" loading="lazy" />',
       '  </div>',
       '  <div class="product-body">',
-      '    <p class="product-category">' + esc(section) + '</p>',
+      '    <div class="product-meta">' + badge + '<span class="product-category">' + esc(section) + '</span></div>',
       '    <h3 class="product-title">' + esc(product.title) + '</h3>',
       '    <p class="product-price">' + esc(priceLabel) + '</p>',
       '    <span class="button button-small" aria-hidden="true" data-i18n="product.view_on_etsy">View on Etsy</span>',
@@ -64,14 +75,17 @@
     return frag;
   }
 
-  function loadProducts(container, limit) {
+  function loadProducts(container, limit, opts) {
     if (!container) return Promise.resolve();
-
+    var silent  = (opts && opts.silent) || false;
     var skCount = limit || 8;
-    container.setAttribute("aria-busy", "true");
-    container.appendChild(renderSkeleton(skCount));
 
-    return fetch(PRODUCTS_URL)
+    if (!silent) {
+      container.setAttribute("aria-busy", "true");
+      container.appendChild(renderSkeleton(skCount));
+    }
+
+    return fetch(PRODUCTS_URL + "?_t=" + Date.now())
       .then(function (res) {
         if (!res.ok) throw new Error("HTTP " + res.status);
         return res.json();
@@ -97,6 +111,7 @@
         var frag = document.createDocumentFragment();
         products.forEach(function (p) { frag.appendChild(renderCard(p)); });
         container.appendChild(frag);
+        if (window.I18N) window.I18N.apply();
       })
       .catch(function (err) {
         console.error("LuminareProducts:", err);

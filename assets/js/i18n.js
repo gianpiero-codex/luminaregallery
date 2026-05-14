@@ -47,7 +47,9 @@
       "footer.shop": "Shop", "footer.about": "About",
       "footer.privacy": "Privacy Policy", "footer.terms": "Terms of Service",
       "about.eyebrow": "About", "about.title": "About Luminare Gallery",
-      "collections.page.eyebrow": "Browse", "collections.page.title": "All Collections"
+      "collections.page.eyebrow": "Browse", "collections.page.title": "All Collections",
+      "cat.digital-download": "Digital Download",
+      "badge.digital": "\u2b07 Digital Download", "badge.print": "\ud83d\uddbc Print via Gelato"
     },
 
     it: {
@@ -88,7 +90,9 @@
       "footer.shop": "Shop", "footer.about": "Chi siamo",
       "footer.privacy": "Privacy Policy", "footer.terms": "Termini di Servizio",
       "about.eyebrow": "Chi siamo", "about.title": "Chi \u00e8 Luminare Gallery",
-      "collections.page.eyebrow": "Sfoglia", "collections.page.title": "Tutte le Collezioni"
+      "collections.page.eyebrow": "Sfoglia", "collections.page.title": "Tutte le Collezioni",
+      "cat.digital-download": "Download Digitale",
+      "badge.digital": "\u2b07 Download Digitale", "badge.print": "\ud83d\uddbc Stampa via Gelato"
     },
 
     es: {
@@ -129,7 +133,9 @@
       "footer.shop": "Tienda", "footer.about": "Nosotros",
       "footer.privacy": "Pol\u00edtica de Privacidad", "footer.terms": "T\u00e9rminos de Servicio",
       "about.eyebrow": "Nosotros", "about.title": "Sobre Luminare Gallery",
-      "collections.page.eyebrow": "Explorar", "collections.page.title": "Todas las Colecciones"
+      "collections.page.eyebrow": "Explorar", "collections.page.title": "Todas las Colecciones",
+      "cat.digital-download": "Descarga Digital",
+      "badge.digital": "\u2b07 Descarga Digital", "badge.print": "\ud83d\uddbc Impresi\u00f3n via Gelato"
     },
 
     de: {
@@ -170,7 +176,9 @@
       "footer.shop": "Shop", "footer.about": "\u00dcber uns",
       "footer.privacy": "Datenschutz", "footer.terms": "Nutzungsbedingungen",
       "about.eyebrow": "\u00dcber uns", "about.title": "\u00dcber Luminare Gallery",
-      "collections.page.eyebrow": "St\u00f6bern", "collections.page.title": "Alle Kollektionen"
+      "collections.page.eyebrow": "St\u00f6bern", "collections.page.title": "Alle Kollektionen",
+      "cat.digital-download": "Digitaler Download",
+      "badge.digital": "\u2b07 Digitaler Download", "badge.print": "\ud83d\uddbc Druck via Gelato"
     },
 
     fr: {
@@ -211,7 +219,9 @@
       "footer.shop": "Boutique", "footer.about": "\u00c0 propos",
       "footer.privacy": "Politique de confidentialit\u00e9", "footer.terms": "Conditions d\u2019utilisation",
       "about.eyebrow": "\u00c0 propos", "about.title": "\u00c0 propos de Luminare Gallery",
-      "collections.page.eyebrow": "Parcourir", "collections.page.title": "Toutes les Collections"
+      "collections.page.eyebrow": "Parcourir", "collections.page.title": "Toutes les Collections",
+      "cat.digital-download": "T\u00e9l\u00e9chargement Num\u00e9rique",
+      "badge.digital": "\u2b07 T\u00e9l\u00e9chargement", "badge.print": "\ud83d\uddbc Impression via Gelato"
     }
 
   };
