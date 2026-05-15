@@ -11,7 +11,7 @@
 
     en: {
       "nav.home": "Home", "nav.shop": "Shop", "nav.collections": "Collections",
-      "nav.about": "About", "nav.visitors": "Visitors", "nav.etsy": "Etsy Shop",
+      "nav.about": "About", "nav.etsy": "Etsy Shop",
       "hero.eyebrow": "Etsy-first wall art catalog",
       "hero.title": "Readable wall art for warm, modern homes.",
       "hero.subtitle": "Luminare Gallery creates decorative prints designed for real rooms, thoughtful gifts, and easy Etsy purchasing.",
@@ -69,20 +69,13 @@
       "about.panel.item2": "Digital downloads for customers who prefer to print locally.",
       "about.panel.item3": "Warm, readable styles that work across farmhouse, modern, and eclectic rooms.",
       "about.panel.item4": "Faith-inspired, animal, Japanese, typography, and character art.",
-      "about.panel.item5": "All purchases completed securely through Etsy — no checkout on this site.",
-      "visitors.eyebrow": "Visitor Counter",
-      "visitors.title": "Live visits to Luminare Gallery.",
-      "visitors.subtitle": "A lightweight counter for public visits to the site. It does not use cookies or require a login.",
-      "visitors.total": "Total visits",
-      "visitors.today": "Today",
-      "visitors.loading": "Loading counter...",
-      "visitors.dashboard": "Open dashboard"
+      "about.panel.item5": "All purchases completed securely through Etsy — no checkout on this site."
 
     },
 
     it: {
       "nav.home": "Home", "nav.shop": "Shop", "nav.collections": "Collezioni",
-      "nav.about": "Chi siamo", "nav.visitors": "Visitatori", "nav.etsy": "Shop Etsy",
+      "nav.about": "Chi siamo", "nav.etsy": "Shop Etsy",
       "hero.eyebrow": "Stampe d\u2019arte su Etsy",
       "hero.title": "Arte da parete per case moderne e accoglienti.",
       "hero.subtitle": "Luminare Gallery crea stampe decorative pensate per stanze vere, regali speciali e acquisti facili su Etsy.",
@@ -140,20 +133,13 @@
       "about.panel.item2": "Download digitali per chi preferisce stampare localmente.",
       "about.panel.item3": "Stili caldi e leggibili, adatti ad ambienti farmhouse, moderni ed eclettici.",
       "about.panel.item4": "Arte ispirata alla fede, agli animali, al Giappone, alla tipografia e ai personaggi.",
-      "about.panel.item5": "Tutti gli acquisti sono completati in sicurezza su Etsy: nessun checkout su questo sito.",
-      "visitors.eyebrow": "Contatore visitatori",
-      "visitors.title": "Visite live a Luminare Gallery.",
-      "visitors.subtitle": "Un contatore leggero per le visite pubbliche al sito. Non usa cookie e non richiede login.",
-      "visitors.total": "Visite totali",
-      "visitors.today": "Oggi",
-      "visitors.loading": "Caricamento contatore...",
-      "visitors.dashboard": "Apri dashboard"
+      "about.panel.item5": "Tutti gli acquisti sono completati in sicurezza su Etsy: nessun checkout su questo sito."
 
     },
 
     es: {
       "nav.home": "Inicio", "nav.shop": "Tienda", "nav.collections": "Colecciones",
-      "nav.about": "Nosotros", "nav.visitors": "Visitantes", "nav.etsy": "Tienda Etsy",
+      "nav.about": "Nosotros", "nav.etsy": "Tienda Etsy",
       "hero.eyebrow": "Cat\u00e1logo de arte en Etsy",
       "hero.title": "Arte para paredes en hogares modernos y acogedores.",
       "hero.subtitle": "Luminare Gallery crea l\u00e1minas decorativas para habitaciones reales, regalos especiales y compras f\u00e1ciles en Etsy.",
@@ -211,20 +197,13 @@
       "about.panel.item2": "Descargas digitales para clientes que prefieren imprimir localmente.",
       "about.panel.item3": "Estilos cálidos y legibles que funcionan en espacios farmhouse, modernos y eclécticos.",
       "about.panel.item4": "Arte inspirado en la fe, animales, Japón, tipografía y personajes.",
-      "about.panel.item5": "Todas las compras se completan de forma segura en Etsy; no hay checkout en este sitio.",
-      "visitors.eyebrow": "Contador de visitantes",
-      "visitors.title": "Visitas en vivo a Luminare Gallery.",
-      "visitors.subtitle": "Un contador ligero para las visitas públicas al sitio. No usa cookies ni requiere inicio de sesión.",
-      "visitors.total": "Visitas totales",
-      "visitors.today": "Hoy",
-      "visitors.loading": "Cargando contador...",
-      "visitors.dashboard": "Abrir dashboard"
+      "about.panel.item5": "Todas las compras se completan de forma segura en Etsy; no hay checkout en este sitio."
 
     },
 
     de: {
       "nav.home": "Startseite", "nav.shop": "Shop", "nav.collections": "Kollektionen",
-      "nav.about": "\u00dcber uns", "nav.visitors": "Besucher", "nav.etsy": "Etsy-Shop",
+      "nav.about": "\u00dcber uns", "nav.etsy": "Etsy-Shop",
       "hero.eyebrow": "Wandkunst-Katalog auf Etsy",
       "hero.title": "Moderne Wandkunst f\u00fcr gem\u00fctliche Zuhause.",
       "hero.subtitle": "Luminare Gallery gestaltet dekorative Drucke f\u00fcr echte R\u00e4ume, durchdachte Geschenke und einfachen Etsy-Kauf.",
@@ -282,20 +261,13 @@
       "about.panel.item2": "Digitale Downloads für Kunden, die lokal drucken möchten.",
       "about.panel.item3": "Warme, gut lesbare Stile für Farmhouse-, moderne und eklektische Räume.",
       "about.panel.item4": "Von Glauben, Tieren, Japan, Typografie und Figuren inspirierte Kunst.",
-      "about.panel.item5": "Alle Käufe werden sicher über Etsy abgeschlossen; kein Checkout auf dieser Website.",
-      "visitors.eyebrow": "Besucherzähler",
-      "visitors.title": "Live-Besuche bei Luminare Gallery.",
-      "visitors.subtitle": "Ein leichter Zähler für öffentliche Website-Besuche. Er verwendet keine Cookies und erfordert keinen Login.",
-      "visitors.total": "Besuche gesamt",
-      "visitors.today": "Heute",
-      "visitors.loading": "Zähler wird geladen...",
-      "visitors.dashboard": "Dashboard öffnen"
+      "about.panel.item5": "Alle Käufe werden sicher über Etsy abgeschlossen; kein Checkout auf dieser Website."
 
     },
 
     fr: {
       "nav.home": "Accueil", "nav.shop": "Boutique", "nav.collections": "Collections",
-      "nav.about": "\u00c0 propos", "nav.visitors": "Visiteurs", "nav.etsy": "Boutique Etsy",
+      "nav.about": "\u00c0 propos", "nav.etsy": "Boutique Etsy",
       "hero.eyebrow": "Catalogue d\u2019art mural sur Etsy",
       "hero.title": "Art mural pour foyers modernes et chaleureux.",
       "hero.subtitle": "Luminare Gallery cr\u00e9e des imprim\u00e9s d\u00e9coratifs con\u00e7us pour de vraies pi\u00e8ces, des cadeaux r\u00e9fl\u00e9chis et des achats faciles sur Etsy.",
@@ -353,14 +325,7 @@
       "about.panel.item2": "Téléchargements numériques pour les clients qui préfèrent imprimer localement.",
       "about.panel.item3": "Styles chaleureux et lisibles adaptés aux intérieurs farmhouse, modernes et éclectiques.",
       "about.panel.item4": "Art inspiré par la foi, les animaux, le Japon, la typographie et les personnages.",
-      "about.panel.item5": "Tous les achats sont finalisés en toute sécurité sur Etsy ; pas de checkout sur ce site.",
-      "visitors.eyebrow": "Compteur de visiteurs",
-      "visitors.title": "Visites en direct de Luminare Gallery.",
-      "visitors.subtitle": "Un compteur léger pour les visites publiques du site. Il n’utilise pas de cookies et ne nécessite pas de connexion.",
-      "visitors.total": "Visites totales",
-      "visitors.today": "Aujourd’hui",
-      "visitors.loading": "Chargement du compteur...",
-      "visitors.dashboard": "Ouvrir le dashboard"
+      "about.panel.item5": "Tous les achats sont finalisés en toute sécurité sur Etsy ; pas de checkout sur ce site."
 
     }
 
