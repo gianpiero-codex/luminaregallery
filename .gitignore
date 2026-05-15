@@ -1,0 +1,25 @@
+# Secrets — mai committare
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.suo
+*.user
+
+# Node (se mai usato)
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
