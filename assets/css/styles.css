@@ -292,6 +292,10 @@ h3 {
   min-height: 100%;
 }
 
+.product-card[hidden] {
+  display: none;
+}
+
 .product-image {
   aspect-ratio: 4 / 5;
   background: var(--soft);
