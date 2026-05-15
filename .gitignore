@@ -23,3 +23,7 @@ __pycache__/
 *.pyo
 venv/
 .venv/
+
+# Documentazione e spec — private, solo in locale, mai su GitHub
+spec/
+doc/
