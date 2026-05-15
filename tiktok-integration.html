@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TikTok Integration | Luminare Gallery</title>
+  <meta name="description" content="How Luminare Gallery uses TikTok Login Kit and Content Posting API to share promotional wall art content." />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/assets/css/styles.css?v=5" />
+  <meta name="robots" content="noindex" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="brand" href="/index.html" aria-label="Luminare Gallery home">
+      <img class="brand-mark" src="/assets/brand/Luminare_Monogram_L_200.png" alt="" />
+      <span>Luminare Gallery</span>
+    </a>
+    <div class="header-controls">
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+      <a href="/index.html">Home</a>
+      <a href="/shop.html">Shop</a>
+      <a href="/about.html">About</a>
+      <a class="nav-etsy" href="https://www.etsy.com/shop/LuminareGallery" target="_blank" rel="noopener noreferrer">Etsy Shop</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="section-heading">
+        <p class="eyebrow">TikTok Integration</p>
+        <h1>How Luminare Gallery uses TikTok</h1>
+        <p>This page describes how Luminare Gallery integrates with TikTok&#8217;s developer platform for promotional content sharing.</p>
+      </div>
+
+      <div class="legal-content">
+
+        <h2>1. Purpose of the Integration</h2>
+        <p>Luminare Gallery uses <strong>TikTok Login Kit</strong> to authenticate its own TikTok creator account. This allows the studio to post promotional video content about its wall art products directly to its own TikTok profile.</p>
+        <p>The integration uses <strong>TikTok&#8217;s Content Posting API</strong> to upload videos as drafts to the Luminare Gallery TikTok account. All posts are reviewed and published manually by Luminare Gallery.</p>
+
+        <h2>2. What We Do</h2>
+        <ul>
+          <li>Authenticate the Luminare Gallery TikTok creator account using Login Kit (OAuth 2.0).</li>
+          <li>Upload promotional video content about Luminare Gallery wall art prints as drafts via the Content Posting API.</li>
+          <li>Review and manually publish drafts from within the TikTok app or Creator Studio.</li>
+        </ul>
+
+        <h2>3. What We Do Not Do</h2>
+        <ul>
+          <li>We do <strong>not</strong> access, collect, or store any data from third-party TikTok users.</li>
+          <li>We do <strong>not</strong> perform scraping, automated mass posting, or spam.</li>
+          <li>We do <strong>not</strong> post on behalf of any third party.</li>
+          <li>We do <strong>not</strong> use the integration for any purpose other than publishing Luminare Gallery&#8217;s own promotional content.</li>
+          <li>We do <strong>not</strong> sell, share, or monetise any data obtained through TikTok APIs.</li>
+        </ul>
+
+        <h2>4. Data Handling</h2>
+        <p>The only data obtained through the TikTok API is the OAuth access token required to authenticate the Luminare Gallery account. This token is stored securely, used solely for uploading content drafts, and is never shared with any third party.</p>
+        <p>No personal data belonging to TikTok users is collected, processed, or retained.</p>
+
+        <h2>5. Redirect URI</h2>
+        <p>This page (<code>https://luminaregallery.com/tiktok-integration.html</code>) is registered as the OAuth redirect URI for the Luminare Gallery TikTok developer application. It serves only as the callback endpoint during the authorisation flow and does not collect any user information.</p>
+
+        <h2>6. Contact</h2>
+        <p>For any questions about this integration, please contact: <a href="mailto:luminare.gallery@gmail.com">luminare.gallery@gmail.com</a></p>
+
+        <p style="margin-top: 2rem;">
+          <a href="/privacy.html">Privacy Policy</a> &nbsp;·&nbsp;
+          <a href="/terms.html">Terms of Service</a>
+        </p>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>Luminare Gallery</strong>
+      <p>Contact: <a href="mailto:luminare.gallery@gmail.com">luminare.gallery@gmail.com</a></p>
+    </div>
+    <nav class="footer-links" aria-label="Footer navigation">
+      <a href="https://www.etsy.com/shop/LuminareGallery" target="_blank" rel="noopener noreferrer">Etsy Shop</a>
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="/terms.html">Terms of Service</a>
+    </nav>
+  </footer>
+
+</body>
+</html>
