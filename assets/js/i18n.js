@@ -57,8 +57,9 @@
       "about.eyebrow": "About", "about.title": "About Luminare Gallery",
       "collections.page.eyebrow": "Browse", "collections.page.title": "All Collections",
       "cat.digital-download": "Digital Download",
-      "badge.digital": "\u2b07 Digital Download", "badge.print": "\ud83d\uddbc Print via Gelato"
-    },
+      "badge.digital": "\u2b07 Digital Download", "badge.print": "\ud83d\uddbc Print via Gelato",
+      "reviews.eyebrow": "Customer Reviews", "reviews.title": "What customers are saying.",
+      "reviews.cta": "Read all reviews on Etsy"
 
     it: {
       "nav.home": "Home", "nav.shop": "Shop", "nav.collections": "Collezioni",
@@ -108,8 +109,9 @@
       "about.eyebrow": "Chi siamo", "about.title": "Chi \u00e8 Luminare Gallery",
       "collections.page.eyebrow": "Sfoglia", "collections.page.title": "Tutte le Collezioni",
       "cat.digital-download": "Download Digitale",
-      "badge.digital": "\u2b07 Download Digitale", "badge.print": "\ud83d\uddbc Stampa via Gelato"
-    },
+      "badge.digital": "\u2b07 Download Digitale", "badge.print": "\ud83d\uddbc Stampa via Gelato",
+      "reviews.eyebrow": "Recensioni dei clienti", "reviews.title": "Cosa dicono i clienti.",
+      "reviews.cta": "Leggi tutte le recensioni su Etsy"
 
     es: {
       "nav.home": "Inicio", "nav.shop": "Tienda", "nav.collections": "Colecciones",
@@ -159,8 +161,9 @@
       "about.eyebrow": "Nosotros", "about.title": "Sobre Luminare Gallery",
       "collections.page.eyebrow": "Explorar", "collections.page.title": "Todas las Colecciones",
       "cat.digital-download": "Descarga Digital",
-      "badge.digital": "\u2b07 Descarga Digital", "badge.print": "\ud83d\uddbc Impresi\u00f3n via Gelato"
-    },
+      "badge.digital": "\u2b07 Descarga Digital", "badge.print": "\ud83d\uddbc Impresi\u00f3n via Gelato",
+      "reviews.eyebrow": "Rese\u00f1as de clientes", "reviews.title": "Lo que dicen los clientes.",
+      "reviews.cta": "Leer todas las rese\u00f1as en Etsy"
 
     de: {
       "nav.home": "Startseite", "nav.shop": "Shop", "nav.collections": "Kollektionen",
@@ -210,8 +213,9 @@
       "about.eyebrow": "\u00dcber uns", "about.title": "\u00dcber Luminare Gallery",
       "collections.page.eyebrow": "St\u00f6bern", "collections.page.title": "Alle Kollektionen",
       "cat.digital-download": "Digitaler Download",
-      "badge.digital": "\u2b07 Digitaler Download", "badge.print": "\ud83d\uddbc Druck via Gelato"
-    },
+      "badge.digital": "\u2b07 Digitaler Download", "badge.print": "\ud83d\uddbc Druck via Gelato",
+      "reviews.eyebrow": "Kundenbewertungen", "reviews.title": "Was Kunden sagen.",
+      "reviews.cta": "Alle Bewertungen auf Etsy lesen"
 
     fr: {
       "nav.home": "Accueil", "nav.shop": "Boutique", "nav.collections": "Collections",
@@ -261,8 +265,9 @@
       "about.eyebrow": "\u00c0 propos", "about.title": "\u00c0 propos de Luminare Gallery",
       "collections.page.eyebrow": "Parcourir", "collections.page.title": "Toutes les Collections",
       "cat.digital-download": "T\u00e9l\u00e9chargement Num\u00e9rique",
-      "badge.digital": "\u2b07 T\u00e9l\u00e9chargement", "badge.print": "\ud83d\uddbc Impression via Gelato"
-    }
+      "badge.digital": "\u2b07 T\u00e9l\u00e9chargement", "badge.print": "\ud83d\uddbc Impression via Gelato",
+      "reviews.eyebrow": "Avis clients", "reviews.title": "Ce que disent les clients.",
+      "reviews.cta": "Lire tous les avis sur Etsy"
 
   };
 

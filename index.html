@@ -5,13 +5,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Luminare Gallery | Wall Art Prints for Modern Homes</title>
   <meta name="description" content="Luminare Gallery creates decorative wall art prints for kitchens, bathrooms, animal lovers, faith spaces, and modern homes. Shop on Etsy." />
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://luminaregallery.com/" />
+  <meta property="og:title" content="Luminare Gallery | Wall Art Prints for Modern Homes" />
+  <meta property="og:description" content="Luminare Gallery creates decorative wall art prints for kitchens, bathrooms, animal lovers, faith spaces, and modern homes. Shop on Etsy." />
+  <meta property="og:image" content="https://luminaregallery.com/assets/banners/Luminare_Banner_Etsy_Master_3360x840.jpg" />
+  <meta property="og:image:width" content="3360" />
+  <meta property="og:image:height" content="840" />
+  <meta property="og:site_name" content="Luminare Gallery" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Luminare Gallery | Wall Art Prints for Modern Homes" />
+  <meta name="twitter:description" content="Luminare Gallery creates decorative wall art prints for kitchens, bathrooms, animal lovers, faith spaces, and modern homes. Shop on Etsy." />
+  <meta name="twitter:image" content="https://luminaregallery.com/assets/banners/Luminare_Banner_Etsy_Master_3360x840.jpg" />
   <link rel="icon" type="image/png" href="/favicon.png" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="stylesheet" href="/assets/css/styles.css?v=5" />
   <script src="/assets/js/site-config.js?v=5"></script>
   <script src="/assets/js/i18n.js?v=5"></script>
   <script src="/assets/js/products.js?v=5" defer></script>
+  <script src="/assets/js/reviews.js?v=1" defer></script>
   <script src="/assets/js/main.js?v=4" defer></script>
+  <!-- Schema.org -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Luminare Gallery",
+    "url": "https://luminaregallery.com",
+    "email": "luminare.gallery@gmail.com",
+    "description": "Luminare Gallery creates decorative wall art prints for kitchens, bathrooms, animal lovers, faith spaces, and modern homes.",
+    "sameAs": ["https://www.etsy.com/shop/LuminareGallery"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Luminare Gallery",
+    "url": "https://luminaregallery.com"
+  }
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -69,7 +104,7 @@
       </div>
     </section>
     <figure class="hero-banner">
-      <img src="/assets/banners/Luminare_Banner_Etsy_Master_3360x840.jpg" alt="Luminare Gallery wall art collection" />
+      <img src="/assets/banners/Luminare_Banner_Etsy_Master_3360x840.jpg" alt="Luminare Gallery wall art collection" loading="lazy" />
     </figure>
 
     <!-- COLLECTIONS ──────────────────────────────────────────────── -->
@@ -125,6 +160,18 @@
           <h3 data-i18n="why.homes.title">Made for homes</h3>
           <p data-i18n="why.homes.text">Artwork designed for modern rooms, everyday decorating, and giftable wall decor.</p>
         </div>
+      </div>
+    </section>
+
+    <!-- REVIEWS ────────────────────────────────────────────────────── -->
+    <section class="section reviews-section" id="reviews-section" hidden>
+      <div class="section-heading section-heading--centered">
+        <p class="eyebrow" data-i18n="reviews.eyebrow">Customer Reviews</p>
+        <h2 data-i18n="reviews.title">What customers are saying.</h2>
+      </div>
+      <div id="reviews-grid" class="reviews-grid" aria-live="polite"></div>
+      <div class="section-cta">
+        <a class="button button-secondary" href="https://www.etsy.com/shop/LuminareGallery#reviews" target="_blank" rel="noopener noreferrer" data-i18n="reviews.cta">Read all reviews on Etsy</a>
       </div>
     </section>
 

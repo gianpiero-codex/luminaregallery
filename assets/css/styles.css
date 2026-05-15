@@ -843,6 +843,61 @@ h3 {
 }
 
 /* ═══════════════════════════════════════════════
+   REVIEW CARDS
+═══════════════════════════════════════════════ */
+.reviews-section {
+  text-align: center;
+}
+
+.reviews-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  text-align: left;
+}
+
+.review-card {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  padding: 24px;
+}
+
+.review-stars {
+  color: #c8860a;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+
+.review-text {
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.65;
+  margin-bottom: 14px;
+}
+
+.review-author {
+  color: var(--accent-dark);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+@media (max-width: 980px) {
+  .reviews-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .reviews-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ═══════════════════════════════════════════════
    LANGUAGE SWITCHER
 ═══════════════════════════════════════════════ */
 .lang-switcher {
