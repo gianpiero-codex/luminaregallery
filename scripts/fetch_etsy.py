@@ -82,6 +82,16 @@ def save_tokens_to_env(access, refresh, expires):
     print("  .env updated")
 
 
+def save_tokens_for_actions(access, refresh, expires):
+    """Write refreshed tokens to /tmp/new_etsy_tokens.env for the Actions step to pick up."""
+    token_file = Path("/tmp/new_etsy_tokens.env")
+    token_file.write_text(
+        f"ETSY_ACCESS_TOKEN={access}\nETSY_REFRESH_TOKEN={refresh}\nETSY_TOKEN_EXPIRES_AT={expires}\n",
+        encoding="utf-8",
+    )
+    print("  New tokens written to /tmp/new_etsy_tokens.env")
+
+
 _access_token = ACCESS_TOKEN
 if is_token_expired(EXPIRES_AT):
     if not REFRESH_TOKEN:
@@ -89,6 +99,7 @@ if is_token_expired(EXPIRES_AT):
         sys.exit(1)
     _access_token, new_ref, new_exp = refresh_access_token(API_KEY, REFRESH_TOKEN)
     save_tokens_to_env(_access_token, new_ref, new_exp)
+    save_tokens_for_actions(_access_token, new_ref, new_exp)
 
 AUTH_HEADERS = {
     "x-api-key": ETSY_KEY_HEADER,

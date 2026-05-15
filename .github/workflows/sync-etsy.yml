@@ -31,12 +31,27 @@ jobs:
 
       - name: Fetch Etsy products
         env:
-          ETSY_API_KEY:       ${{ secrets.ETSY_API_KEY }}
-          ETSY_SHARED_SECRET: ${{ secrets.ETSY_SHARED_SECRET }}
-          ETSY_SHOP_ID:       ${{ secrets.ETSY_SHOP_ID }}
-          ETSY_ACCESS_TOKEN:  ${{ secrets.ETSY_ACCESS_TOKEN }}
-          ETSY_REFRESH_TOKEN: ${{ secrets.ETSY_REFRESH_TOKEN }}
+          ETSY_API_KEY:            ${{ secrets.ETSY_API_KEY }}
+          ETSY_SHARED_SECRET:      ${{ secrets.ETSY_SHARED_SECRET }}
+          ETSY_SHOP_ID:            ${{ secrets.ETSY_SHOP_ID }}
+          ETSY_ACCESS_TOKEN:       ${{ secrets.ETSY_ACCESS_TOKEN }}
+          ETSY_REFRESH_TOKEN:      ${{ secrets.ETSY_REFRESH_TOKEN }}
+          ETSY_TOKEN_EXPIRES_AT:   ${{ secrets.ETSY_TOKEN_EXPIRES_AT }}
         run: python scripts/fetch_etsy.py
+
+      - name: Update token secrets if refreshed
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN_FOR_SECRETS }}
+        run: |
+          if [ -f /tmp/new_etsy_tokens.env ]; then
+            source /tmp/new_etsy_tokens.env
+            gh secret set ETSY_ACCESS_TOKEN    --body "$ETSY_ACCESS_TOKEN"    --repo ${{ github.repository }}
+            gh secret set ETSY_REFRESH_TOKEN   --body "$ETSY_REFRESH_TOKEN"   --repo ${{ github.repository }}
+            gh secret set ETSY_TOKEN_EXPIRES_AT --body "$ETSY_TOKEN_EXPIRES_AT" --repo ${{ github.repository }}
+            echo "✓ GitHub Secrets aggiornati con nuovi token Etsy"
+          else
+            echo "Token non rinnovato, secrets invariati"
+          fi
 
       - name: Commit updated products.json
         run: |
