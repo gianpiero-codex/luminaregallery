@@ -23,8 +23,8 @@
                     (product.title || "").toLowerCase().indexOf("digital download") !== -1 ||
                     (product.title || "").toLowerCase().indexOf("instant download") !== -1;
 
-    var section    = isDigital ? "Digital Download" : (product.section || "Wall Art");
-    var catSlug    = slugify(section);
+    var catSlug = isDigital ? "digital-download" : "wall-art";
+    var section = isDigital ? "Digital Download" : "Wall Art";
     var priceLabel = product.price && parseFloat(product.price) > 0
       ? product.currency + " " + product.price
       : "View on Etsy";

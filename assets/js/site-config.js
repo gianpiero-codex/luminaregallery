@@ -37,14 +37,7 @@ window.SITE_CONFIG = {
   ],
 
   categories: [
-    { slug: "digital-download",        label: "Digital Download",         i18nKey: "cat.digital-download" },
-    { slug: "abstract-art",            label: "Abstract Art",             i18nKey: "cat.abstract-art" },
-    { slug: "city-art",                label: "City Art",                 i18nKey: "cat.city-art" },
-    { slug: "kitchen-wall-art",        label: "Kitchen Wall Art",         i18nKey: "cat.kitchen-wall-art" },
-    { slug: "faith-inspirational-art", label: "Faith & Inspirational Art", i18nKey: "cat.faith-inspirational-art" },
-    { slug: "bathroom-prints",         label: "Bathroom Prints",          i18nKey: "cat.bathroom-prints" },
-    { slug: "japanese-inspired-art",   label: "Japanese Inspired Art",    i18nKey: "cat.japanese-inspired-art" },
-    { slug: "animal-wall-art",         label: "Animal Wall Art",          i18nKey: "cat.animal-wall-art" },
-    { slug: "character-art",           label: "Character Art",            i18nKey: "cat.character-art" }
+    { slug: "wall-art",        label: "Wall Art",        i18nKey: "cat.wall-art" },
+    { slug: "digital-download", label: "Digital Download", i18nKey: "cat.digital-download" }
   ]
 };
