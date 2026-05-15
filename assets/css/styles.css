@@ -405,6 +405,33 @@ h3 {
   scroll-margin-top: 110px;
 }
 
+.bio-block {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.bio-block p {
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+}
+
+.contact-block {
+  max-width: 520px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-block h2 {
+  margin-bottom: 12px;
+}
+
+.contact-block p {
+  color: var(--muted);
+  margin-bottom: 28px;
+}
+
 .value-grid {
   display: grid;
   gap: 18px;
