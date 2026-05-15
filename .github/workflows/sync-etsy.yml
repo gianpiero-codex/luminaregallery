@@ -56,9 +56,15 @@ jobs:
             echo "Token non rinnovato"
           fi
 
-      - name: Commit updated products.json
+      - name: Commit updated data files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action [bot]"
-          git add assets/data/products.json
-          git diff --staged --quiet || (git commit -m "chore: update products.json [skip ci]" && git push)
+          git add assets/data/products.json assets/data/reviews.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update products.json [skip ci]"
+            git pull --rebase -X theirs
+            git push
+          else
+            echo "No changes to data files"
+          fi
