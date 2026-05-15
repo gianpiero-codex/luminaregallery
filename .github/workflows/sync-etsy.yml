@@ -1,16 +1,18 @@
 name: Sync Etsy Products
 
 # Requires GitHub repository secrets:
-#   ETSY_API_KEY      — Etsy API keystring
-#   ETSY_SHARED_SECRET — Etsy shared secret (needed for x-api-key header)
-#   ETSY_SHOP_ID      — numeric shop ID (e.g. 64473201)
-#   ETSY_ACCESS_TOKEN  — OAuth2 access token
-#   ETSY_REFRESH_TOKEN — OAuth2 refresh token
+#   ETSY_API_KEY         - Etsy API keystring
+#   ETSY_SHARED_SECRET   - Etsy shared secret
+#   ETSY_SHOP_ID         - numeric shop ID
+#   ETSY_ACCESS_TOKEN    - OAuth2 access token
+#   ETSY_REFRESH_TOKEN   - OAuth2 refresh token
+#   ETSY_TOKEN_EXPIRES_AT - token expiry timestamp
+#   GH_TOKEN_FOR_SECRETS - PAT with repo scope
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # ogni 30 minuti
-  workflow_dispatch:        # run manuale da GitHub Actions UI
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -31,26 +33,27 @@ jobs:
 
       - name: Fetch Etsy products
         env:
-          ETSY_API_KEY:            ${{ secrets.ETSY_API_KEY }}
-          ETSY_SHARED_SECRET:      ${{ secrets.ETSY_SHARED_SECRET }}
-          ETSY_SHOP_ID:            ${{ secrets.ETSY_SHOP_ID }}
-          ETSY_ACCESS_TOKEN:       ${{ secrets.ETSY_ACCESS_TOKEN }}
-          ETSY_REFRESH_TOKEN:      ${{ secrets.ETSY_REFRESH_TOKEN }}
-          ETSY_TOKEN_EXPIRES_AT:   ${{ secrets.ETSY_TOKEN_EXPIRES_AT }}
+          ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
+          ETSY_SHARED_SECRET: ${{ secrets.ETSY_SHARED_SECRET }}
+          ETSY_SHOP_ID: ${{ secrets.ETSY_SHOP_ID }}
+          ETSY_ACCESS_TOKEN: ${{ secrets.ETSY_ACCESS_TOKEN }}
+          ETSY_REFRESH_TOKEN: ${{ secrets.ETSY_REFRESH_TOKEN }}
+          ETSY_TOKEN_EXPIRES_AT: ${{ secrets.ETSY_TOKEN_EXPIRES_AT }}
         run: python scripts/fetch_etsy.py
 
       - name: Update token secrets if refreshed
+        if: always()
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN_FOR_SECRETS }}
         run: |
           if [ -f /tmp/new_etsy_tokens.env ]; then
-            source /tmp/new_etsy_tokens.env
-            gh secret set ETSY_ACCESS_TOKEN    --body "$ETSY_ACCESS_TOKEN"    --repo ${{ github.repository }}
-            gh secret set ETSY_REFRESH_TOKEN   --body "$ETSY_REFRESH_TOKEN"   --repo ${{ github.repository }}
-            gh secret set ETSY_TOKEN_EXPIRES_AT --body "$ETSY_TOKEN_EXPIRES_AT" --repo ${{ github.repository }}
-            echo "✓ GitHub Secrets aggiornati con nuovi token Etsy"
+            export $(cat /tmp/new_etsy_tokens.env | xargs)
+            gh secret set ETSY_ACCESS_TOKEN     --body "$ETSY_ACCESS_TOKEN"     --repo "${{ github.repository }}"
+            gh secret set ETSY_REFRESH_TOKEN    --body "$ETSY_REFRESH_TOKEN"    --repo "${{ github.repository }}"
+            gh secret set ETSY_TOKEN_EXPIRES_AT --body "$ETSY_TOKEN_EXPIRES_AT" --repo "${{ github.repository }}"
+            echo "Secrets aggiornati"
           else
-            echo "Token non rinnovato, secrets invariati"
+            echo "Token non rinnovato"
           fi
 
       - name: Commit updated products.json
