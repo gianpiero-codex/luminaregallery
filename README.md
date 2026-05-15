@@ -1,2 +1,2 @@
 # luminaregallery
-Description: Official web page for the LuminareGallery TikTok integration.
+Description: Official web page for the LuminareGallery.
