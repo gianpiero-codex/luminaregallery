@@ -59,7 +59,19 @@
       "cat.digital-download": "Digital Download",
       "badge.digital": "\u2b07 Digital Download", "badge.print": "\ud83d\uddbc Print via Gelato",
       "reviews.eyebrow": "Customer Reviews", "reviews.title": "What customers are saying.",
-      "reviews.cta": "Read all reviews on Etsy"
+      "reviews.cta": "Read all reviews on Etsy",
+      "collections.page.heading": "Wall art organized for easy Etsy browsing.",
+      "collections.page.subtitle": "Choose a collection to jump into the catalog, then open the product on Etsy for current formats, pricing, and availability.",
+      "collections.wall.text": "Decorative art prints for every room — kitchens, bathrooms, living spaces, and more.",
+      "collections.digital.text": "Instant-access files ready to print at home or at your local print shop.",
+      "about.panel.title": "What the catalog is built around",
+      "about.panel.item1": "Wall art prints for modern kitchens, bathrooms, and living spaces.",
+      "about.panel.item2": "Digital downloads for customers who prefer to print locally.",
+      "about.panel.item3": "Warm, readable styles that work across farmhouse, modern, and eclectic rooms.",
+      "about.panel.item4": "Faith-inspired, animal, Japanese, typography, and character art.",
+      "about.panel.item5": "All purchases completed securely through Etsy — no checkout on this site."
+
+    },
 
     it: {
       "nav.home": "Home", "nav.shop": "Shop", "nav.collections": "Collezioni",
@@ -111,7 +123,19 @@
       "cat.digital-download": "Download Digitale",
       "badge.digital": "\u2b07 Download Digitale", "badge.print": "\ud83d\uddbc Stampa via Gelato",
       "reviews.eyebrow": "Recensioni dei clienti", "reviews.title": "Cosa dicono i clienti.",
-      "reviews.cta": "Leggi tutte le recensioni su Etsy"
+      "reviews.cta": "Leggi tutte le recensioni su Etsy",
+      "collections.page.heading": "Arte da parete organizzata per sfogliare Etsy con facilità.",
+      "collections.page.subtitle": "Scegli una collezione per entrare nel catalogo, poi apri il prodotto su Etsy per formati, prezzi e disponibilità aggiornati.",
+      "collections.wall.text": "Stampe decorative per ogni stanza: cucine, bagni, zone living e molto altro.",
+      "collections.digital.text": "File subito disponibili, pronti da stampare a casa o presso una tipografia locale.",
+      "about.panel.title": "Su cosa è costruito il catalogo",
+      "about.panel.item1": "Stampe da parete per cucine, bagni e zone living moderne.",
+      "about.panel.item2": "Download digitali per chi preferisce stampare localmente.",
+      "about.panel.item3": "Stili caldi e leggibili, adatti ad ambienti farmhouse, moderni ed eclettici.",
+      "about.panel.item4": "Arte ispirata alla fede, agli animali, al Giappone, alla tipografia e ai personaggi.",
+      "about.panel.item5": "Tutti gli acquisti sono completati in sicurezza su Etsy: nessun checkout su questo sito."
+
+    },
 
     es: {
       "nav.home": "Inicio", "nav.shop": "Tienda", "nav.collections": "Colecciones",
@@ -163,7 +187,19 @@
       "cat.digital-download": "Descarga Digital",
       "badge.digital": "\u2b07 Descarga Digital", "badge.print": "\ud83d\uddbc Impresi\u00f3n via Gelato",
       "reviews.eyebrow": "Rese\u00f1as de clientes", "reviews.title": "Lo que dicen los clientes.",
-      "reviews.cta": "Leer todas las rese\u00f1as en Etsy"
+      "reviews.cta": "Leer todas las rese\u00f1as en Etsy",
+      "collections.page.heading": "Arte mural organizado para explorar Etsy con facilidad.",
+      "collections.page.subtitle": "Elige una colección para entrar en el catálogo y abre el producto en Etsy para ver formatos, precios y disponibilidad actualizados.",
+      "collections.wall.text": "Láminas decorativas para cada habitación: cocinas, baños, salas de estar y más.",
+      "collections.digital.text": "Archivos de acceso instantáneo listos para imprimir en casa o en tu imprenta local.",
+      "about.panel.title": "En qué se basa el catálogo",
+      "about.panel.item1": "Láminas de arte mural para cocinas, baños y salas modernas.",
+      "about.panel.item2": "Descargas digitales para clientes que prefieren imprimir localmente.",
+      "about.panel.item3": "Estilos cálidos y legibles que funcionan en espacios farmhouse, modernos y eclécticos.",
+      "about.panel.item4": "Arte inspirado en la fe, animales, Japón, tipografía y personajes.",
+      "about.panel.item5": "Todas las compras se completan de forma segura en Etsy; no hay checkout en este sitio."
+
+    },
 
     de: {
       "nav.home": "Startseite", "nav.shop": "Shop", "nav.collections": "Kollektionen",
@@ -215,7 +251,19 @@
       "cat.digital-download": "Digitaler Download",
       "badge.digital": "\u2b07 Digitaler Download", "badge.print": "\ud83d\uddbc Druck via Gelato",
       "reviews.eyebrow": "Kundenbewertungen", "reviews.title": "Was Kunden sagen.",
-      "reviews.cta": "Alle Bewertungen auf Etsy lesen"
+      "reviews.cta": "Alle Bewertungen auf Etsy lesen",
+      "collections.page.heading": "Wandkunst, übersichtlich sortiert zum einfachen Stöbern auf Etsy.",
+      "collections.page.subtitle": "Wähle eine Kollektion, öffne den Katalog und sieh dir das Produkt auf Etsy an, um aktuelle Formate, Preise und Verfügbarkeit zu prüfen.",
+      "collections.wall.text": "Dekorative Drucke für jeden Raum: Küchen, Badezimmer, Wohnbereiche und mehr.",
+      "collections.digital.text": "Sofort verfügbare Dateien zum Drucken zu Hause oder bei einer lokalen Druckerei.",
+      "about.panel.title": "Worauf der Katalog aufgebaut ist",
+      "about.panel.item1": "Wandkunst-Drucke für moderne Küchen, Badezimmer und Wohnbereiche.",
+      "about.panel.item2": "Digitale Downloads für Kunden, die lokal drucken möchten.",
+      "about.panel.item3": "Warme, gut lesbare Stile für Farmhouse-, moderne und eklektische Räume.",
+      "about.panel.item4": "Von Glauben, Tieren, Japan, Typografie und Figuren inspirierte Kunst.",
+      "about.panel.item5": "Alle Käufe werden sicher über Etsy abgeschlossen; kein Checkout auf dieser Website."
+
+    },
 
     fr: {
       "nav.home": "Accueil", "nav.shop": "Boutique", "nav.collections": "Collections",
@@ -267,18 +315,48 @@
       "cat.digital-download": "T\u00e9l\u00e9chargement Num\u00e9rique",
       "badge.digital": "\u2b07 T\u00e9l\u00e9chargement", "badge.print": "\ud83d\uddbc Impression via Gelato",
       "reviews.eyebrow": "Avis clients", "reviews.title": "Ce que disent les clients.",
-      "reviews.cta": "Lire tous les avis sur Etsy"
+      "reviews.cta": "Lire tous les avis sur Etsy",
+      "collections.page.heading": "Art mural organisé pour parcourir Etsy facilement.",
+      "collections.page.subtitle": "Choisissez une collection pour entrer dans le catalogue, puis ouvrez le produit sur Etsy pour consulter les formats, les prix et la disponibilité à jour.",
+      "collections.wall.text": "Impressions décoratives pour chaque pièce : cuisines, salles de bain, espaces de vie et plus encore.",
+      "collections.digital.text": "Fichiers disponibles instantanément, prêts à imprimer chez vous ou chez un imprimeur local.",
+      "about.panel.title": "Ce qui structure le catalogue",
+      "about.panel.item1": "Impressions murales pour cuisines, salles de bain et espaces de vie modernes.",
+      "about.panel.item2": "Téléchargements numériques pour les clients qui préfèrent imprimer localement.",
+      "about.panel.item3": "Styles chaleureux et lisibles adaptés aux intérieurs farmhouse, modernes et éclectiques.",
+      "about.panel.item4": "Art inspiré par la foi, les animaux, le Japon, la typographie et les personnages.",
+      "about.panel.item5": "Tous les achats sont finalisés en toute sécurité sur Etsy ; pas de checkout sur ce site."
+
+    }
 
   };
 
   // ── Core ──────────────────────────────────────────────────────────────────
   function detectBrowserLang() {
+    if (typeof navigator === "undefined") return null;
     var lang = ((navigator.language || navigator.userLanguage || "en")
       .substring(0, 2).toLowerCase());
     return LANGS.indexOf(lang) !== -1 ? lang : null;
   }
 
-  var currentLang = localStorage.getItem(LANG_KEY) || detectBrowserLang() || "en";
+  function getStoredLang() {
+    try {
+      if (typeof localStorage === "undefined") return null;
+      return localStorage.getItem(LANG_KEY);
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function storeLang(lang) {
+    try {
+      if (typeof localStorage !== "undefined") localStorage.setItem(LANG_KEY, lang);
+    } catch (e) {
+      // Language still changes for the current page even if storage is blocked.
+    }
+  }
+
+  var currentLang = getStoredLang() || detectBrowserLang() || "en";
 
   function t(key) {
     return (T[currentLang] && T[currentLang][key]) ||
@@ -286,6 +364,7 @@
   }
 
   function apply() {
+    if (typeof document === "undefined") return;
     document.documentElement.lang = currentLang;
 
     // textContent
@@ -317,17 +396,19 @@
   function setLang(lang) {
     if (LANGS.indexOf(lang) === -1) return;
     currentLang = lang;
-    localStorage.setItem(LANG_KEY, lang);
+    storeLang(lang);
     apply();
   }
 
   // Apply as early as possible to avoid flash of untranslated content
-  if (document.readyState === "loading") {
+  if (typeof document !== "undefined" && document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", apply);
   } else {
     apply();
   }
 
-  window.I18N = { t: t, setLang: setLang, getLang: function () { return currentLang; }, apply: apply };
+  if (typeof window !== "undefined") {
+    window.I18N = { t: t, setLang: setLang, getLang: function () { return currentLang; }, apply: apply };
+  }
 
 })();

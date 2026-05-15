@@ -8,6 +8,7 @@ Works locally (reads .env) and in GitHub Actions (reads env secrets).
 import json
 import os
 import sys
+import tempfile
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import Counter
@@ -83,8 +84,8 @@ def save_tokens_to_env(access, refresh, expires):
 
 
 def save_tokens_for_actions(access, refresh, expires):
-    """Write refreshed tokens to /tmp/new_etsy_tokens.env for the Actions step to pick up."""
-    token_file = Path("/tmp/new_etsy_tokens.env")
+    """Write refreshed tokens for the Actions step to pick up."""
+    token_file = Path(tempfile.gettempdir()) / "new_etsy_tokens.env"
     token_file.write_text(
         f"ETSY_ACCESS_TOKEN={access}\nETSY_REFRESH_TOKEN={refresh}\nETSY_TOKEN_EXPIRES_AT={expires}\n",
         encoding="utf-8",
