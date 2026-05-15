@@ -83,6 +83,50 @@
 
   // ── Filter bar (shop page) ──────────────────────────────────────────────
   var filterBar = document.getElementById("filter-bar");
+
+  // ── Pagination state ────────────────────────────────────────────────────
+  var PAGE_SIZE      = 12;
+  var _currentFilter = "all";
+  var _currentPage   = 0;
+  var _shopCards     = [];
+
+  function getFilteredCards() {
+    if (_currentFilter === "all") return _shopCards;
+    return _shopCards.filter(function (c) {
+      return c.dataset.category === _currentFilter;
+    });
+  }
+
+  function applyPage(skipScroll) {
+    var filtered   = getFilteredCards();
+    var totalPages = Math.ceil(filtered.length / PAGE_SIZE) || 1;
+    if (_currentPage >= totalPages) _currentPage = totalPages - 1;
+    var start = _currentPage * PAGE_SIZE;
+
+    _shopCards.forEach(function (c) { c.hidden = true; });
+    filtered.slice(start, start + PAGE_SIZE).forEach(function (c) { c.hidden = false; });
+    updatePagination(totalPages);
+
+    if (!skipScroll) {
+      var sg = document.getElementById("shop-grid");
+      if (sg) sg.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }
+
+  function updatePagination(totalPages) {
+    var paginationEl = document.getElementById("shop-pagination");
+    if (!paginationEl) return;
+    if (totalPages <= 1) { paginationEl.hidden = true; return; }
+    paginationEl.hidden = false;
+    var prevBtn = paginationEl.querySelector(".page-prev");
+    var nextBtn = paginationEl.querySelector(".page-next");
+    var info    = paginationEl.querySelector(".page-info");
+    if (prevBtn) prevBtn.disabled = _currentPage === 0;
+    if (nextBtn) nextBtn.disabled = _currentPage >= totalPages - 1;
+    if (info)    info.textContent = (_currentPage + 1) + " / " + totalPages;
+  }
+
+  // ── Build filter buttons ────────────────────────────────────────────────
   if (filterBar) {
     var cfg = window.SITE_CONFIG;
     if (cfg && cfg.categories) {
@@ -108,18 +152,31 @@
     filterBar.addEventListener("click", function (e) {
       var btn = e.target.closest("[data-filter]");
       if (!btn) return;
-      var selected = btn.dataset.filter;
-
+      _currentFilter = btn.dataset.filter;
+      _currentPage   = 0;
       filterBar.querySelectorAll(".filter-button").forEach(function (b) {
         b.classList.remove("is-active");
       });
       btn.classList.add("is-active");
+      if (_shopCards.length) applyPage();
+    });
+  }
 
-      var shopGrid = document.getElementById("shop-grid");
-      if (!shopGrid) return;
-      shopGrid.querySelectorAll(".product-card").forEach(function (card) {
-        card.hidden = selected !== "all" && card.dataset.category !== selected;
-      });
+  // ── Build pagination controls ───────────────────────────────────────────
+  var paginationEl = document.getElementById("shop-pagination");
+  if (paginationEl) {
+    paginationEl.innerHTML =
+      '<button type="button" class="page-btn page-prev" aria-label="Previous page">\u2190 Prev</button>' +
+      '<span class="page-info"></span>' +
+      '<button type="button" class="page-btn page-next" aria-label="Next page">Next \u2192</button>';
+
+    paginationEl.querySelector(".page-prev").addEventListener("click", function () {
+      if (_currentPage > 0) { _currentPage--; applyPage(); }
+    });
+    paginationEl.querySelector(".page-next").addEventListener("click", function () {
+      var filtered = getFilteredCards();
+      var totalPages = Math.ceil(filtered.length / PAGE_SIZE) || 1;
+      if (_currentPage < totalPages - 1) { _currentPage++; applyPage(); }
     });
   }
 
@@ -133,6 +190,8 @@
     var shopGrid = document.getElementById("shop-grid");
     if (shopGrid) {
       LuminareProducts.loadProducts(shopGrid, null).then(function () {
+        _shopCards = Array.from(shopGrid.querySelectorAll(".product-card"));
+        applyPage(true);
         // Apply ?filter= param after products are loaded
         var params = new URLSearchParams(window.location.search);
         var filterParam = params.get("filter");
@@ -152,15 +211,8 @@
     var fg = document.getElementById("featured-grid");
     if (sg) {
       window.LuminareProducts.loadProducts(sg, null, opts).then(function () {
-        // Reapplica il filtro attivo dopo il refresh
-        if (!filterBar) return;
-        var activeBtn = filterBar.querySelector(".filter-button.is-active");
-        if (activeBtn && activeBtn.dataset.filter !== "all") {
-          var selected = activeBtn.dataset.filter;
-          sg.querySelectorAll(".product-card").forEach(function (card) {
-            card.hidden = card.dataset.category !== selected;
-          });
-        }
+        _shopCards = Array.from(sg.querySelectorAll(".product-card"));
+        applyPage(true);
       });
     }
     if (fg) window.LuminareProducts.loadProducts(fg, 3, opts);

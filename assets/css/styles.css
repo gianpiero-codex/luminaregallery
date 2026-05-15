@@ -728,6 +728,7 @@ h3 {
 
 .footer-logo {
   border-radius: 50%;
+  filter: brightness(4);
   height: 42px;
   object-fit: cover;
   width: 42px;
@@ -746,6 +747,49 @@ h3 {
 
 .footer-social .social-icon-link:hover img {
   opacity: 1;
+}
+
+/* ═══════════════════════════════════════════════
+   PAGINATION
+═══════════════════════════════════════════════ */
+.pagination-bar {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin-top: 40px;
+  padding-bottom: 16px;
+}
+
+.page-btn {
+  background: transparent;
+  border: 1px solid var(--accent);
+  color: var(--accent-dark);
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 14px;
+  min-height: 40px;
+  padding: 8px 22px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.page-btn:hover:not(:disabled) {
+  background: var(--accent);
+  color: var(--paper);
+}
+
+.page-btn:disabled {
+  border-color: var(--border);
+  color: var(--muted);
+  cursor: default;
+  opacity: 0.45;
+}
+
+.page-info {
+  color: var(--muted);
+  font-size: 14px;
+  min-width: 80px;
+  text-align: center;
 }
 
 /* ═══════════════════════════════════════════════
