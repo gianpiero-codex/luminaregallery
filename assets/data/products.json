@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T03:42:30.908426+00:00",
+  "last_updated": "2026-05-16T06:24:15.666233+00:00",
   "shop_id": "64473201",
   "total": 74,
   "products": [
@@ -746,7 +746,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497426181/quiet-beacon-abstract-art-dark",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/df7fd0/8018248097/il_570xN.8018248097_atn8.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
