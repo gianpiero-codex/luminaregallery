@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-05-16T22:12:42.479122+00:00",
+  "last_updated": "2026-05-16T23:28:23.887645+00:00",
   "shop_id": "64473201",
-  "total": 74,
+  "total": 76,
   "products": [
+    {
+      "listing_id": 4506353528,
+      "title": "Funny Goose Toilet Print, Whimsical Bathroom Wall Art, Pink Powder Room Decor (Digital Download)",
+      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nA proud goose. A porcelain throne. A roll of pink toilet paper held with royal confidence.\n\nGoose on the Throne is a pla",
+      "price": "9.99",
+      "currency": "USD",
+      "url": "https://www.etsy.com/listing/4506353528/funny-goose-toilet-print-whimsical",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7eb8e4/8075483933/il_570xN.8075483933_h3fc.jpg",
+      "section": "Digital Download",
+      "is_digital": true,
+      "type": "digital",
+      "tags": [
+        "digital download",
+        "goose wall art",
+        "funny bathroom",
+        "toilet poster",
+        "goose poster",
+        "bathroom print",
+        "animal wall art",
+        "powder room art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4505844770,
       "title": "Vintage Guardian Angel Art Print, Christian Nursery Wall Art, Child Protection Poster (Digital Download)",
@@ -286,7 +309,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501190933/80s-jungle-soldier-poster-retro-action",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/9147fd/7995309230/il_570xN.7995309230_e3nn.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -539,7 +562,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498758220/silent-ronin-japanese-samurai-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/720fe8/7979337604/il_570xN.7979337604_epus.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -654,7 +677,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497955133/sydney-inner-suburb-street-australian",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/0d66c8/7994885844/il_570xN.7994885844_7rup.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1196,6 +1219,29 @@
         "red sun poster",
         "minimalist poster",
         "asian wall art"
+      ],
+      "quantity": 999
+    },
+    {
+      "listing_id": 4459865405,
+      "title": "Funny Goose Bathroom Wall Art Print, Vintage Toilet Poster, Whimsical Animal Decor, Pink Powder Room Art",
+      "description": "A proud goose. A porcelain throne. A roll of pink toilet paper held with royal confidence.\n\nGoose on the Throne is a playful vintage-style bathroom wall art print designed to bring humor, charm, and personality into gues",
+      "price": "24.90",
+      "currency": "USD",
+      "url": "https://www.etsy.com/listing/4459865405/dried-botanical-flower-wall-art-minimal",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/9be2ab/8075454997/il_570xN.8075454997_h44h.jpg",
+      "section": "Bathroom Prints",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "goose wall art",
+        "funny bathroom",
+        "toilet poster",
+        "goose poster",
+        "bathroom print",
+        "animal wall art",
+        "powder room art",
+        "quirky wall art"
       ],
       "quantity": 999
     },
