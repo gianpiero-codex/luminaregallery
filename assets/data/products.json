@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T22:28:42.938518+00:00",
+  "last_updated": "2026-05-17T23:33:13.969776+00:00",
   "shop_id": "64473201",
   "total": 78,
   "products": [
@@ -309,7 +309,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501193487/80s-jungle-soldier-poster-retro-action",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b117a7/8043251935/il_570xN.8043251935_r3h7.jpg",
       "section": "Character Art",
       "is_digital": false,
       "type": "print",
@@ -608,7 +608,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498695251/seashell-wall-art-minimal-coastal",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/52e210/8026918023/il_570xN.8026918023_tljp.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
