@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T14:05:43.118848+00:00",
+  "last_updated": "2026-05-17T15:38:27.982608+00:00",
   "shop_id": "64473201",
   "total": 76,
   "products": [
@@ -355,7 +355,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501140504/soho-corner-new-york-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/7202c6/8042854493/il_570xN.8042854493_i3yy.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -378,7 +378,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501119840/brick-alley-light-chicago-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/007720/7994787030/il_570xN.7994787030_8cdq.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
