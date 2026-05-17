@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T21:28:08.891164+00:00",
+  "last_updated": "2026-05-17T22:28:42.938518+00:00",
   "shop_id": "64473201",
   "total": 78,
   "products": [
@@ -263,7 +263,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501715725/basalt-under-oxidation-dark-abstract",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/02e06a/8046791843/il_570xN.8046791843_jv01.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -332,7 +332,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501190933/80s-jungle-soldier-poster-retro-action",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/9147fd/7995309230/il_570xN.7995309230_e3nn.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -608,7 +608,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498695251/seashell-wall-art-minimal-coastal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/52e210/8026918023/il_570xN.8026918023_tljp.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
