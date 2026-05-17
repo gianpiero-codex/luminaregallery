@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /tiktok-integration.html
 
 Sitemap: https://luminaregallery.com/sitemap.xml
