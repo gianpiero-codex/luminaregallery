@@ -1,0 +1,11 @@
+name = "luminare-visitor-counter"
+main = "src/worker.js"
+compatibility_date = "2026-05-19"
+
+# Replace this placeholder after running:
+# npx wrangler d1 create luminare_visitor_counter
+[[d1_databases]]
+binding = "DB"
+database_name = "luminare_visitor_counter"
+database_id = "REPLACE_WITH_CLOUDFLARE_D1_DATABASE_ID"
+
