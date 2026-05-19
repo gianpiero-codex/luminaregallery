@@ -3,7 +3,7 @@
 
   if (typeof window === "undefined" || typeof document === "undefined") return;
 
-  var API_URL = "https://visitor.6developer.com/visit";
+  var API_URL = "https://visitor.luminaregallery.com/visit";
   var SESSION_KEY = "luminare_visit_counted";
 
   function getDomain() {

@@ -66,7 +66,7 @@ npx wrangler deploy
 7. In Cloudflare DNS/routes, point:
 
 ```txt
-visitor.6developer.com/*
+visitor.luminaregallery.com/*
 ```
 
 to this Worker.
@@ -74,7 +74,7 @@ to this Worker.
 After deploy, these URLs should work:
 
 ```txt
-https://visitor.6developer.com/health
-https://visitor.6developer.com/stats?domain=luminaregallery.com
+https://visitor.luminaregallery.com/health
+https://visitor.luminaregallery.com/stats?domain=luminaregallery.com
 ```
 
