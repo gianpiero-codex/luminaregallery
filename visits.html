@@ -74,11 +74,7 @@
       "use strict";
 
       var DOMAIN = "luminaregallery.com";
-      var ENDPOINTS = [
-        "https://visitor.luminaregallery.com/stats?domain=" + encodeURIComponent(DOMAIN),
-        "https://visitor.luminaregallery.com/visits?domain=" + encodeURIComponent(DOMAIN),
-        "https://visitor.luminaregallery.com/summary?domain=" + encodeURIComponent(DOMAIN)
-      ];
+      var STATS_URL = "https://script.google.com/macros/s/AKfycbzgI89EH9Uc51H56u3dcKVElcC6o5b3wc-DveioXm13-IIRUxIXeA7cDnFLgN4KWWkUvQ/exec";
 
       function setText(id, value) {
         var el = document.getElementById(id);
@@ -131,33 +127,31 @@
         };
       }
 
-      function tryEndpoint(index) {
-        if (index >= ENDPOINTS.length) {
-          render({
-            domain: DOMAIN,
-            total: null,
-            today: null,
-            status: "unavailable",
-            source: null,
-            updated_at: new Date().toISOString()
-          });
-          return;
-        }
-
-        fetch(ENDPOINTS[index], { headers: { "Accept": "application/json" } })
-          .then(function (response) {
-            if (!response.ok) throw new Error("HTTP " + response.status);
-            return response.json();
-          })
-          .then(function (data) {
-            render(normalize(data, ENDPOINTS[index]));
-          })
-          .catch(function () {
-            tryEndpoint(index + 1);
-          });
+      function unavailable() {
+        render({
+          domain: DOMAIN,
+          total: null,
+          today: null,
+          status: "unavailable",
+          source: null,
+          updated_at: new Date().toISOString()
+        });
       }
 
-      tryEndpoint(0);
+      window.luminareVisitStatsCallback = function (data) {
+        render(normalize(data, STATS_URL));
+      };
+
+      var script = document.createElement("script");
+      script.src = STATS_URL
+        + "?action=stats&domain=" + encodeURIComponent(DOMAIN)
+        + "&callback=luminareVisitStatsCallback";
+      script.onerror = unavailable;
+      document.head.appendChild(script);
+      window.setTimeout(function () {
+        var data = window.LUMINARE_VISIT_STATS;
+        if (!data || data.status === "loading") unavailable();
+      }, 8000);
     })();
   </script>
 </body>

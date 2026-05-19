@@ -3,7 +3,7 @@
 
   if (typeof window === "undefined" || typeof document === "undefined") return;
 
-  var API_URL = "https://visitor.luminaregallery.com/visit";
+  var API_URL = "https://script.google.com/macros/s/AKfycbzgI89EH9Uc51H56u3dcKVElcC6o5b3wc-DveioXm13-IIRUxIXeA7cDnFLgN4KWWkUvQ/exec";
   var SESSION_KEY = "luminare_visit_counted";
 
   function getDomain() {
@@ -43,7 +43,8 @@
     markSessionVisit();
     return fetch(API_URL, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      mode: "no-cors",
+      keepalive: true,
       body: JSON.stringify({
         domain: domain,
         timezone: getTimezone(),
