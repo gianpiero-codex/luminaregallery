@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Luminare Gallery Visit Stats</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="stylesheet" href="/assets/css/styles.css?v=6" />
+  <style>
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    .visit-stats {
+      width: min(520px, 100%);
+      border: 1px solid rgba(200, 184, 130, 0.28);
+      border-radius: 8px;
+      padding: 24px;
+      background: rgba(20, 20, 20, 0.72);
+    }
+
+    .visit-stats h1 {
+      margin: 0 0 8px;
+      font-size: 1.4rem;
+    }
+
+    .visit-stats dl {
+      display: grid;
+      grid-template-columns: max-content 1fr;
+      gap: 8px 16px;
+      margin: 20px 0 0;
+    }
+
+    .visit-stats dt {
+      color: #c8b882;
+      font-weight: 700;
+    }
+
+    .visit-stats dd {
+      margin: 0;
+      word-break: break-word;
+    }
+
+    .visit-stats code {
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <main class="visit-stats" aria-live="polite">
+    <h1>Luminare Gallery Visit Stats</h1>
+    <p id="status">Loading visit statistics...</p>
+    <dl>
+      <dt>Domain</dt>
+      <dd id="domain">luminaregallery.com</dd>
+      <dt>Total</dt>
+      <dd id="total">n/d</dd>
+      <dt>Today</dt>
+      <dd id="today">n/d</dd>
+      <dt>Source</dt>
+      <dd id="source">n/d</dd>
+      <dt>Updated</dt>
+      <dd id="updated">n/d</dd>
+    </dl>
+    <script id="visit-stats-json" type="application/json">{"domain":"luminaregallery.com","total":null,"today":null,"status":"loading"}</script>
+  </main>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var DOMAIN = "luminaregallery.com";
+      var ENDPOINTS = [
+        "https://visitor.6developer.com/stats?domain=" + encodeURIComponent(DOMAIN),
+        "https://visitor.6developer.com/visits?domain=" + encodeURIComponent(DOMAIN),
+        "https://visitor.6developer.com/summary?domain=" + encodeURIComponent(DOMAIN)
+      ];
+
+      function setText(id, value) {
+        var el = document.getElementById(id);
+        if (el) el.textContent = value == null || value === "" ? "n/d" : String(value);
+      }
+
+      function pickNumber(data, keys) {
+        for (var i = 0; i < keys.length; i += 1) {
+          var value = data && data[keys[i]];
+          if (typeof value === "number" && isFinite(value)) return value;
+          if (typeof value === "string" && value.trim() !== "" && !isNaN(Number(value))) {
+            return Number(value);
+          }
+        }
+        return null;
+      }
+
+      function formatNumber(value) {
+        if (value == null) return "n/d";
+        try {
+          return new Intl.NumberFormat("it-IT").format(value);
+        } catch (e) {
+          return String(value);
+        }
+      }
+
+      function publish(payload) {
+        var json = document.getElementById("visit-stats-json");
+        window.LUMINARE_VISIT_STATS = payload;
+        if (json) json.textContent = JSON.stringify(payload);
+      }
+
+      function render(payload) {
+        setText("status", payload.status === "ok" ? "Visit statistics available." : "Visit statistics unavailable.");
+        setText("total", formatNumber(payload.total));
+        setText("today", formatNumber(payload.today));
+        setText("source", payload.source);
+        setText("updated", payload.updated_at);
+        publish(payload);
+      }
+
+      function normalize(data, source) {
+        return {
+          domain: DOMAIN,
+          total: pickNumber(data, ["total", "visits", "visitors", "count", "total_visits", "totalVisitors"]),
+          today: pickNumber(data, ["today", "visits_today", "today_visits", "daily", "daily_visits"]),
+          status: "ok",
+          source: source,
+          updated_at: new Date().toISOString()
+        };
+      }
+
+      function tryEndpoint(index) {
+        if (index >= ENDPOINTS.length) {
+          render({
+            domain: DOMAIN,
+            total: null,
+            today: null,
+            status: "unavailable",
+            source: null,
+            updated_at: new Date().toISOString()
+          });
+          return;
+        }
+
+        fetch(ENDPOINTS[index], { headers: { "Accept": "application/json" } })
+          .then(function (response) {
+            if (!response.ok) throw new Error("HTTP " + response.status);
+            return response.json();
+          })
+          .then(function (data) {
+            render(normalize(data, ENDPOINTS[index]));
+          })
+          .catch(function () {
+            tryEndpoint(index + 1);
+          });
+      }
+
+      tryEndpoint(0);
+    })();
+  </script>
+</body>
+</html>
