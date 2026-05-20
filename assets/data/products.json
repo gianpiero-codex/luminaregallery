@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T12:42:43.062543+00:00",
+  "last_updated": "2026-05-20T16:30:27.146106+00:00",
   "shop_id": "64473201",
   "total": 82,
   "products": [
@@ -447,7 +447,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501119840/brick-alley-light-chicago-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/007720/7994787030/il_570xN.7994787030_8cdq.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -585,7 +585,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4499390821/final-threshold-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/4889cf/7983709738/il_570xN.7983709738_q4hj.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
