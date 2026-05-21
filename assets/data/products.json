@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T15:57:39.163655+00:00",
+  "last_updated": "2026-05-21T18:07:08.623509+00:00",
   "shop_id": "64473201",
   "total": 84,
   "products": [
@@ -447,7 +447,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501133131/rue-cremieux-light-paris-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6e0b2a/8042875071/il_570xN.8042875071_8ls3.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
