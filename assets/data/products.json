@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:46:58.003619+00:00",
+  "last_updated": "2026-05-22T09:32:21.793366+00:00",
   "shop_id": "64473201",
   "total": 84,
   "products": [
@@ -240,7 +240,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503322592/compressed-time-dark-stone-mineral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e42d05/8056517967/il_570xN.8056517967_7t50.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -746,7 +746,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498357977/vintage-chicken-farmhouse-kitchen-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b1af35/8024605671/il_570xN.8024605671_n9lm.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
