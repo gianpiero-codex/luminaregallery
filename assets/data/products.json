@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T19:51:20.947179+00:00",
+  "last_updated": "2026-05-22T21:14:23.057018+00:00",
   "shop_id": "64473201",
   "total": 86,
   "products": [
@@ -447,7 +447,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501193487/80s-jungle-soldier-poster-retro-action",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b117a7/8043251935/il_570xN.8043251935_r3h7.jpg",
+      "image_url": "",
       "section": "Character Art",
       "is_digital": false,
       "type": "print",
@@ -1183,7 +1183,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4471927013/contained-radiance-minimal-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/da8782/8008699132/il_570xN.8008699132_5q50.jpg",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
