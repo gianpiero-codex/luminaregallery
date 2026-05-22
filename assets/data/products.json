@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T09:32:21.793366+00:00",
+  "last_updated": "2026-05-22T12:22:52.004093+00:00",
   "shop_id": "64473201",
   "total": 84,
   "products": [
@@ -240,7 +240,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503322592/compressed-time-dark-stone-mineral",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e42d05/8056517967/il_570xN.8056517967_7t50.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -631,7 +631,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4499390821/final-threshold-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/4889cf/7983709738/il_570xN.7983709738_q4hj.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
