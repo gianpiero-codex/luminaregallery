@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T18:39:03.002536+00:00",
+  "last_updated": "2026-05-24T20:08:13.034582+00:00",
   "shop_id": "64473201",
   "total": 88,
   "products": [
@@ -539,7 +539,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501119840/brick-alley-light-chicago-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/007720/7994787030/il_570xN.7994787030_8cdq.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -746,7 +746,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498695251/seashell-wall-art-minimal-coastal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/52e210/8026918023/il_570xN.8026918023_tljp.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1045,7 +1045,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497406301/shadow-axis-dark-abstract-geometric",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/dc99fa/7966666284/il_570xN.7966666284_czv8.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
