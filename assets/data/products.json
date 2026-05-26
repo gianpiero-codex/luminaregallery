@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-05-26T20:56:02.002221+00:00",
+  "last_updated": "2026-05-26T22:23:23.146559+00:00",
   "shop_id": "64473201",
-  "total": 90,
+  "total": 91,
   "products": [
+    {
+      "listing_id": 4511763805,
+      "title": "Japanese Ramen Cat Chef Art Print, Cute Animal Foodie Wall Art, Unframed Giclee Print",
+      "description": "Step into a world where culinary passion meets feline charm with this unique artwork. An endearing orange tabby cat, adorned in traditional Japanese chef attire and a classic hachimaki headband, proudly presents a steami",
+      "price": "24.90",
+      "currency": "USD",
+      "url": "https://www.etsy.com/listing/4511763805/japanese-ramen-cat-chef-art-print-cute",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e5f17a/8112723941/il_570xN.8112723941_gt0w.jpg",
+      "section": "Japanese Inspired Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "cat art",
+        "ramen print",
+        "japanese wall art",
+        "foodie gift",
+        "chef cat",
+        "animal print",
+        "kitchen decor",
+        "dining room art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4511748998,
       "title": "Vintage Cocktail Bar Matchbook Print, Retro Americana Lounge Art, Mid-Century Home Bar Decor (Instant Download)",
@@ -447,7 +470,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501715725/basalt-under-oxidation-dark-abstract",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/02e06a/8046791843/il_570xN.8046791843_jv01.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1022,7 +1045,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497427694/soho-corner-new-york-street-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/da3621/8042746705/il_570xN.8042746705_3e5l.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
