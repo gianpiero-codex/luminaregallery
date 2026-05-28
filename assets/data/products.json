@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T16:55:50.703754+00:00",
+  "last_updated": "2026-05-28T19:38:33.066128+00:00",
   "shop_id": "64473201",
   "total": 91,
   "products": [
@@ -562,7 +562,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501133131/rue-cremieux-light-paris-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6e0b2a/8042875071/il_570xN.8042875071_8ls3.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -677,7 +677,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501038709/shibuya-light-tokyo-night-architecture",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b8a3f0/7994349212/il_570xN.7994349212_kv77.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
