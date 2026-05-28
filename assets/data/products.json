@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T12:30:40.967008+00:00",
+  "last_updated": "2026-05-28T16:55:50.703754+00:00",
   "shop_id": "64473201",
   "total": 91,
   "products": [
@@ -677,7 +677,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501038709/shibuya-light-tokyo-night-architecture",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b8a3f0/7994349212/il_570xN.7994349212_kv77.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -907,7 +907,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497955133/sydney-inner-suburb-street-australian",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/0d66c8/7994885844/il_570xN.7994885844_7rup.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1114,7 +1114,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497406301/shadow-axis-dark-abstract-geometric",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/dc99fa/7966666284/il_570xN.7966666284_czv8.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
