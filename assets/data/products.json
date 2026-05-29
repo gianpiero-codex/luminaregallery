@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T22:15:19.201054+00:00",
+  "last_updated": "2026-05-29T23:50:07.989513+00:00",
   "shop_id": "64473201",
   "total": 93,
   "products": [
@@ -792,7 +792,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4499390821/final-threshold-museum-grade",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/4889cf/7983709738/il_570xN.7983709738_q4hj.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -861,7 +861,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498695251/seashell-wall-art-minimal-coastal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/52e210/8026918023/il_570xN.8026918023_tljp.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1482,7 +1482,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459918867/compressed-limestone-warm-neutral-stone",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/fbb532/7998860594/il_570xN.7998860594_ne0p.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
