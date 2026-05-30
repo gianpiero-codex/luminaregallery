@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T20:10:48.922201+00:00",
+  "last_updated": "2026-05-30T21:34:25.395012+00:00",
   "shop_id": "64473201",
   "total": 93,
   "products": [
@@ -815,7 +815,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498855151/crucifixion-of-jesus-christ-religious",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/85ec59/7980050902/il_570xN.7980050902_qxt5.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -884,7 +884,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498704472/seashell-wall-art-minimal-coastal",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/f1fbb1/8026937789/il_570xN.8026937789_h4zt.jpg",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
