@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T12:13:28.709648+00:00",
+  "last_updated": "2026-05-31T14:18:40.990432+00:00",
   "shop_id": "64473201",
   "total": 93,
   "products": [
@@ -332,7 +332,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4504617383/rustic-wooden-cross-print-christian",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/5a435c/8064406285/il_570xN.8064406285_70bf.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1367,7 +1367,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937467/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/048b5b/8052753216/il_570xN.8052753216_hqfa.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1390,7 +1390,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459936141/limestone-breath-neutral-mineral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/97b2ce/8052977110/il_570xN.8052977110_ddyk.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
