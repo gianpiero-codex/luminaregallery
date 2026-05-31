@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T18:45:02.962621+00:00",
+  "last_updated": "2026-05-31T20:13:19.041811+00:00",
   "shop_id": "64473201",
   "total": 93,
   "products": [
@@ -240,7 +240,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507799699/the-outlaw-digital-download-vintage",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/ec2b9d/8084903249/il_570xN.8084903249_1pf1.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -286,7 +286,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4506353528/funny-goose-toilet-print-whimsical",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7eb8e4/8075483933/il_570xN.8075483933_h3fc.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
