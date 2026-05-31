@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T05:04:11.827254+00:00",
+  "last_updated": "2026-05-31T08:27:25.356753+00:00",
   "shop_id": "64473201",
   "total": 93,
   "products": [
@@ -240,7 +240,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507799699/the-outlaw-digital-download-vintage",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/ec2b9d/8084903249/il_570xN.8084903249_1pf1.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1137,7 +1137,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497408557/golden-drift-abstract-light-wave-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/663f92/8018135897/il_570xN.8018135897_e8r9.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
