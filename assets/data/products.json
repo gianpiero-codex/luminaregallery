@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T17:17:31.914707+00:00",
+  "last_updated": "2026-06-04T19:36:59.116837+00:00",
   "shop_id": "64473201",
   "total": 94,
   "products": [
@@ -447,7 +447,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502666352/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/17995a/8064604086/il_570xN.8064604086_s88d.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -792,7 +792,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459357811/rue-cremieux-light-paris-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6612ce/8021839255/il_570xN.8021839255_79dw.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
