@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T10:51:02.985775+00:00",
+  "last_updated": "2026-06-04T13:59:15.174675+00:00",
   "shop_id": "64473201",
   "total": 94,
   "products": [
@@ -769,7 +769,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501021691/notting-hill-light-london-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/4844d1/7994209416/il_570xN.7994209416_292c.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -792,7 +792,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459357811/rue-cremieux-light-paris-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6612ce/8021839255/il_570xN.8021839255_79dw.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
