@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T07:06:43.690023+00:00",
+  "last_updated": "2026-06-04T10:51:02.985775+00:00",
   "shop_id": "64473201",
   "total": 94,
   "products": [
@@ -769,7 +769,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501021691/notting-hill-light-london-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/4844d1/7994209416/il_570xN.7994209416_292c.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1367,7 +1367,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459955323/strata-of-pressure-geological-stone-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/5903df/8004885142/il_570xN.8004885142_htnw.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1390,7 +1390,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937467/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/048b5b/8052753216/il_570xN.8052753216_hqfa.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
