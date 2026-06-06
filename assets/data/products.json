@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T17:42:40.793661+00:00",
+  "last_updated": "2026-06-06T19:27:33.030281+00:00",
   "shop_id": "64473201",
   "total": 95,
   "products": [
@@ -263,7 +263,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d52b18/8037587322/il_570xN.8037587322_1ia6.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1183,7 +1183,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497408557/golden-drift-abstract-light-wave-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/663f92/8018135897/il_570xN.8018135897_e8r9.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
