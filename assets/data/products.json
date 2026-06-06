@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T06:55:24.190011+00:00",
+  "last_updated": "2026-06-06T09:27:53.930775+00:00",
   "shop_id": "64473201",
   "total": 95,
   "products": [
@@ -953,7 +953,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498357977/vintage-chicken-farmhouse-kitchen-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b1af35/8024605671/il_570xN.8024605671_n9lm.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1390,7 +1390,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459955323/strata-of-pressure-geological-stone-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/5903df/8004885142/il_570xN.8004885142_htnw.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1413,7 +1413,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937467/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/048b5b/8052753216/il_570xN.8052753216_hqfa.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
