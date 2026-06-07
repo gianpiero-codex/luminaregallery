@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T14:29:20.152464+00:00",
+  "last_updated": "2026-06-07T15:54:09.999825+00:00",
   "shop_id": "64473201",
   "total": 95,
   "products": [
@@ -1022,7 +1022,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497952817/silent-contours-abstract-soft-light-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e74387/7973898372/il_570xN.7973898372_6mas.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1321,7 +1321,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4471939614/solar-chamber-minimal-architectural-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/286ade/8085459189/il_570xN.8085459189_gtpr.jpg",
+      "image_url": "",
       "section": "Japanese Inspired Art",
       "is_digital": false,
       "type": "print",
@@ -1344,7 +1344,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4471927013/contained-radiance-minimal-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/da8782/8008699132/il_570xN.8008699132_5q50.jpg",
+      "image_url": "",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
