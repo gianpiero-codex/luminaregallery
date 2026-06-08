@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T16:13:03.107129+00:00",
+  "last_updated": "2026-06-08T18:43:26.802778+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -263,7 +263,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4508586518/ramen-cat-night-shift-printable-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/edcdbd/8064715152/il_570xN.8064715152_5xm6.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -976,7 +976,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498704472/seashell-wall-art-minimal-coastal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/f1fbb1/8026937789/il_570xN.8026937789_h4zt.jpg",
+      "image_url": "",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
@@ -1045,7 +1045,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497955133/sydney-inner-suburb-street-australian",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/0d66c8/7994885844/il_570xN.7994885844_7rup.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
