@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-06-11T11:55:57.802500+00:00",
+  "last_updated": "2026-06-11T16:09:43.974021+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
+    {
+      "listing_id": 4455469593,
+      "title": "Final Threshold – Museum-Grade Architectural Neutral Abstract Fine Art Print (Archival Giclée)",
+      "description": "Final Threshold distills structural light into architectural equilibrium.\n\nDefined by controlled luminosity, precise geometry, and measured spatial tension, the composition creates depth through discipline rather than co",
+      "price": "27.90",
+      "currency": "USD",
+      "url": "https://www.etsy.com/listing/4455469593/final-threshold-museum-grade",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/299588/8003272355/il_570xN.8003272355_ey94.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "museum grade art",
+        "architectural print",
+        "neutral abstract",
+        "fine art print",
+        "modern luxury art",
+        "geometric wall art",
+        "minimalist wall art",
+        "vertical wall art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4518076828,
       "title": "Ascension of Jesus Christ Art Print, Angels, Sacred Gold Wall Decor (Digital Download)",
@@ -2208,29 +2231,6 @@
         "vertical art print",
         "geometric artwork",
         "gallery wall art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4455469593,
-      "title": "Final Threshold – Museum-Grade Architectural Neutral Abstract Fine Art Print (Archival Giclée)",
-      "description": "Final Threshold distills structural light into architectural equilibrium.\n\nDefined by controlled luminosity, precise geometry, and measured spatial tension, the composition creates depth through discipline rather than co",
-      "price": "27.90",
-      "currency": "USD",
-      "url": "https://www.etsy.com/listing/4455469593/final-threshold-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/299588/8003272355/il_570xN.8003272355_ey94.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "museum grade art",
-        "architectural print",
-        "neutral abstract",
-        "fine art print",
-        "modern luxury art",
-        "geometric wall art",
-        "minimalist wall art",
-        "vertical wall art"
       ],
       "quantity": 999
     }
