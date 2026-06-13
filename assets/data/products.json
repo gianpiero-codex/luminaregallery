@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-06-13T09:43:41.993694+00:00",
+  "last_updated": "2026-06-13T11:55:38.068567+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
+    {
+      "listing_id": 4456588931,
+      "title": "Quiet Beacon – Museum-Grade Atmospheric Abstract Fine Art Print (Archival Giclée)",
+      "description": "Quiet Beacon distills diffused light into vertical architectural presence.\n\nA restrained beam of warm luminosity emerges from layered shadow, shaping depth through subtle tonal transitions rather than contrast. The atmos",
+      "price": "27.90",
+      "currency": "USD",
+      "url": "https://www.etsy.com/listing/4456588931/quiet-beacon-museum-grade-atmospheric",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e61561/7955386082/il_570xN.7955386082_s0pe.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "forest abstract art",
+        "ethereal wall art",
+        "atmospheric art",
+        "neutral wall decor",
+        "minimalist wall art",
+        "vertical wall art",
+        "large wall art",
+        "modern wall decor"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4456312464,
       "title": "Stillwood – Museum-Grade Ethereal Forest Abstract Fine Art Print (Archival 12-Color Giclée)",
@@ -723,7 +746,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1114,7 +1137,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498758220/silent-ronin-japanese-samurai-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/720fe8/7979337604/il_570xN.7979337604_epus.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1137,7 +1160,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498695251/seashell-wall-art-minimal-coastal",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/52e210/8026918023/il_570xN.8026918023_tljp.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1275,7 +1298,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4497936849/trastevere-light-italian-street-art-warm",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/f92c5a/8021736741/il_570xN.8021736741_ly0a.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -2208,29 +2231,6 @@
         "vertical wall art",
         "large wall art",
         "contemporary art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456588931,
-      "title": "Quiet Beacon – Museum-Grade Atmospheric Abstract Fine Art Print (Archival Giclée)",
-      "description": "Quiet Beacon distills diffused light into vertical architectural presence.\n\nA restrained beam of warm luminosity emerges from layered shadow, shaping depth through subtle tonal transitions rather than contrast. The atmos",
-      "price": "27.90",
-      "currency": "USD",
-      "url": "https://www.etsy.com/listing/4456588931/quiet-beacon-museum-grade-atmospheric",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e61561/7955386082/il_570xN.7955386082_s0pe.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "forest abstract art",
-        "ethereal wall art",
-        "atmospheric art",
-        "neutral wall decor",
-        "minimalist wall art",
-        "vertical wall art",
-        "large wall art",
-        "modern wall decor"
       ],
       "quantity": 999
     }
