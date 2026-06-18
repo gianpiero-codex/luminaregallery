@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T19:31:41.604238+00:00",
+  "last_updated": "2026-06-18T22:13:02.733995+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -470,7 +470,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4509715667/midnight-pizza-club-poster-vintage-pizza",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b4ef7c/8050029458/il_570xN.8050029458_3hl7.jpg",
+      "image_url": "",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1160,7 +1160,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4498855151/crucifixion-of-jesus-christ-religious",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/85ec59/7980050902/il_570xN.7980050902_qxt5.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
