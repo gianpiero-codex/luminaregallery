@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T16:58:52.878844+00:00",
+  "last_updated": "2026-06-19T19:03:31.752124+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -286,7 +286,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4457185481/soho-corner-new-york-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/925c90/8003431265/il_570xN.8003431265_l5ys.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -907,7 +907,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4506353528/funny-goose-toilet-print-whimsical",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7eb8e4/8075483933/il_570xN.8075483933_h3fc.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1068,7 +1068,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
