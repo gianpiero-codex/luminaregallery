@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T20:52:24.118302+00:00",
+  "last_updated": "2026-06-19T22:06:21.129860+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -769,7 +769,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4509687250/vintage-cocktail-bar-matchbook-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/45c80e/8097711933/il_570xN.8097711933_c8wk.jpg",
+      "image_url": "",
       "section": "Vintage America",
       "is_digital": false,
       "type": "print",
