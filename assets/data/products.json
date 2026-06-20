@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T17:54:53.987932+00:00",
+  "last_updated": "2026-06-20T19:41:31.859059+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -562,7 +562,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4457185481/soho-corner-new-york-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/925c90/8003431265/il_570xN.8003431265_l5ys.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1068,7 +1068,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4508586518/ramen-cat-night-shift-printable-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/edcdbd/8064715152/il_570xN.8064715152_5xm6.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
