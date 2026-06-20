@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T16:21:58.956746+00:00",
+  "last_updated": "2026-06-20T17:54:53.987932+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -1068,7 +1068,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4508586518/ramen-cat-night-shift-printable-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/edcdbd/8064715152/il_570xN.8064715152_5xm6.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1183,7 +1183,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4506353528/funny-goose-toilet-print-whimsical",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7eb8e4/8075483933/il_570xN.8075483933_h3fc.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
