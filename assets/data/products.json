@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T14:43:40.910779+00:00",
+  "last_updated": "2026-06-22T18:49:03.200866+00:00",
   "shop_id": "64473201",
   "total": 97,
   "products": [
@@ -1206,7 +1206,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4505844770/vintage-guardian-angel-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/8c07b8/8072067261/il_570xN.8072067261_s1yy.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1436,7 +1436,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501702462/mineral-drift-abstract-mineral-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/a7548c/7998590440/il_570xN.7998590440_ksx7.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
