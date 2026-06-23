@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T20:34:18.747703+00:00",
+  "last_updated": "2026-06-23T22:16:38.998068+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -746,7 +746,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456140794/afterglow-museum-grade-luminous-neutral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b2f9/8003321727/il_570xN.8003321727_7kew.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1091,7 +1091,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4508586518/ramen-cat-night-shift-printable-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/edcdbd/8064715152/il_570xN.8064715152_5xm6.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1367,7 +1367,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
