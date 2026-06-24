@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T19:56:43.998756+00:00",
+  "last_updated": "2026-06-24T21:27:02.171248+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -907,7 +907,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4514650876/the-smuggler-wall-art-print-vintage",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/fdb725/8085299808/il_570xN.8085299808_jhej.jpg",
       "section": "Character Art",
       "is_digital": false,
       "type": "print",
@@ -1528,7 +1528,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501133131/rue-cremieux-light-paris-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6e0b2a/8042875071/il_570xN.8042875071_8ls3.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1597,7 +1597,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501104367/los-angeles-after-hours-california-night",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/8847bc/8042683517/il_570xN.8042683517_3z6z.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
