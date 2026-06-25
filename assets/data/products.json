@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T08:24:54.106621+00:00",
+  "last_updated": "2026-06-25T11:16:28.122536+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -539,7 +539,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459363803/rue-cremieux-light-paris-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/dca62f/8028058071/il_570xN.8028058071_l21l.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -562,7 +562,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459360062/trastevere-light-rome-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3183a3/7973756816/il_570xN.7973756816_bhrc.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1137,7 +1137,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d52b18/8037587322/il_570xN.8037587322_1ia6.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
