@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T22:17:01.161626+00:00",
+  "last_updated": "2026-06-26T23:44:17.027735+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -585,7 +585,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4457185481/soho-corner-new-york-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/925c90/8003431265/il_570xN.8003431265_l5ys.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1298,7 +1298,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503348170/funny-rubber-duck-bathroom-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/712a62/8056656403/il_570xN.8056656403_8t62.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1321,7 +1321,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503322592/compressed-time-dark-stone-mineral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e42d05/8056517967/il_570xN.8056517967_7t50.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
