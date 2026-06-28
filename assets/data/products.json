@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T21:38:43.003765+00:00",
+  "last_updated": "2026-06-28T23:05:54.159463+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -194,7 +194,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459913807/basalt-under-oxidation-dark-abstract",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/475e7e/7998709046/il_570xN.7998709046_hj29.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -263,7 +263,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459875020/split-botanical-pod-wall-art-dark",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3bca83/8027240959/il_570xN.8027240959_tlls.jpg",
       "section": "Japanese Inspired Art",
       "is_digital": false,
       "type": "print",
