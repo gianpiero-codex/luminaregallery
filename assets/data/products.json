@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:40:49.159805+00:00",
+  "last_updated": "2026-06-28T12:17:43.733874+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -424,7 +424,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459423479/los-angeles-after-hours-california-night",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/bb26e1/7994862428/il_570xN.7994862428_rveu.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1068,7 +1068,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4509687250/vintage-cocktail-bar-matchbook-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/45c80e/8097711933/il_570xN.8097711933_c8wk.jpg",
+      "image_url": "",
       "section": "Vintage America",
       "is_digital": false,
       "type": "print",
@@ -1137,7 +1137,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d52b18/8037587322/il_570xN.8037587322_1ia6.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
