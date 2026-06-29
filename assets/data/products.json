@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T12:01:29.158625+00:00",
+  "last_updated": "2026-06-29T16:24:34.689212+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -1252,7 +1252,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4504617383/rustic-wooden-cross-print-christian",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/5a435c/8064406285/il_570xN.8064406285_70bf.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
