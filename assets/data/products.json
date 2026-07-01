@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T15:19:56.130557+00:00",
+  "last_updated": "2026-07-01T17:29:04.011327+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -125,7 +125,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459939386/compressed-time-dark-stone-mineral",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7dd987/8056145837/il_570xN.8056145837_tdv9.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -631,7 +631,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456588931/quiet-beacon-museum-grade-atmospheric",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e61561/7955386082/il_570xN.7955386082_s0pe.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -861,7 +861,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4518072552/ascension-of-jesus-christ-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/188ab7/8109318446/il_570xN.8109318446_fks2.jpg",
+      "image_url": "",
       "section": "Faith & Inspirational Art",
       "is_digital": false,
       "type": "print",
