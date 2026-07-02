@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:41:18.028589+00:00",
+  "last_updated": "2026-07-02T08:12:52.968284+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -1160,7 +1160,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507799699/the-outlaw-digital-download-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/ec2b9d/8084903249/il_570xN.8084903249_1pf1.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1321,7 +1321,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503322592/compressed-time-dark-stone-mineral",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e42d05/8056517967/il_570xN.8056517967_7t50.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1344,7 +1344,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502666352/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/17995a/8064604086/il_570xN.8064604086_s88d.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
