@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T23:39:15.757959+00:00",
+  "last_updated": "2026-07-03T03:31:40.105620+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -263,7 +263,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459875020/split-botanical-pod-wall-art-dark",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3bca83/8027240959/il_570xN.8027240959_tlls.jpg",
       "section": "Japanese Inspired Art",
       "is_digital": false,
       "type": "print",
@@ -1367,7 +1367,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
