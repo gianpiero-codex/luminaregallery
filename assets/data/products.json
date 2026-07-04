@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T22:34:35.154591+00:00",
+  "last_updated": "2026-07-04T00:07:26.947656+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -286,7 +286,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459865405/dried-botanical-flower-wall-art-minimal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/9be2ab/8075454997/il_570xN.8075454997_h44h.jpg",
+      "image_url": "",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
@@ -309,7 +309,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459473973/dry-embrace-dried-pod-botanical-fine-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c10527/8064360387/il_570xN.8064360387_dee9.jpg",
+      "image_url": "",
       "section": "Faith & Inspirational Art",
       "is_digital": false,
       "type": "print",
@@ -355,7 +355,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459455110/broken-globe-botanical-fragment-study",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/94f6a3/8031614781/il_570xN.8031614781_p0m0.jpg",
       "section": "Animal Wall Art",
       "is_digital": false,
       "type": "print",
