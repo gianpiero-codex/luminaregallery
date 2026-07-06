@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T22:32:32.973859+00:00",
+  "last_updated": "2026-07-06T00:09:40.013087+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -355,7 +355,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459455110/broken-globe-botanical-fragment-study",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/94f6a3/8031614781/il_570xN.8031614781_p0m0.jpg",
+      "image_url": "",
       "section": "Animal Wall Art",
       "is_digital": false,
       "type": "print",
@@ -700,7 +700,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456170069/solar-current-museum-grade-luminous",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/174d41/8003330435/il_570xN.8003330435_q13i.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1528,7 +1528,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501133131/rue-cremieux-light-paris-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6e0b2a/8042875071/il_570xN.8042875071_8ls3.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
