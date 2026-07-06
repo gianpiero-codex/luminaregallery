@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T22:15:20.007627+00:00",
+  "last_updated": "2026-07-06T23:38:41.144492+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -286,7 +286,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459865405/dried-botanical-flower-wall-art-minimal",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/9be2ab/8075454997/il_570xN.8075454997_h44h.jpg",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
@@ -654,7 +654,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456312464/stillwood-museum-grade-ethereal-forest",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6f0475/7955382622/il_570xN.7955382622_f1ys.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
