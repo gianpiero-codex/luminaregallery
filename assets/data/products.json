@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T00:09:40.013087+00:00",
+  "last_updated": "2026-07-06T04:52:17.031838+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -355,7 +355,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459455110/broken-globe-botanical-fragment-study",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/94f6a3/8031614781/il_570xN.8031614781_p0m0.jpg",
       "section": "Animal Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1436,7 +1436,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501715725/basalt-under-oxidation-dark-abstract",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/02e06a/8046791843/il_570xN.8046791843_jv01.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
