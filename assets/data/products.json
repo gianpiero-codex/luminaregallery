@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T16:37:50.016245+00:00",
+  "last_updated": "2026-07-06T18:57:08.978273+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -1160,7 +1160,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507799699/the-outlaw-digital-download-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/ec2b9d/8084903249/il_570xN.8084903249_1pf1.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1344,7 +1344,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502666352/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/17995a/8064604086/il_570xN.8064604086_s88d.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1367,7 +1367,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
