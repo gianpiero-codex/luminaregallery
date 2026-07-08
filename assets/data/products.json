@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T09:09:52.086268+00:00",
+  "last_updated": "2026-07-08T11:23:19.938442+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -907,7 +907,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4514650876/the-smuggler-wall-art-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/fdb725/8085299808/il_570xN.8085299808_jhej.jpg",
+      "image_url": "",
       "section": "Character Art",
       "is_digital": false,
       "type": "print",
@@ -1137,7 +1137,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d52b18/8037587322/il_570xN.8037587322_1ia6.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
