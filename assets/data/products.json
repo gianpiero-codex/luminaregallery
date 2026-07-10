@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T21:08:02.037546+00:00",
+  "last_updated": "2026-07-10T22:32:23.153475+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -401,7 +401,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459430306/hutong-corner-light-beijing",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/024785/7993452400/il_570xN.7993452400_g2wj.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -631,7 +631,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456588931/quiet-beacon-museum-grade-atmospheric",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e61561/7955386082/il_570xN.7955386082_s0pe.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
