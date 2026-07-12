@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T09:04:07.053019+00:00",
+  "last_updated": "2026-07-12T10:54:17.745989+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -585,7 +585,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4457185481/soho-corner-new-york-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/925c90/8003431265/il_570xN.8003431265_l5ys.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -608,7 +608,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456679606/nova-fold-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3fc0ba/8003347325/il_570xN.8003347325_29ei.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
