@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:15:20.986215+00:00",
+  "last_updated": "2026-07-15T20:34:25.945957+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -585,7 +585,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459416670/san-francisco-hill-residential",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c4732d/7983798080/il_570xN.7983798080_h9x8.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1068,7 +1068,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4511763805/japanese-ramen-cat-chef-art-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e5f17a/8112723941/il_570xN.8112723941_gt0w.jpg",
       "section": "Japanese Inspired Art",
       "is_digital": false,
       "type": "print",
