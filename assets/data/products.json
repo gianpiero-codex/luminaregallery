@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T20:34:25.945957+00:00",
+  "last_updated": "2026-07-15T22:03:34.948308+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -585,7 +585,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459416670/san-francisco-hill-residential",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/c4732d/7983798080/il_570xN.7983798080_h9x8.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -838,7 +838,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456140794/afterglow-museum-grade-luminous-neutral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b2f9/8003321727/il_570xN.8003321727_7kew.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1367,7 +1367,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503914585/red-mineral-abstract-wall-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c9276c/8060346601/il_570xN.8060346601_kdij.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
