@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T08:35:37.125451+00:00",
+  "last_updated": "2026-07-17T10:49:18.982990+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -562,7 +562,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459422376/los-angeles-after-hours-california-night",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/2d4d87/7990318374/il_570xN.7990318374_bly4.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
