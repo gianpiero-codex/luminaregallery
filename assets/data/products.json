@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T18:34:34.901412+00:00",
+  "last_updated": "2026-07-17T20:07:06.078207+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -309,7 +309,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459904219/mineral-drift-abstract-mineral-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/401bb8/7998575584/il_570xN.7998575584_5szh.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1643,7 +1643,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501140504/soho-corner-new-york-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7202c6/8042854493/il_570xN.8042854493_i3yy.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
