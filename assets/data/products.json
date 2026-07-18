@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T16:27:11.932878+00:00",
+  "last_updated": "2026-07-18T17:32:42.201230+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -493,7 +493,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459430306/hutong-corner-light-beijing",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/024785/7993452400/il_570xN.7993452400_g2wj.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1459,7 +1459,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
