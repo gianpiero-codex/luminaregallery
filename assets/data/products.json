@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T20:00:34.854781+00:00",
+  "last_updated": "2026-07-21T21:21:27.192647+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -700,7 +700,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456679606/nova-fold-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3fc0ba/8003347325/il_570xN.8003347325_29ei.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -723,7 +723,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456588931/quiet-beacon-museum-grade-atmospheric",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e61561/7955386082/il_570xN.7955386082_s0pe.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1160,7 +1160,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4509687250/vintage-cocktail-bar-matchbook-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/45c80e/8097711933/il_570xN.8097711933_c8wk.jpg",
       "section": "Vintage America",
       "is_digital": false,
       "type": "print",
