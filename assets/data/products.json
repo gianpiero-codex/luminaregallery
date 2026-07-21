@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T02:52:22.926990+00:00",
+  "last_updated": "2026-07-21T05:53:32.698482+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -240,7 +240,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937834/fractured-slate-dark-stone-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3cceaa/8001291286/il_570xN.8001291286_fuja.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -286,7 +286,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459913807/basalt-under-oxidation-dark-abstract",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/475e7e/7998709046/il_570xN.7998709046_hj29.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1367,7 +1367,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503914585/red-mineral-abstract-wall-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c9276c/8060346601/il_570xN.8060346601_kdij.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
