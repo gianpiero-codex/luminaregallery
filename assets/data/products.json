@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T12:58:57.760110+00:00",
+  "last_updated": "2026-07-22T15:09:40.803629+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -999,7 +999,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4514650876/the-smuggler-wall-art-print-vintage",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/fdb725/8085299808/il_570xN.8085299808_jhej.jpg",
       "section": "Character Art",
       "is_digital": false,
       "type": "print",
@@ -1505,7 +1505,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501735231/compressed-limestone-warm-neutral-stone",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d1beaf/8046804673/il_570xN.8046804673_4a5i.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
