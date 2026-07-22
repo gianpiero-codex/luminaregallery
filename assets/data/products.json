@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T16:56:03.188419+00:00",
+  "last_updated": "2026-07-22T18:10:10.880091+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -240,7 +240,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937834/fractured-slate-dark-stone-wall-art",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3cceaa/8001291286/il_570xN.8001291286_fuja.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -286,7 +286,7 @@
       "price": "27.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459913807/basalt-under-oxidation-dark-abstract",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/475e7e/7998709046/il_570xN.7998709046_hj29.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1413,7 +1413,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503322592/compressed-time-dark-stone-mineral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e42d05/8056517967/il_570xN.8056517967_7t50.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
