@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T20:14:53.591311+00:00",
+  "last_updated": "2026-07-23T21:35:32.817929+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -171,7 +171,7 @@
       "price": "24.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459936141/limestone-breath-neutral-mineral",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/97b2ce/8052977110/il_570xN.8052977110_ddyk.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -930,7 +930,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4518076828/ascension-of-jesus-christ-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/5d2295/8157242089/il_570xN.8157242089_ap2o.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
