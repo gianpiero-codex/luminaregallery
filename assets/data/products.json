@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T13:01:42.103080+00:00",
+  "last_updated": "2026-07-23T15:31:53.741601+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -1482,7 +1482,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502104589/fractured-slate-dark-stone-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/7bfe8f/8049229655/il_570xN.8049229655_ex75.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
