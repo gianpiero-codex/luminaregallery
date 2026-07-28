@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T07:15:16.012583+00:00",
+  "last_updated": "2026-07-28T10:08:29.982059+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -723,7 +723,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456679606/nova-fold-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3fc0ba/8003347325/il_570xN.8003347325_29ei.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -907,7 +907,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4455993315/shadow-axis-museum-grade-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b16f/8003318117/il_570xN.8003318117_94s3.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1022,7 +1022,7 @@
       "price": "9.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4512877574/ginger-cat-barista-art-print-espresso",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6f9fbf/8120415623/il_570xN.8120415623_6zwl.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
