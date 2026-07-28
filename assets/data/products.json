@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T21:39:44.725501+00:00",
+  "last_updated": "2026-07-28T23:01:50.842853+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -884,7 +884,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456041826/silent-contours-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/12af5f/8003313831/il_570xN.8003313831_hcu5.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
