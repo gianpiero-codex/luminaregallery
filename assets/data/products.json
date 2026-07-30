@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T21:43:47.944676+00:00",
+  "last_updated": "2026-07-30T23:10:10.965641+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -263,7 +263,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937834/fractured-slate-dark-stone-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3cceaa/8001291286/il_570xN.8001291286_fuja.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -976,7 +976,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4516582812/regal-tomato-king-fine-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c619c3/8146563605/il_570xN.8146563605_7yqk.jpg",
+      "image_url": "",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1022,7 +1022,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4512877574/ginger-cat-barista-art-print-espresso",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6f9fbf/8120415623/il_570xN.8120415623_6zwl.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
