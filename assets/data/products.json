@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T20:28:56.026107+00:00",
+  "last_updated": "2026-08-02T21:28:07.063507+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -631,7 +631,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459369940/notting-hill-light-london-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/52c916/8034523675/il_570xN.8034523675_pkaq.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -677,7 +677,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459360062/trastevere-light-rome-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3183a3/7973756816/il_570xN.7973756816_bhrc.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -976,7 +976,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4516582812/regal-tomato-king-fine-art-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/c619c3/8146563605/il_570xN.8146563605_7yqk.jpg",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
