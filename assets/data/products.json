@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T20:51:07.030747+00:00",
+  "last_updated": "2026-08-04T22:14:43.047650+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -585,7 +585,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459422376/los-angeles-after-hours-california-night",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/2d4d87/7990318374/il_570xN.7990318374_bly4.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -930,7 +930,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4518076828/ascension-of-jesus-christ-art-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/5d2295/8157242089/il_570xN.8157242089_ap2o.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
