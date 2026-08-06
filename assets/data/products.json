@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T12:03:55.087778+00:00",
+  "last_updated": "2026-08-06T14:54:15.024593+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -470,7 +470,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459455110/broken-globe-botanical-fragment-study",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/94f6a3/8031614781/il_570xN.8031614781_p0m0.jpg",
       "section": "Animal Wall Art",
       "is_digital": false,
       "type": "print",
@@ -562,7 +562,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459426986/brick-alley-light-chicago-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/4bc682/8034585513/il_570xN.8034585513_oljx.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -677,7 +677,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459360062/trastevere-light-rome-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3183a3/7973756816/il_570xN.7973756816_bhrc.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1224,8 +1224,8 @@
     },
     {
       "listing_id": 4507889872,
-      "title": "Midnight Ramen Club Art | Vintage Japanese Foodie Poster (Digital Download)",
-      "description": "Transform your kitchen or dining space with the vibrant energy of our &#39;Midnight Ramen Club&#39; printable wall art. This instant digital download captures the irresistible allure of a classic Japanese noodle shop, fe",
+      "title": "Midnight Ramen Club Digital Download | Vintage Japanese Ramen Poster | Printable Kitchen Wall Art | Retro Asian Food Art",
+      "description": "&#39;Midnight Ramen Club&#39; digital wall art draws from vintage Japanese food advertising, featuring a towering bowl of ramen beneath a glowing red sun. This printable Japanese noodle shop scene uses rich, nostalgic co",
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
@@ -1235,13 +1235,13 @@
       "type": "digital",
       "tags": [
         "ramen wall art",
-        "japanese food poster",
+        "japanese food art",
         "printable kitchen",
         "instant download",
-        "vintage ramen decor",
+        "vintage ramen",
         "digital food art",
-        "asian decor print",
-        "ramen bar decor"
+        "asian decor",
+        "ramen bar art"
       ],
       "quantity": 999
     },
