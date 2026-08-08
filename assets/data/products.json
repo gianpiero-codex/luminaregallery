@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T22:31:34.920049+00:00",
+  "last_updated": "2026-08-08T23:31:13.893308+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -102,7 +102,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4471923638/axis-of-restraint-minimal-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/f77a4b/8052741545/il_570xN.8052741545_cgqg.jpg",
+      "image_url": "",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -999,7 +999,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4514650876/the-smuggler-wall-art-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/fdb725/8085299808/il_570xN.8085299808_jhej.jpg",
+      "image_url": "",
       "section": "Character Art",
       "is_digital": false,
       "type": "print",
