@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T01:58:29.997636+00:00",
+  "last_updated": "2026-08-10T04:03:36.809687+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -1229,7 +1229,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/d52b18/8037587322/il_570xN.8037587322_1ia6.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1735,7 +1735,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501038709/shibuya-light-tokyo-night-architecture",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b8a3f0/7994349212/il_570xN.7994349212_kv77.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
