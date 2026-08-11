@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T13:54:53.718503+00:00",
+  "last_updated": "2026-08-11T15:00:08.890161+00:00",
   "shop_id": "64473201",
   "total": 98,
   "products": [
@@ -792,7 +792,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456294730/amber-compression-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/46b38f/7955378612/il_570xN.7955378612_elgu.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1298,7 +1298,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4506353528/funny-goose-toilet-print-whimsical",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/7eb8e4/8075483933/il_570xN.8075483933_h3fc.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1390,7 +1390,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503348170/funny-rubber-duck-bathroom-print-retro",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/712a62/8056656403/il_570xN.8056656403_8t62.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
