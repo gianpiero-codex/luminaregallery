@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-08-13T07:46:17.903928+00:00",
+  "last_updated": "2026-08-13T09:14:36.915273+00:00",
   "shop_id": "64473201",
-  "total": 100,
+  "total": 101,
   "products": [
+    {
+      "listing_id": 4555008819,
+      "title": "Entwined Souls Tree of Life Print by Tiziana Petrosino, Symbolic Woman Wall Art",
+      "description": "“Entwined Souls” originates from an original hand-painted artwork created on a physical canvas by artist Tiziana Petrosino. The original painting has been carefully digitized and professionally adapted for fine art print",
+      "price": "29.90",
+      "currency": "USD",
+      "url": "https://www.etsy.com/listing/4555008819/entwined-souls-tree-of-life-print-by",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/4cb309/8423989169/il_570xN.8423989169_jofl.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "intertwined souls",
+        "tree art",
+        "female figures",
+        "emotional bond",
+        "shared roots",
+        "love painting",
+        "handmade art",
+        "tiziana petrosino"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4553977842,
       "title": "Safe in Your Arms – Romantic Couple Fine Art Print, Colorful Beach Wall Art",
@@ -1482,7 +1505,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502666352/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/17995a/8064604086/il_570xN.8064604086_s88d.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1505,7 +1528,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
