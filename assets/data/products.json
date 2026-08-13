@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T09:14:36.915273+00:00",
+  "last_updated": "2026-08-13T10:37:09.026085+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -654,7 +654,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459422376/los-angeles-after-hours-california-night",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/2d4d87/7990318374/il_570xN.7990318374_bly4.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1459,7 +1459,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503348170/funny-rubber-duck-bathroom-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/712a62/8056656403/il_570xN.8056656403_8t62.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
