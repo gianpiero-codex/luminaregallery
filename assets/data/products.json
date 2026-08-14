@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T21:27:15.125050+00:00",
+  "last_updated": "2026-08-14T21:51:36.934385+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -746,7 +746,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459360062/trastevere-light-rome-architectural",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3183a3/7973756816/il_570xN.7973756816_bhrc.jpg",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1344,7 +1344,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4506772507/espresso-emergency-station-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/140690/8030544004/il_570xN.8030544004_rt3c.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
