@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T19:51:10.849124+00:00",
+  "last_updated": "2026-08-14T20:33:19.146987+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -424,7 +424,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459882946/dried-botanical-flower-wall-art-minimal",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3688e5/8030482192/il_570xN.8030482192_23xl.jpg",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1091,7 +1091,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4512877574/ginger-cat-barista-art-print-espresso",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6f9fbf/8120415623/il_570xN.8120415623_6zwl.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1574,7 +1574,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501735231/compressed-limestone-warm-neutral-stone",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d1beaf/8046804673/il_570xN.8046804673_4a5i.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
