@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T20:33:19.146987+00:00",
+  "last_updated": "2026-08-14T21:27:15.125050+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -746,7 +746,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459360062/trastevere-light-rome-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3183a3/7973756816/il_570xN.7973756816_bhrc.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -1091,7 +1091,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4512877574/ginger-cat-barista-art-print-espresso",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6f9fbf/8120415623/il_570xN.8120415623_6zwl.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
@@ -1574,7 +1574,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4501735231/compressed-limestone-warm-neutral-stone",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/d1beaf/8046804673/il_570xN.8046804673_4a5i.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
