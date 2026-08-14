@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T18:57:27.140871+00:00",
+  "last_updated": "2026-08-14T19:51:10.849124+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -424,7 +424,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459882946/dried-botanical-flower-wall-art-minimal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3688e5/8030482192/il_570xN.8030482192_23xl.jpg",
+      "image_url": "",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -792,7 +792,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456679606/nova-fold-museum-grade-luminous",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3fc0ba/8003347325/il_570xN.8003347325_29ei.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1022,7 +1022,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4518072552/ascension-of-jesus-christ-art-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/188ab7/8109318446/il_570xN.8109318446_fks2.jpg",
       "section": "Faith & Inspirational Art",
       "is_digital": false,
       "type": "print",
