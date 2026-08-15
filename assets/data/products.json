@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T18:32:37.787730+00:00",
+  "last_updated": "2026-08-15T19:22:39.710201+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -355,7 +355,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459918867/compressed-limestone-warm-neutral-stone",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/fbb532/7998860594/il_570xN.7998860594_ne0p.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1114,7 +1114,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4512858899/ginger-cat-barista-art-print-funny",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b24b82/8072392448/il_570xN.8072392448_2fhp.jpg",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
@@ -1321,7 +1321,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4507799699/the-outlaw-digital-download-vintage",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/ec2b9d/8084903249/il_570xN.8084903249_1pf1.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
