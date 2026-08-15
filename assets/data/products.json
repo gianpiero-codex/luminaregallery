@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T09:51:13.078735+00:00",
+  "last_updated": "2026-08-15T10:25:03.082151+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -470,7 +470,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459865405/dried-botanical-flower-wall-art-minimal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/9be2ab/8075454997/il_570xN.8075454997_h44h.jpg",
+      "image_url": "",
       "section": "Bathroom Prints",
       "is_digital": false,
       "type": "print",
@@ -631,7 +631,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459426986/brick-alley-light-chicago-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/4bc682/8034585513/il_570xN.8034585513_oljx.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
@@ -654,7 +654,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459422376/los-angeles-after-hours-california-night",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/2d4d87/7990318374/il_570xN.7990318374_bly4.jpg",
+      "image_url": "",
       "section": "City Art",
       "is_digital": false,
       "type": "print",
