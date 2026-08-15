@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T17:22:24.823999+00:00",
+  "last_updated": "2026-08-15T17:47:26.891158+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -516,7 +516,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459476302/nest-husk-organic-botanical-form-fine",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/eca02c/8027883141/il_570xN.8027883141_4p94.jpg",
       "section": "Faith & Inspirational Art",
       "is_digital": false,
       "type": "print",
@@ -539,7 +539,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459455110/broken-globe-botanical-fragment-study",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/94f6a3/8031614781/il_570xN.8031614781_p0m0.jpg",
       "section": "Animal Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1390,7 +1390,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4505844770/vintage-guardian-angel-art-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/8c07b8/8072067261/il_570xN.8072067261_s1yy.jpg",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
