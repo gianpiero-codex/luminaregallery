@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T05:26:46.103044+00:00",
+  "last_updated": "2026-08-15T05:52:41.923091+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -309,7 +309,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459939386/compressed-time-dark-stone-mineral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/7dd987/8056145837/il_570xN.8056145837_tdv9.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
