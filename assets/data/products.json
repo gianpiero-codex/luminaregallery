@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:49:35.959890+00:00",
+  "last_updated": "2026-08-15T15:22:56.171926+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -792,7 +792,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456679606/nova-fold-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3fc0ba/8003347325/il_570xN.8003347325_29ei.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
