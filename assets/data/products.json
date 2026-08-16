@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T19:22:32.122724+00:00",
+  "last_updated": "2026-08-16T19:45:28.945149+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -79,7 +79,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4455469593/final-threshold-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/299588/8003272355/il_570xN.8003272355_ey94.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
