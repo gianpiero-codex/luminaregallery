@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T14:25:27.184303+00:00",
+  "last_updated": "2026-08-16T14:49:54.174011+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -424,7 +424,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459882946/dried-botanical-flower-wall-art-minimal",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3688e5/8030482192/il_570xN.8030482192_23xl.jpg",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1436,7 +1436,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4503914585/red-mineral-abstract-wall-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c9276c/8060346601/il_570xN.8060346601_kdij.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
