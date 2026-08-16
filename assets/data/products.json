@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T03:50:10.886703+00:00",
+  "last_updated": "2026-08-16T04:37:43.816139+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -401,7 +401,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459904219/mineral-drift-abstract-mineral-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/401bb8/7998575584/il_570xN.7998575584_5szh.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -424,7 +424,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459882946/dried-botanical-flower-wall-art-minimal",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3688e5/8030482192/il_570xN.8030482192_23xl.jpg",
+      "image_url": "",
       "section": "Kitchen Wall Art",
       "is_digital": false,
       "type": "print",
@@ -1137,7 +1137,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4511763805/japanese-ramen-cat-chef-art-print",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e5f17a/8112723941/il_570xN.8112723941_gt0w.jpg",
       "section": "Japanese Inspired Art",
       "is_digital": false,
       "type": "print",
