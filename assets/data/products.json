@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T12:42:29.694200+00:00",
+  "last_updated": "2026-08-16T13:33:08.851913+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -309,7 +309,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459939386/compressed-time-dark-stone-mineral",
-      "image_url": "",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/7dd987/8056145837/il_570xN.8056145837_tdv9.jpg",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -907,7 +907,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4456166452/golden-drift-museum-grade-gold-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c90d76/8003326471/il_570xN.8003326471_4pxg.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
@@ -1367,7 +1367,7 @@
       "price": "8.99",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4506353528/funny-goose-toilet-print-whimsical",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/7eb8e4/8075483933/il_570xN.8075483933_h3fc.jpg",
+      "image_url": "",
       "section": "Digital Download",
       "is_digital": true,
       "type": "digital",
