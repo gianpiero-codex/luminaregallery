@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-08-17T22:26:13.123899+00:00",
+  "last_updated": "2026-08-17T22:51:48.936033+00:00",
   "shop_id": "64473201",
-  "total": 101,
+  "total": 102,
   "products": [
+    {
+      "listing_id": 4557694086,
+      "title": "Where My Soul Finds You Abstract Woman Wall Art, Colorful Spiritual Fine Art Print, Blue Gold Modern Decor",
+      "description": "Where My Soul Finds You is an expressive fine art print based on an original hand-painted artwork by Italian artist Tiziana Petrosino.\n\nA dark female silhouette rises through sweeping layers of blue, gold, red and radian",
+      "price": "32.34",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4557694086/where-my-soul-finds-you-abstract-woman",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/85a89a/8443683605/il_570xN.8443683605_7usy.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "abstract woman art",
+        "woman wall art",
+        "spiritual wall art",
+        "colorful wall art",
+        "blue gold wall art",
+        "female silhouette",
+        "expressive wall art",
+        "modern woman print"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4459936141,
       "title": "Limestone Breath – Neutral Mineral Abstract Wall Art Print",
