@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T04:44:21.623685+00:00",
+  "last_updated": "2026-08-17T05:36:41.012067+00:00",
   "shop_id": "64473201",
   "total": 101,
   "products": [
@@ -125,7 +125,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4471935361/frozen-threshold-minimal-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e6b5f0/8024122360/il_570xN.8024122360_kwld.jpg",
+      "image_url": "",
       "section": "Faith & Inspirational Art",
       "is_digital": false,
       "type": "print",
@@ -240,7 +240,7 @@
       "price": "29.90",
       "currency": "USD",
       "url": "https://www.etsy.com/listing/4459937467/iron-collapse-dark-stone-abstract-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/048b5b/8052753216/il_570xN.8052753216_hqfa.jpg",
+      "image_url": "",
       "section": "Abstract Art",
       "is_digital": false,
       "type": "print",
