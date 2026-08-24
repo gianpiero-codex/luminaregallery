@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-08-24T21:31:24.811423+00:00",
+  "last_updated": "2026-08-24T22:28:27.312174+00:00",
   "shop_id": "64473201",
-  "total": 102,
+  "total": 103,
   "products": [
+    {
+      "listing_id": 4561996344,
+      "title": "Child on Beach Art Print, Emotional Seascape Painting, Coastal Figurative Decor",
+      "description": "The &quot;Where the Light Finds You&quot; art print is a faithful reproduction of an original hand-painted artwork by Tiziana Petrosino. This piece captures a solitary figure in a red hood kneeling on a beach, accompanie",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4561996344/child-on-beach-art-print-sunset-ocean",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/29c27e/8427036424/il_570xN.8427036424_a2c2.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "child beach art",
+        "sunset wall art",
+        "ocean art print",
+        "beach wall art",
+        "emotional art",
+        "figurative print",
+        "coastal wall art",
+        "seascape art"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4557694086,
       "title": "Where My Soul Finds You Abstract Woman Wall Art, Colorful Spiritual Fine Art Print, Blue Gold Modern Decor",
