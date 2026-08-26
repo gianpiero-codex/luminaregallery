@@ -21,7 +21,7 @@
     it: {
       title: "Cookie e preferenze privacy",
       text: "Usiamo archiviazione essenziale del browser per ricordare le tue scelte. Con il tuo consenso, un contatore visite leggero invia percorso pagina, titolo, dominio e fuso orario al nostro endpoint Google Apps Script per statistiche aggregate del sito.",
-      accept: "Accetta analytics",
+      accept: "Accetta preferenze",
       reject: "Rifiuta analytics",
       privacy: "Privacy policy",
       settings: "Impostazioni cookie",
