@@ -1,8 +1,54 @@
 {
-  "last_updated": "2026-08-28T17:38:18.611618+00:00",
+  "last_updated": "2026-08-29T01:31:42.730202+00:00",
   "shop_id": "64473201",
-  "total": 59,
+  "total": 60,
   "products": [
+    {
+      "listing_id": 4564568674,
+      "title": "Geometric Abstract Print with Light and Shadow Interplay",
+      "description": "This abstract geometric print captures a dynamic interplay of light and shadow, featuring architectural forms that create depth and visual interest. Layers of dark and light tones intersect, evoking a sense of structured",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4564568674/geometric-abstract-print-with-light-and",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/67271d/8445748286/il_570xN.8445748286_9lwz.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "geometric art",
+        "abstract print",
+        "shadow play",
+        "modern wall art",
+        "minimalist decor",
+        "dark academia art",
+        "architectural print",
+        "abstract shapes"
+      ],
+      "quantity": 10989
+    },
+    {
+      "listing_id": 4564479005,
+      "title": "80s Jungle Soldier Printable Wall Art, Retro Action Movie Poster, Military Man Cave (Digital Download)",
+      "description": "Bring bold 1980s action-movie energy to your space with this cinematic jungle soldier printable wall art.\n\nDesigned for man caves, gaming rooms, home gyms, offices and retro-inspired interiors, this dramatic military art",
+      "price": "10.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4564479005/80s-jungle-soldier-printable-wall-art",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/8135c4/8493003521/il_570xN.8493003521_77ia.jpg",
+      "section": "Digital Download",
+      "is_digital": true,
+      "type": "digital",
+      "tags": [
+        "digital download",
+        "printable wall art",
+        "80s action art",
+        "jungle soldier",
+        "retro action poster",
+        "man cave decor",
+        "gaming room art",
+        "military wall art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4564343116,
       "title": "Minimalist Architecture Print, Warm Light Wall Art – Solar Chamber",
@@ -1265,29 +1311,6 @@
         "farmhouse decor",
         "coffee bar sign",
         "coffee lover gift"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4501193487,
-      "title": "80s Jungle Soldier Poster, Retro Action Movie, Cinematic Military Wall Art (Archival Giclée)",
-      "description": "Bring raw 80s action energy into your space with this cinematic jungle soldier wall art inspired by classic retro action movie aesthetics.\n\nFeaturing a muscular soldier surrounded by dense tropical foliage, dramatic ligh",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4501193487/80s-jungle-soldier-poster-retro-action",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b117a7/8043251935/il_570xN.8043251935_r3h7.jpg",
-      "section": "Character Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "80s action art",
-        "jungle soldier",
-        "retro action",
-        "action poster",
-        "man cave decor",
-        "gaming room art",
-        "military poster",
-        "action hero art"
       ],
       "quantity": 999
     },
