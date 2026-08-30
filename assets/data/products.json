@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-08-30T17:41:47.853918+00:00",
+  "last_updated": "2026-08-30T20:43:56.044867+00:00",
   "shop_id": "64473201",
-  "total": 60,
+  "total": 61,
   "products": [
+    {
+      "listing_id": 4565621792,
+      "title": "Abstract Geometric Wall Art, Minimalist Architectural Print, Modern Neutral Tone Art, Beige and Grey Structure",
+      "description": "This artwork presents a serene composition of geometric forms, featuring interlocking blocks and planes in subtle beige, taupe, and off-white tones. The interplay of light and shadow highlights the structured yet tranqui",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4565621792/abstract-geometric-wall-art-minimalist",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/264857/8501587521/il_570xN.8501587521_9etq.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "abstract wall art",
+        "geometric print",
+        "minimalist art",
+        "neutral decor",
+        "modern art print",
+        "architectural art",
+        "beige aesthetic",
+        "taupe art"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4496297513,
       "title": "French Bulldog Wall Art – Funny Dog with Sunglasses, Modern Animal Print (Digital Download)",
