@@ -1,8 +1,54 @@
 {
-  "last_updated": "2026-08-31T15:57:09.534832+00:00",
+  "last_updated": "2026-08-31T21:24:25.635300+00:00",
   "shop_id": "64473201",
-  "total": 61,
+  "total": 63,
   "products": [
+    {
+      "listing_id": 4566245166,
+      "title": "Sun and Moon Meditation Art Print, Cosmic Balance Wall Decor, Zen Celestial Artwork",
+      "description": "This art print shows a tranquil silhouette in deep meditation, holding the celestial bodies of the sun and moon. The backdrop features a starlit sky with a blend of fiery reds, vibrant oranges, and serene blues. This pie",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4566245166/sun-and-moon-meditation-art-print-cosmic",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e43548/8458385800/il_570xN.8458385800_s6r6.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "sun moon art",
+        "meditation print",
+        "zen wall art",
+        "cosmic balance",
+        "spiritual decor",
+        "celestial art",
+        "inner peace art",
+        "yoga studio art"
+      ],
+      "quantity": 10989
+    },
+    {
+      "listing_id": 4566205486,
+      "title": "Frozen Threshold Archway Print, Blue Minimalist Abstract Wall Art",
+      "description": "This print, titled &#39;Frozen Threshold,&#39; depicts a serene minimalist architectural scene. A bright, arched doorway glows at the end of a cool blue-toned corridor, with subtle light rays illuminating the floor. The",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4566205486/frozen-threshold-archway-print-blue",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/55180a/8458107504/il_570xN.8458107504_sk5c.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "minimalist art",
+        "blue wall art",
+        "archway print",
+        "abstract art",
+        "modern decor",
+        "serene artwork",
+        "light art",
+        "geometric print"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4565621792,
       "title": "Abstract Geometric Wall Art, Minimalist Architectural Print, Modern Neutral Tone Art, Beige and Grey Structure",
