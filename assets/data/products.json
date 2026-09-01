@@ -1,8 +1,77 @@
 {
-  "last_updated": "2026-09-01T19:28:59.661822+00:00",
+  "last_updated": "2026-09-01T21:57:30.589570+00:00",
   "shop_id": "64473201",
-  "total": 63,
+  "total": 66,
   "products": [
+    {
+      "listing_id": 4566941820,
+      "title": "Aurora Pulse Neon Star Print, Geometric Mandala Wall Art, Glowing Blue Turquoise Decor",
+      "description": "This vibrant print features the &#39;Aurora Pulse&#39; design, showcasing a mesmerizing geometric star radiating with neon blue and turquoise hues against a deep black background. Its intricate layers create a sense of d",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4566941820/aurora-pulse-neon-star-print-geometric",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3e95a8/8463679024/il_570xN.8463679024_n1in.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "neon star print",
+        "geometric wall art",
+        "mandala art",
+        "blue turquoise art",
+        "glowing decor",
+        "abstract star",
+        "vibrant art print",
+        "modern home decor"
+      ],
+      "quantity": 10989
+    },
+    {
+      "listing_id": 4566897365,
+      "title": "Contained Radiance Abstract Art Print, Minimalist Architectural Wall Decor",
+      "description": "Experience the serene beauty of Contained Radiance, an art print that draws you into an abstract architectural space. This piece features a striking composition of earthy terracotta tones, illuminated by a warm, solitary",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4566897365/contained-radiance-abstract-art-print",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e82be9/8463522270/il_570xN.8463522270_ketx.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "abstract art print",
+        "minimalist decor",
+        "terracotta art",
+        "warm light print",
+        "architectural art",
+        "modern wall art",
+        "geometric print",
+        "rust orange art"
+      ],
+      "quantity": 10989
+    },
+    {
+      "listing_id": 4566891336,
+      "title": "Prismatic Ascension Unicorn Art Print, Rainbow Mane Fantasy Wall Art",
+      "description": "This vibrant art print features a majestic white unicorn, its mane and tail flowing with brilliant rainbow hues, rearing dynamically against a striking dark background. The scene is illuminated by electric blue, magenta,",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4566891336/prismatic-ascension-unicorn-art-print",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b380e5/8511186327/il_570xN.8511186327_2l7p.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "unicorn art print",
+        "rainbow unicorn",
+        "fantasy wall art",
+        "mythical creature",
+        "colorful decor",
+        "vibrant artwork",
+        "dreamy art",
+        "magical print"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4566245166,
       "title": "Sun and Moon Meditation Art Print, Cosmic Balance Wall Decor, Zen Celestial Artwork",
@@ -51,7 +120,7 @@
     },
     {
       "listing_id": 4565621792,
-      "title": "Abstract Geometric Wall Art, Minimalist Architectural Print, Modern Neutral Tone Art, Beige and Grey Structure",
+      "title": "Minimalist Geometric Wall Art, Neutral Tone Architectural Print (Fine Art Paper)",
       "description": "This artwork presents a serene composition of geometric forms, featuring interlocking blocks and planes in subtle beige, taupe, and off-white tones. The interplay of light and shadow highlights the structured yet tranqui",
       "price": "27.00",
       "currency": "EUR",
