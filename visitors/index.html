@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visitors | Luminare Gallery</title>
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/assets/css/styles.css?v=6" />
+  <style>
+    body {
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: #111;
+    }
+
+    .visitor-panel {
+      width: min(680px, 100%);
+      padding: clamp(24px, 5vw, 44px);
+      border: 1px solid rgba(200, 184, 130, 0.28);
+      border-radius: 14px;
+      background: rgba(20, 20, 20, 0.92);
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.32);
+    }
+
+    .visitor-panel h1 {
+      margin: 0 0 8px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(30px, 5vw, 46px);
+    }
+
+    .visitor-subtitle,
+    .visitor-status {
+      color: #bdb6aa;
+    }
+
+    .visitor-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      margin: 28px 0 20px;
+    }
+
+    .visitor-card {
+      padding: 22px;
+      border: 1px solid rgba(200, 184, 130, 0.22);
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.035);
+    }
+
+    .visitor-card span {
+      display: block;
+      margin-bottom: 8px;
+      color: #c8b882;
+      font-size: 0.9rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .visitor-card strong {
+      display: block;
+      font-size: clamp(36px, 7vw, 64px);
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .visitor-meta {
+      margin-top: 24px;
+      padding-top: 18px;
+      border-top: 1px solid rgba(200, 184, 130, 0.16);
+      color: #8f887d;
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 560px) {
+      .visitor-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="visitor-panel" aria-live="polite">
+    <p class="eyebrow">Luminare Gallery</p>
+    <h1>Visitatori</h1>
+    <p class="visitor-subtitle">Statistiche lette dal contatore Google già collegato al sito.</p>
+
+    <div class="visitor-grid">
+      <section class="visitor-card" aria-label="Visite totali">
+        <span>Totale visite</span>
+        <strong id="visitor-total">—</strong>
+      </section>
+      <section class="visitor-card" aria-label="Visite di oggi">
+        <span>Oggi</span>
+        <strong id="visitor-today">—</strong>
+      </section>
+    </div>
+
+    <p class="visitor-status" id="visitor-status">Caricamento statistiche…</p>
+    <p class="visitor-meta" id="visitor-updated"></p>
+  </main>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var DOMAIN = "luminaregallery.com";
+      var STATS_URL = "https://script.google.com/macros/s/AKfycbzgI89EH9Uc51H56u3dcKVElcC6o5b3wc-DveioXm13-IIRUxIXeA7cDnFLgN4KWWkUvQ/exec";
+      var resolved = false;
+
+      function numberFrom(data, keys) {
+        for (var i = 0; i < keys.length; i += 1) {
+          var value = data && data[keys[i]];
+          if (typeof value === "number" && isFinite(value)) return value;
+          if (typeof value === "string" && value.trim() !== "" && !isNaN(Number(value))) return Number(value);
+        }
+        return null;
+      }
+
+      function formatNumber(value) {
+        if (value == null) return "n/d";
+        try { return new Intl.NumberFormat("it-IT").format(value); }
+        catch (e) { return String(value); }
+      }
+
+      function setText(id, value) {
+        var el = document.getElementById(id);
+        if (el) el.textContent = value;
+      }
+
+      function render(data) {
+        resolved = true;
+        var total = numberFrom(data, ["total", "visits", "visitors", "count", "total_visits", "totalVisitors"]);
+        var today = numberFrom(data, ["today", "visits_today", "today_visits", "daily", "daily_visits"]);
+
+        setText("visitor-total", formatNumber(total));
+        setText("visitor-today", formatNumber(today));
+        setText("visitor-status", total == null && today == null ? "Statistiche non disponibili." : "Statistiche disponibili.");
+        setText("visitor-updated", "Aggiornato: " + new Intl.DateTimeFormat("it-IT", {
+          dateStyle: "medium",
+          timeStyle: "medium"
+        }).format(new Date()));
+      }
+
+      function unavailable() {
+        if (resolved) return;
+        resolved = true;
+        setText("visitor-total", "n/d");
+        setText("visitor-today", "n/d");
+        setText("visitor-status", "Impossibile leggere le statistiche dal foglio Google.");
+        setText("visitor-updated", "");
+      }
+
+      window.luminareVisitorStatsCallback = render;
+
+      var script = document.createElement("script");
+      script.src = STATS_URL
+        + "?action=stats&domain=" + encodeURIComponent(DOMAIN)
+        + "&callback=luminareVisitorStatsCallback";
+      script.onerror = unavailable;
+      document.head.appendChild(script);
+
+      window.setTimeout(unavailable, 8000);
+    })();
+  </script>
+</body>
+</html>
