@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-03T19:21:49.158586+00:00",
+  "last_updated": "2026-09-03T21:49:45.372622+00:00",
   "shop_id": "64473201",
   "total": 66,
   "products": [
+    {
+      "listing_id": 4498357977,
+      "title": "Vintage Chicken – Farmhouse Kitchen Wall Art Printable (Instant Download)",
+      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nVintage Chicken brings a warm farmhouse touch to your kitchen, adding character and charm to your space in seconds.\n\nIns",
+      "price": "10.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4498357977/vintage-chicken-farmhouse-kitchen-wall",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b1af35/8024605671/il_570xN.8024605671_n9lm.jpg",
+      "section": "Digital Download",
+      "is_digital": true,
+      "type": "digital",
+      "tags": [
+        "farmhouse decor",
+        "kitchen wall art",
+        "chicken print",
+        "rooster wall art",
+        "rustic kitchen",
+        "vintage chicken",
+        "country decor",
+        "farmhouse art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4566941820,
       "title": "Aurora Pulse Neon Star Print, Geometric Mandala Wall Art, Glowing Blue Turquoise Decor",
@@ -1497,29 +1520,6 @@
         "city watercolor"
       ],
       "quantity": 998
-    },
-    {
-      "listing_id": 4498357977,
-      "title": "Vintage Chicken – Farmhouse Kitchen Wall Art Printable (Instant Download)",
-      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nVintage Chicken brings a warm farmhouse touch to your kitchen, adding character and charm to your space in seconds.\n\nIns",
-      "price": "10.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4498357977/vintage-chicken-farmhouse-kitchen-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b1af35/8024605671/il_570xN.8024605671_n9lm.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
-      "tags": [
-        "farmhouse decor",
-        "kitchen wall art",
-        "chicken print",
-        "rooster wall art",
-        "rustic kitchen",
-        "vintage chicken",
-        "country decor",
-        "farmhouse art"
-      ],
-      "quantity": 999
     }
   ]
 }
