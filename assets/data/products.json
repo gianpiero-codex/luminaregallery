@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-07T17:29:48.974922+00:00",
+  "last_updated": "2026-09-07T20:45:51.994447+00:00",
   "shop_id": "64473201",
   "total": 66,
   "products": [
+    {
+      "listing_id": 4459357811,
+      "title": "Rue Crémieux Light – Paris Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
+      "description": "Rue Crémieux Light distills Parisian residential charm into architectural restraint.\n\nPastel façades line a narrow cobblestone street, softened through layered watercolor depth in tones of muted blush, sage, and warm cre",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4459357811/rue-cremieux-light-paris-architectural",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6612ce/8021839255/il_570xN.8021839255_79dw.jpg",
+      "section": "City Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "paris wall art",
+        "rue cremieux art",
+        "paris watercolor",
+        "french wall art",
+        "pastel wall decor",
+        "paris architecture",
+        "european wall art",
+        "city watercolor"
+      ],
+      "quantity": 998
+    },
     {
       "listing_id": 4498357977,
       "title": "Vintage Chicken – Farmhouse Kitchen Wall Art Printable (Instant Download)",
@@ -1497,29 +1520,6 @@
         "coffee lover gift"
       ],
       "quantity": 999
-    },
-    {
-      "listing_id": 4459357811,
-      "title": "Rue Crémieux Light – Paris Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
-      "description": "Rue Crémieux Light distills Parisian residential charm into architectural restraint.\n\nPastel façades line a narrow cobblestone street, softened through layered watercolor depth in tones of muted blush, sage, and warm cre",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4459357811/rue-cremieux-light-paris-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6612ce/8021839255/il_570xN.8021839255_79dw.jpg",
-      "section": "City Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "paris wall art",
-        "rue cremieux art",
-        "paris watercolor",
-        "french wall art",
-        "pastel wall decor",
-        "paris architecture",
-        "european wall art",
-        "city watercolor"
-      ],
-      "quantity": 998
     }
   ]
 }
