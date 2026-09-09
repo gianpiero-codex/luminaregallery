@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-09T05:05:48.844991+00:00",
+  "last_updated": "2026-09-09T10:01:20.719468+00:00",
   "shop_id": "64473201",
-  "total": 66,
+  "total": 67,
   "products": [
+    {
+      "listing_id": 4571797055,
+      "title": "Woman Profile Art Print, Fire and Sea Wall Art, Red Hair Portrait, Expressive Feminine Painting",
+      "description": "This piece, part of the Inner Visions collection by artist Tiziana Petrosino, features a serene feminine profile surrounded by contrasting warm fiery reds and cool ocean blues. The visible brushstrokes and rich texture e",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4571797055/woman-profile-art-print-fire-and-sea",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/31f3c2/8497765110/il_570xN.8497765110_2l5y.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "fire and sea",
+        "expressive art",
+        "emotional painting",
+        "blue and red",
+        "female profile",
+        "symbolic art",
+        "contemporary art",
+        "poetic painting"
+      ],
+      "quantity": 10978
+    },
     {
       "listing_id": 4459357811,
       "title": "Rue Crémieux Light – Paris Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
