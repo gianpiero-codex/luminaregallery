@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-10T19:11:33.810605+00:00",
+  "last_updated": "2026-09-10T21:46:31.501007+00:00",
   "shop_id": "64473201",
-  "total": 67,
+  "total": 68,
   "products": [
+    {
+      "listing_id": 4572882223,
+      "title": "Golden Tide Fine Art Print, Abstract Blue and Gold Seascape Wall Art, Coastal Ocean Decor",
+      "description": "This original painting, &#39;Golden Tide,&#39; captures a vibrant abstract seascape using rich blues and radiant yellow, accented with shimmering gold leaf. It evokes the feeling of a sun-drenched shore where the ocean m",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4572882223/golden-tide-fine-art-print-abstract-blue",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/86a749/8553630571/il_570xN.8553630571_9bym.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "gold leaf print",
+        "abstract ocean",
+        "blue gold art",
+        "seascape print",
+        "coastal decor",
+        "modern wall art",
+        "fine art print",
+        "contemporary art"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4571797055,
       "title": "Woman Profile Art Print, Fire and Sea Wall Art, Red Hair Portrait, Expressive Feminine Painting",
