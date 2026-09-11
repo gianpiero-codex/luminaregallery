@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-11T19:56:43.626566+00:00",
+  "last_updated": "2026-09-11T22:23:42.319493+00:00",
   "shop_id": "64473201",
   "total": 68,
   "products": [
+    {
+      "listing_id": 4502656418,
+      "title": "But First Coffee Wall Art Print | Retro Vintage Kitchen Decor Sign (Instant Download)",
+      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nBring warmth, personality, and vintage café energy into your space with this bold “But First Coffee” wall art print.\n\nDe",
+      "price": "10.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
+      "section": "Digital Download",
+      "is_digital": true,
+      "type": "digital",
+      "tags": [
+        "instant download",
+        "coffee wall art",
+        "coffee poster",
+        "kitchen decor",
+        "retro coffee art",
+        "farmhouse decor",
+        "coffee bar sign",
+        "coffee lover gift"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4572882223,
       "title": "Golden Tide Fine Art Print, Abstract Blue and Gold Seascape Wall Art, Coastal Ocean Decor",
@@ -1541,29 +1564,6 @@
         "bathroom poster",
         "funny duck print",
         "bathroom humor"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4502656418,
-      "title": "But First Coffee Wall Art Print | Retro Vintage Kitchen Decor Sign (Instant Download)",
-      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nBring warmth, personality, and vintage café energy into your space with this bold “But First Coffee” wall art print.\n\nDe",
-      "price": "10.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4502656418/but-first-coffee-wall-art-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/b76fc3/8004839158/il_570xN.8004839158_kmvw.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
-      "tags": [
-        "instant download",
-        "coffee wall art",
-        "coffee poster",
-        "kitchen decor",
-        "retro coffee art",
-        "farmhouse decor",
-        "coffee bar sign",
-        "coffee lover gift"
       ],
       "quantity": 999
     }
