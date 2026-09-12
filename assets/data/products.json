@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-12T21:17:50.458902+00:00",
+  "last_updated": "2026-09-12T23:11:01.039915+00:00",
   "shop_id": "64473201",
   "total": 68,
   "products": [
+    {
+      "listing_id": 4503348170,
+      "title": "Funny Rubber Duck Bathroom Print, Retro Sunglasses Bath (Digital Download)",
+      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nA playful rubber duck poster designed to bring personality, humor, and retro charm into your bathroom space.\n\nBright yel",
+      "price": "10.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4503348170/funny-rubber-duck-bathroom-print-retro",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/712a62/8056656403/il_570xN.8056656403_8t62.jpg",
+      "section": "Digital Download",
+      "is_digital": true,
+      "type": "digital",
+      "tags": [
+        "rubber duck art",
+        "bathroom wall art",
+        "funny bathroom",
+        "duck wall decor",
+        "quirky bathroom",
+        "bathroom poster",
+        "funny duck print",
+        "bathroom humor"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4502656418,
       "title": "But First Coffee Wall Art Print | Retro Vintage Kitchen Decor Sign (Instant Download)",
@@ -1541,29 +1564,6 @@
         "bathroom print",
         "animal wall art",
         "powder room art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4503348170,
-      "title": "Funny Rubber Duck Bathroom Print, Retro Sunglasses Bath (Digital Download)",
-      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nA playful rubber duck poster designed to bring personality, humor, and retro charm into your bathroom space.\n\nBright yel",
-      "price": "10.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4503348170/funny-rubber-duck-bathroom-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/712a62/8056656403/il_570xN.8056656403_8t62.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
-      "tags": [
-        "rubber duck art",
-        "bathroom wall art",
-        "funny bathroom",
-        "duck wall decor",
-        "quirky bathroom",
-        "bathroom poster",
-        "funny duck print",
-        "bathroom humor"
       ],
       "quantity": 999
     }
