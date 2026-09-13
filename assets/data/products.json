@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-13T06:37:07.229181+00:00",
+  "last_updated": "2026-09-13T12:35:59.124366+00:00",
   "shop_id": "64473201",
-  "total": 68,
+  "total": 65,
   "products": [
     {
       "listing_id": 4503348170,
@@ -324,29 +324,6 @@
         "abstract shapes"
       ],
       "quantity": 10989
-    },
-    {
-      "listing_id": 4564479005,
-      "title": "80s Jungle Soldier Printable Wall Art, Retro Action Movie Poster, Military Man Cave (Digital Download)",
-      "description": "Bring bold 1980s action-movie energy to your space with this cinematic jungle soldier printable wall art.\n\nDesigned for man caves, gaming rooms, home gyms, offices and retro-inspired interiors, this dramatic military art",
-      "price": "10.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4564479005/80s-jungle-soldier-printable-wall-art",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/8135c4/8493003521/il_570xN.8493003521_77ia.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
-      "tags": [
-        "digital download",
-        "printable wall art",
-        "80s action art",
-        "jungle soldier",
-        "retro action poster",
-        "man cave decor",
-        "gaming room art",
-        "military wall art"
-      ],
-      "quantity": 999
     },
     {
       "listing_id": 4564343116,
@@ -1384,29 +1361,6 @@
       "quantity": 999
     },
     {
-      "listing_id": 4511748998,
-      "title": "Vintage Matchbook Print, Retro Lounge Bar Art (Digital Download)",
-      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nVintage cocktail matchbook wall art inspired by old lounge counters, jazz bars, whiskey rooms, and mid-century nightlife",
-      "price": "10.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4511748998/vintage-matchbook-print-retro-lounge-bar",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/098ec7/8064680772/il_570xN.8064680772_ltvc.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
-      "tags": [
-        "matchbook art",
-        "cocktail decor",
-        "home bar decor",
-        "speakeasy art",
-        "retro bar print",
-        "whiskey decor",
-        "martini poster",
-        "tiki bar decor"
-      ],
-      "quantity": 999
-    },
-    {
       "listing_id": 4509687250,
       "title": "Vintage Cocktail Bar Matchbook Print, Retro Americana Lounge Art, Mid-Century Home Bar Decor",
       "description": "Vintage cocktail matchbook wall art inspired by old lounge counters, jazz bars, whiskey rooms, and mid-century nightlife.\n\nThis artwork is made for home bars, cocktail corners, retro Americana gallery walls, and rooms th",
@@ -1472,29 +1426,6 @@
         "bar cart decor",
         "retro print",
         "vintage matchbox"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4507889872,
-      "title": "Midnight Ramen Club Digital Download | Vintage Japanese Ramen Art | Printable Kitchen Wall Art | Retro Asian Food Poster | Noodle Shop Decor",
-      "description": "This digital download captures a nostalgic Japanese ramen shop scene featuring a towering bowl of noodles set beneath a glowing red sun. Rendered in vintage hues and textured details, this printable kitchen wall art cele",
-      "price": "10.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4507889872/midnight-ramen-club-print-vintage",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/d52b18/8037587322/il_570xN.8037587322_1ia6.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
-      "tags": [
-        "ramen wall art",
-        "japanese food art",
-        "printable kitchen",
-        "digital download",
-        "vintage ramen",
-        "asian food art",
-        "ramen poster",
-        "retro kitchen"
       ],
       "quantity": 999
     },
