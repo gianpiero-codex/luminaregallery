@@ -1,19 +1,42 @@
 {
-  "last_updated": "2026-09-13T12:35:59.124366+00:00",
+  "last_updated": "2026-09-13T16:52:32.108011+00:00",
   "shop_id": "64473201",
-  "total": 65,
+  "total": 67,
   "products": [
     {
-      "listing_id": 4503348170,
-      "title": "Funny Rubber Duck Bathroom Print, Retro Sunglasses Bath (Digital Download)",
-      "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nA playful rubber duck poster designed to bring personality, humor, and retro charm into your bathroom space.\n\nBright yel",
-      "price": "10.00",
+      "listing_id": 4574536058,
+      "title": "Where Our Souls Rest Art Print, Abstract Dancers Painting, Colorful Romantic Wall Art, Tiziana Petrosino",
+      "description": "This striking art print captures the dynamic energy of abstract dancers, rendered with expressive brushstrokes in a vibrant palette of red, blue, and yellow against a deep black silhouette. The artwork evokes a sense of",
+      "price": "27.00",
       "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4503348170/funny-rubber-duck-bathroom-print-retro",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/712a62/8056656403/il_570xN.8056656403_8t62.jpg",
-      "section": "Digital Download",
-      "is_digital": true,
-      "type": "digital",
+      "url": "https://www.etsy.com/listing/4574536058/where-our-souls-rest-art-print-abstract",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/f47f02/8565752187/il_570xN.8565752187_bp38.jpg",
+      "section": "Inner Visions",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "abstract art",
+        "dancer painting",
+        "colorful print",
+        "expressive art",
+        "modern wall art",
+        "red blue yellow",
+        "movement art",
+        "contemporary decor"
+      ],
+      "quantity": 10989
+    },
+    {
+      "listing_id": 4574521687,
+      "title": "Funny Duck Bathroom Wall Art, Retro Bathroom Decor, Fine Art Print",
+      "description": "A playful rubber duck fine art print designed to bring personality, humor, and retro charm into your bathroom. Bright yellow tones, vintage-inspired texture, and bold contrast make this bathroom wall art a fun focal poin",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4574521687/funny-duck-bathroom-wall-art-retro",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/0499da/8517936632/il_570xN.8517936632_66z2.jpg",
+      "section": "Bathroom Prints",
+      "is_digital": false,
+      "type": "print",
       "tags": [
         "rubber duck art",
         "bathroom wall art",
@@ -28,7 +51,7 @@
     },
     {
       "listing_id": 4502656418,
-      "title": "But First Coffee Wall Art Print | Retro Vintage Kitchen Decor Sign (Instant Download)",
+      "title": "But First Coffee Kitchen Wall Art, Retro Coffee Bar Decor, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nBring warmth, personality, and vintage café energy into your space with this bold “But First Coffee” wall art print.\n\nDe",
       "price": "10.00",
       "currency": "EUR",
@@ -51,7 +74,7 @@
     },
     {
       "listing_id": 4572882223,
-      "title": "Golden Tide Fine Art Print, Abstract Blue and Gold Seascape Wall Art, Coastal Ocean Decor",
+      "title": "Blue and Gold Abstract Seascape Wall Art, Coastal Fine Art Print",
       "description": "This original painting, &#39;Golden Tide,&#39; captures a vibrant abstract seascape using rich blues and radiant yellow, accented with shimmering gold leaf. It evokes the feeling of a sun-drenched shore where the ocean m",
       "price": "27.00",
       "currency": "EUR",
@@ -74,7 +97,7 @@
     },
     {
       "listing_id": 4571797055,
-      "title": "Woman Profile Art Print, Fire and Sea Wall Art, Red Hair Portrait, Expressive Feminine Painting",
+      "title": "Fire and Sea Woman Portrait, Red and Blue Feminine Wall Art",
       "description": "This piece, part of the Inner Visions collection by artist Tiziana Petrosino, features a serene feminine profile surrounded by contrasting warm fiery reds and cool ocean blues. The visible brushstrokes and rich texture e",
       "price": "27.00",
       "currency": "EUR",
@@ -97,7 +120,7 @@
     },
     {
       "listing_id": 4459357811,
-      "title": "Rue Crémieux Light – Paris Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
+      "title": "Paris Street Watercolor, Rue Crémieux Wall Art, Fine Art Print",
       "description": "Rue Crémieux Light distills Parisian residential charm into architectural restraint.\n\nPastel façades line a narrow cobblestone street, softened through layered watercolor depth in tones of muted blush, sage, and warm cre",
       "price": "27.00",
       "currency": "EUR",
@@ -120,7 +143,7 @@
     },
     {
       "listing_id": 4498357977,
-      "title": "Vintage Chicken – Farmhouse Kitchen Wall Art Printable (Instant Download)",
+      "title": "Vintage Chicken Kitchen Wall Art, Farmhouse Decor, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nVintage Chicken brings a warm farmhouse touch to your kitchen, adding character and charm to your space in seconds.\n\nIns",
       "price": "10.00",
       "currency": "EUR",
@@ -143,7 +166,7 @@
     },
     {
       "listing_id": 4566941820,
-      "title": "Aurora Pulse Neon Star Print, Geometric Mandala Wall Art, Glowing Blue Turquoise Decor",
+      "title": "Blue Turquoise Geometric Star Wall Art, Mandala Fine Art Print",
       "description": "This vibrant print features the &#39;Aurora Pulse&#39; design, showcasing a mesmerizing geometric star radiating with neon blue and turquoise hues against a deep black background. Its intricate layers create a sense of d",
       "price": "27.00",
       "currency": "EUR",
@@ -166,7 +189,7 @@
     },
     {
       "listing_id": 4566897365,
-      "title": "Contained Radiance Abstract Art Print, Minimalist Architectural Wall Decor",
+      "title": "Warm Neutral Geometric Wall Art, Minimalist Architectural Print",
       "description": "Experience the serene beauty of Contained Radiance, an art print that draws you into an abstract architectural space. This piece features a striking composition of earthy terracotta tones, illuminated by a warm, solitary",
       "price": "27.00",
       "currency": "EUR",
@@ -189,7 +212,7 @@
     },
     {
       "listing_id": 4566891336,
-      "title": "Prismatic Ascension Unicorn Art Print, Rainbow Mane Fantasy Wall Art",
+      "title": "Rainbow Unicorn Wall Art, Colorful Fantasy Print for Kids Room",
       "description": "This vibrant art print features a majestic white unicorn, its mane and tail flowing with brilliant rainbow hues, rearing dynamically against a striking dark background. The scene is illuminated by electric blue, magenta,",
       "price": "27.00",
       "currency": "EUR",
@@ -212,7 +235,7 @@
     },
     {
       "listing_id": 4566245166,
-      "title": "Sun and Moon Meditation Art Print, Cosmic Balance Wall Decor, Zen Celestial Artwork",
+      "title": "Sun and Moon Celestial Wall Art, Cosmic Meditation Print",
       "description": "This art print shows a tranquil silhouette in deep meditation, holding the celestial bodies of the sun and moon. The backdrop features a starlit sky with a blend of fiery reds, vibrant oranges, and serene blues. This pie",
       "price": "27.00",
       "currency": "EUR",
@@ -235,7 +258,7 @@
     },
     {
       "listing_id": 4566205486,
-      "title": "Frozen Threshold Archway Print, Blue Minimalist Abstract Wall Art",
+      "title": "Blue Archway Abstract Wall Art, Minimalist Geometric Print",
       "description": "This print, titled &#39;Frozen Threshold,&#39; depicts a serene minimalist architectural scene. A bright, arched doorway glows at the end of a cool blue-toned corridor, with subtle light rays illuminating the floor. The",
       "price": "27.00",
       "currency": "EUR",
@@ -258,7 +281,7 @@
     },
     {
       "listing_id": 4565621792,
-      "title": "Minimalist Geometric Wall Art, Neutral Tone Architectural Print (Fine Art Paper)",
+      "title": "Neutral Geometric Wall Art, Minimalist Architectural Print",
       "description": "This artwork presents a serene composition of geometric forms, featuring interlocking blocks and planes in subtle beige, taupe, and off-white tones. The interplay of light and shadow highlights the structured yet tranqui",
       "price": "27.00",
       "currency": "EUR",
@@ -281,7 +304,7 @@
     },
     {
       "listing_id": 4496297513,
-      "title": "French Bulldog Wall Art – Funny Dog with Sunglasses, Modern Animal Print (Digital Download)",
+      "title": "Funny French Bulldog Wall Art, Dog Decor, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nCool Pup is a funny dog wall art print designed to bring personality and lightness into modern interiors.\n\nFeaturing a f",
       "price": "10.00",
       "currency": "EUR",
@@ -304,7 +327,7 @@
     },
     {
       "listing_id": 4564568674,
-      "title": "Geometric Abstract Print with Light and Shadow Interplay",
+      "title": "Geometric Abstract Wall Art, Light and Shadow Fine Art Print",
       "description": "This abstract geometric print captures a dynamic interplay of light and shadow, featuring architectural forms that create depth and visual interest. Layers of dark and light tones intersect, evoking a sense of structured",
       "price": "27.00",
       "currency": "EUR",
@@ -326,8 +349,31 @@
       "quantity": 10989
     },
     {
+      "listing_id": 4564542468,
+      "title": "Navy and Off-White Geometric Wall Art, Minimalist Abstract Print",
+      "description": "This abstract print, titled &#39;Axis of Restraint,&#39; captures a minimalist interplay of geometric forms, light, and shadow. Deep navy and soft off-white planes intersect, creating a sense of calm and depth. This cont",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4564542468/axis-of-restraint-abstract-print-deep",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/0d460e/8493420489/il_570xN.8493420489_t8sa.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "abstract art",
+        "minimalist print",
+        "navy wall art",
+        "geometric art",
+        "modern decor",
+        "shadow art",
+        "contemporary art",
+        "blue white art"
+      ],
+      "quantity": 10989
+    },
+    {
       "listing_id": 4564343116,
-      "title": "Minimalist Architecture Print, Warm Light Wall Art – Solar Chamber",
+      "title": "Warm Light Architectural Wall Art, Minimalist Abstract Print",
       "description": "This artwork, &quot;Solar Chamber,&quot; captures a serene and contemplative moment within a warm, minimalist interior space. A circular opening above directs a beam of golden light onto a central pedestal, inviting quie",
       "price": "32.34",
       "currency": "EUR",
@@ -350,7 +396,7 @@
     },
     {
       "listing_id": 4564294065,
-      "title": "Black and White Stone Wall Art Print, Abstract Mineral Texture, Modern Monochrome Neutral Decor",
+      "title": "Black and White Stone Wall Art, Abstract Mineral Texture Print",
       "description": "This artwork captures a detailed abstract view of geological terrain textures in calming monochrome shades, evoking themes of silence and compressed form. The rugged black and white composition offers a contemplative moo",
       "price": "32.34",
       "currency": "EUR",
@@ -373,7 +419,7 @@
     },
     {
       "listing_id": 4564192383,
-      "title": "The Smuggler Printable Wall Art, Vintage Coastal Adventure Poster, Nautical Man Cave Deco (Digital Download)",
+      "title": "The Smuggler Nautical Wall Art, Vintage Coastal Poster, Digital Download",
       "description": "Bring vintage adventure atmosphere to your walls with The Smuggler — a cinematic coastal artwork inspired by old seafaring stories, hidden routes, distant horizons, and classic adventure posters.\n\nWith its dramatic nauti",
       "price": "10.00",
       "currency": "EUR",
@@ -396,7 +442,7 @@
     },
     {
       "listing_id": 4564211522,
-      "title": "Seashell Printable Wall Art, Coastal Bathroom Decor, Neutral Beach House Print (Digital Download)",
+      "title": "Seashell Coastal Wall Art, Neutral Beach House Decor, Digital Download",
       "description": "Bring a calm coastal touch to your bathroom with this minimalist seashell printable wall art.\n\nDesigned in a soft neutral palette, this coastal print works naturally in bathrooms, powder rooms, beach houses, bedrooms, sp",
       "price": "10.00",
       "currency": "EUR",
@@ -419,7 +465,7 @@
     },
     {
       "listing_id": 4564187253,
-      "title": "Midnight Pizza Club Printable Wall Art, Vintage Pizza Poster, Retro Diner Kitchen Decor (Digital Download)",
+      "title": "Midnight Pizza Club Kitchen Wall Art, Retro Diner Poster, Digital Download",
       "description": "Bring late-night pizzeria energy to your walls with Midnight Pizza Club — a bold retro-inspired pizza poster designed for kitchens, home bars, game rooms, restaurants, and vintage-style interiors.\n\nWith its nostalgic din",
       "price": "10.00",
       "currency": "EUR",
@@ -442,7 +488,7 @@
     },
     {
       "listing_id": 4564179337,
-      "title": "Funny Tomato King Printable Wall Art, Vintage Kitchen Decor, Retro Food Poster (Digital Download)",
+      "title": "Funny Tomato Kitchen Wall Art, Vintage Food Poster, Digital Download",
       "description": "Add a bold dose of vintage personality to your kitchen with Regal Tomato King — a whimsical food illustration featuring a proudly crowned tomato with unmistakable retro charm.\n\nPerfect for kitchens, coffee corners, dinin",
       "price": "10.00",
       "currency": "EUR",
@@ -465,7 +511,7 @@
     },
     {
       "listing_id": 4561996344,
-      "title": "Child on Beach Art Print, Emotional Seascape Painting, Coastal Figurative Decor",
+      "title": "Child by the Sea Fine Art Print, Emotional Coastal Wall Art",
       "description": "The &quot;Where the Light Finds You&quot; art print is a faithful reproduction of an original hand-painted artwork by Tiziana Petrosino. This piece captures a solitary figure in a red hood kneeling on a beach, accompanie",
       "price": "27.00",
       "currency": "EUR",
@@ -488,7 +534,7 @@
     },
     {
       "listing_id": 4557694086,
-      "title": "Where My Soul Finds You Abstract Woman Wall Art, Colorful Spiritual Fine Art Print, Blue Gold Modern Decor",
+      "title": "Colorful Abstract Woman Wall Art, Blue and Gold Spiritual Print",
       "description": "Where My Soul Finds You is an expressive fine art print based on an original hand-painted artwork by Italian artist Tiziana Petrosino.\n\nA dark female silhouette rises through sweeping layers of blue, gold, red and radian",
       "price": "32.34",
       "currency": "EUR",
@@ -511,7 +557,7 @@
     },
     {
       "listing_id": 4459936141,
-      "title": "Limestone Breath – Neutral Mineral Abstract Wall Art Print",
+      "title": "Neutral Limestone Wall Art, Textured Mineral Fine Art Print",
       "description": "Limestone Breath explores erosion as sculptural architectural presence.\n\nLayered limestone forms soften into carved voids and mineral folds, creating a three-dimensional surface that feels both structural and organic. Ne",
       "price": "27.00",
       "currency": "EUR",
@@ -534,7 +580,7 @@
     },
     {
       "listing_id": 4459937834,
-      "title": "Fractured Slate – Dark Stone Wall Art, Textured Mineral Abstract Print",
+      "title": "Dark Slate Stone Wall Art, Textured Mineral Abstract Print",
       "description": "Fractured Slate explores structural tension as architectural mineral form.\n\nLayered slate fragments intersect in charcoal and deep graphite tones, forming a fractured composition that feels dense, deliberate, and materia",
       "price": "27.00",
       "currency": "EUR",
@@ -557,7 +603,7 @@
     },
     {
       "listing_id": 4459918867,
-      "title": "Compressed Limestone – Warm Neutral Stone Wall Art Print, Textured Mineral Giclée",
+      "title": "Neutral Stone Wall Art, Textured Limestone Fine Art Print",
       "description": "Compressed Limestone explores sedimented stone as quiet architectural strength.\n\nLayered limestone textures in soft beige and sand tones interlock within a structured formation, creating a composition that feels stable,",
       "price": "27.00",
       "currency": "EUR",
@@ -580,7 +626,7 @@
     },
     {
       "listing_id": 4459937467,
-      "title": "Iron Collapse – Dark Stone Abstract Wall Art Print",
+      "title": "Dark Stone Abstract Wall Art, Textured Mineral Fine Art Print",
       "description": "Iron Collapse explores geological weight as suspended architectural force.\n\nMonumental mineral blocks intersect under compression, defined by sharp fracture lines and deep shadowed recesses. Subtle iron-toned veins emerg",
       "price": "27.00",
       "currency": "EUR",
@@ -603,7 +649,7 @@
     },
     {
       "listing_id": 4459933447,
-      "title": "Ironfall Strata – Red Mineral Abstract Wall Art Print",
+      "title": "Red Mineral Stone Wall Art, Textured Abstract Fine Art Print",
       "description": "Ironfall Strata explores mineral erosion as directional architectural force.\n\nOxidized reds and deep earth tones cascade in diagonal formations, revealing layers shaped by compression and sediment accumulation. The surfa",
       "price": "29.90",
       "currency": "EUR",
@@ -626,7 +672,7 @@
     },
     {
       "listing_id": 4459939386,
-      "title": "Compressed Time – Dark Stone Mineral Abstract Wall Art Print",
+      "title": "Dark Stone Abstract Wall Art, Layered Mineral Fine Art Print",
       "description": "Compressed Time explores geological movement as material architecture.\n\nBurnt orange currents sweep across shadowed stone, forming a dynamic surface that feels fluid yet structurally grounded. Layered mineral bands appea",
       "price": "27.00",
       "currency": "EUR",
@@ -649,7 +695,7 @@
     },
     {
       "listing_id": 4459955323,
-      "title": "Geological Abstract Print | Earth Tone Rock Texture, Wabi Sabi Wall Art",
+      "title": "Earth Tone Rock Texture Wall Art, Wabi Sabi Fine Art Print",
       "description": "Earth-inspired textures, layered mineral tones, and natural fracture lines come together in this geological abstract wall art designed to bring depth, warmth, and grounded balance into modern interiors.\n\nThe composition",
       "price": "27.00",
       "currency": "EUR",
@@ -672,7 +718,7 @@
     },
     {
       "listing_id": 4459904219,
-      "title": "Mineral Drift – Abstract Mineral Wall Art Print, Textured Blue & Ochre Study (Museum-Grade Giclée)",
+      "title": "Blue and Ochre Mineral Wall Art, Textured Abstract Fine Art Print",
       "description": "Mineral Drift explores geological tension as suspended architectural form.\n\nLayered mineral textures reveal fractured tonal movement, where deep blue currents intersect with sedimented ochre and stone-toned surfaces. The",
       "price": "27.00",
       "currency": "EUR",
@@ -695,7 +741,7 @@
     },
     {
       "listing_id": 4555008819,
-      "title": "Entwined Souls Tree of Life Print by Tiziana Petrosino, Symbolic Woman Wall Art",
+      "title": "Tree of Life Woman Wall Art, Symbolic Fine Art Print by Tiziana Petrosino",
       "description": "“Entwined Souls” originates from an original hand-painted artwork created on a physical canvas by artist Tiziana Petrosino. The original painting has been carefully digitized and professionally adapted for fine art print",
       "price": "27.00",
       "currency": "EUR",
@@ -718,7 +764,7 @@
     },
     {
       "listing_id": 4553977842,
-      "title": "Safe in Your Arms – Romantic Couple Fine Art Print, Colorful Beach Wall Art",
+      "title": "Romantic Couple Beach Wall Art, Colorful Fine Art Print by Tiziana Petrosino",
       "description": "&quot;Safe in Your Arms&quot; is a fine art print derived from a hand-painted original by artist Tiziana Petrosino, part of the Inner Visions collection — Born on Canvas. This artwork captures a tender embrace on a vibra",
       "price": "27.00",
       "currency": "EUR",
@@ -741,7 +787,7 @@
     },
     {
       "listing_id": 4553900998,
-      "title": "Velvet Hour Woman Wine Print, Moody Feminine Wall Art, Hand-Painted Fine",
+      "title": "Woman with Wine Fine Art Print, Moody Feminine Wall Art",
       "description": "&quot;Velvet Hour&quot; is a fine-art print derived from an original hand-painted work by Tiziana Petrosino, featured in the Inner Visions collection — Born on Canvas. This piece captures a contemplative figure in a stri",
       "price": "27.00",
       "currency": "EUR",
@@ -764,7 +810,7 @@
     },
     {
       "listing_id": 4455469593,
-      "title": "Final Threshold – Museum-Grade Architectural Neutral Abstract Fine Art Print (Archival Giclée)",
+      "title": "Neutral Architectural Abstract Wall Art, Museum-Grade Fine Art Print",
       "description": "Final Threshold distills structural light into architectural equilibrium.\n\nDefined by controlled luminosity, precise geometry, and measured spatial tension, the composition creates depth through discipline rather than co",
       "price": "27.00",
       "currency": "EUR",
@@ -787,7 +833,7 @@
     },
     {
       "listing_id": 4471935361,
-      "title": "Vintage Guardian Angel Art Print, Christian Nursery Wall Art, Child Protection Poster",
+      "title": "Guardian Angel Christian Wall Art, Religious Nursery Print",
       "description": "Bring a sense of peace, protection, and warmth into your home with this Guardian Angel Art Print.\n\nThis vintage-inspired Christian wall art shows a gentle guardian angel guiding a young child, creating a comforting symbo",
       "price": "27.00",
       "currency": "EUR",
@@ -810,7 +856,7 @@
     },
     {
       "listing_id": 4459913807,
-      "title": "Basalt Under Oxidation – Dark Abstract Mineral Wall Art Print, Textured Stone Giclée",
+      "title": "Dark Basalt Stone Wall Art, Textured Mineral Fine Art Print",
       "description": "Basalt Under Oxidation explores volcanic tension as material architecture.\n\nFractured basalt textures in deep charcoal tones are intersected by oxidized mineral traces, introducing restrained rust accents within a dense",
       "price": "27.00",
       "currency": "EUR",
@@ -833,7 +879,7 @@
     },
     {
       "listing_id": 4459875020,
-      "title": "Silent Ronin Samurai Wall Art Print | Japanese Red Sun Poster | Minimalist Warrior Decor | Modern Asian Room Art | Giclée Fine Art Print",
+      "title": "Samurai Wall Art, Japanese Red Sun Warrior Fine Art Print",
       "description": "Silent Ronin features a solitary samurai set against a bold red sun, highlighting minimalist Japanese warrior aesthetics. This printed wall art enhances offices, living rooms, and zen spaces with a strong but balanced vi",
       "price": "27.00",
       "currency": "EUR",
@@ -856,7 +902,7 @@
     },
     {
       "listing_id": 4459473973,
-      "title": "Rustic Wooden Cross Print | Christian Farmhouse Wall Art, Beige Poster",
+      "title": "Rustic Wooden Cross Wall Art, Christian Farmhouse Print",
       "description": "A warm rustic wooden cross print designed to bring faith, calm, and quiet presence into your home.\n\nThis Christian wall art features a simple wooden cross set against a soft beige textured background, with gentle light c",
       "price": "27.00",
       "currency": "EUR",
@@ -879,7 +925,7 @@
     },
     {
       "listing_id": 4459476302,
-      "title": "Crucifixion of Jesus Christ – Religious Wall Art Print, Sacred Christian Decor (Museum-Grade Giclée)",
+      "title": "Crucifixion of Jesus Christ – Religious Wall Art Print, Sacred Christian Decor",
       "description": "Crucifixion of Jesus Christ captures a sacred moment through light, depth, and emotional intensity.\n\nDesigned to serve as a spiritual focal point, this artwork brings warmth, reverence, and timeless presence into any spa",
       "price": "27.00",
       "currency": "EUR",
@@ -902,7 +948,7 @@
     },
     {
       "listing_id": 4459430306,
-      "title": "Hutong Corner Light – Beijing Architectural Watercolor Wall Art Print (Museum-Grade Giclée)",
+      "title": "Beijing Hutong Watercolor, Chinese Street Wall Art, Fine Art Print",
       "description": "Hutong Corner Light distills urban heritage into architectural stillness.\n\nWeathered grey brick and aged wooden doors absorb the late afternoon glow, dissolving into layered watercolor texture and softened shadow. The ge",
       "price": "27.00",
       "currency": "EUR",
@@ -925,7 +971,7 @@
     },
     {
       "listing_id": 4459423479,
-      "title": "Sydney Inner Suburb Street – Australian Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
+      "title": "Sydney Street Watercolor, Australian Architectural Wall Art",
       "description": "Sydney Inner Suburb distills residential geometry into quiet architectural light.\n\nSoft pastel façades and sunlit verandas unfold beneath eucalyptus-toned shadows, dissolving into layered watercolor texture. The rhythm o",
       "price": "27.00",
       "currency": "EUR",
@@ -948,7 +994,7 @@
     },
     {
       "listing_id": 4459426986,
-      "title": "Brick Alley Light – Chicago Architectural Watercolor Wall Art Print (Museum-Grade Giclée)",
+      "title": "Chicago Alley Watercolor, Urban Architectural Wall Art",
       "description": "Brick Alley Light distills industrial urban texture into architectural stillness.\n\nWeathered brick facades frame a narrow passage illuminated by warm late-afternoon light, softened through layered watercolor depth. Repet",
       "price": "27.00",
       "currency": "EUR",
@@ -971,7 +1017,7 @@
     },
     {
       "listing_id": 4459422376,
-      "title": "Los Angeles After Hours – California Night Street Watercolor Wall Art Print (Museum-Grade Giclée)",
+      "title": "Los Angeles Night Street Watercolor, California Wall Art",
       "description": "Los Angeles After Hours distills evening urban light into architectural atmosphere.\n\nSoft streetlights reflect across warm asphalt tones as muted storefront glows dissolve into layered watercolor depth. Subtle silhouette",
       "price": "27.00",
       "currency": "EUR",
@@ -994,7 +1040,7 @@
     },
     {
       "listing_id": 4459416670,
-      "title": "San Francisco Hill – Residential Architecture Watercolor Wall Art Print (Museum-Grade Giclée)",
+      "title": "San Francisco Architecture Watercolor, California Wall Art",
       "description": "San Francisco Residential Hill distills hillside architecture into coastal light.\n\nLayered wooden façades ascend a steep urban slope, softened through atmospheric watercolor depth and filtered coastal luminosity. Repetit",
       "price": "27.00",
       "currency": "EUR",
@@ -1017,7 +1063,7 @@
     },
     {
       "listing_id": 4459369940,
-      "title": "Notting Hill Light – London Architectural Watercolor Wall Art Print (Museum-Grade Giclée)",
+      "title": "London Notting Hill Watercolor, Architectural Street Wall Art",
       "description": "Notting Hill Light distills London residential elegance into architectural calm.\n\nPastel townhouses unfold in tones of sage, powder blue, and muted blush, softened through layered watercolor depth. Diffused afternoon lig",
       "price": "27.00",
       "currency": "EUR",
@@ -1040,7 +1086,7 @@
     },
     {
       "listing_id": 4459363803,
-      "title": "Shibuya Nightscape Wall Art | Tokyo Architecture Print | Urban City Poster | Contemporary Cityscape Decor",
+      "title": "Shibuya Nightscape Wall Art, Tokyo Cityscape Fine Art Print",
       "description": "This Shibuya nightscape print presents Tokyo’s layered urban architecture and atmospheric watercolor tones with subtle neon accents. The design highlights structural elegance and calm geometry, fitting contemporary livin",
       "price": "27.00",
       "currency": "EUR",
@@ -1063,7 +1109,7 @@
     },
     {
       "listing_id": 4459360062,
-      "title": "Trastevere Light – Rome Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
+      "title": "Rome Trastevere Watercolor, Italian Street Wall Art",
       "description": "Trastevere Light distills Roman residential heritage into architectural warmth.\n\nTerracotta façades absorb softened Mediterranean light, rendered through layered watercolor depth and aged surface texture. Narrow passages",
       "price": "27.00",
       "currency": "EUR",
@@ -1086,7 +1132,7 @@
     },
     {
       "listing_id": 4457185481,
-      "title": "SoHo Corner – New York Architectural Watercolor Fine Art Print (Museum-Grade Giclée)",
+      "title": "New York SoHo Watercolor, Urban Architectural Wall Art",
       "description": "SoHo Corner distills New York architecture into urban restraint.\n\nA red brick façade rises within softened golden light, rendered through layered watercolor depth and subtle atmospheric haze. Fire escapes and muted store",
       "price": "27.00",
       "currency": "EUR",
@@ -1109,7 +1155,7 @@
     },
     {
       "listing_id": 4456679606,
-      "title": "Abstract Light Geometry Wall Art – Dark Blue Minimalist Artwork (Archival Giclée)",
+      "title": "Dark Blue Geometric Abstract Wall Art, Architectural Fine Art Print",
       "description": "Nova Fold distills luminous geometry into architectural stillness.\n\nLayered translucent planes intersect in restrained gradients of cool blue and soft ivory, creating spatial depth through precision rather than spectacle",
       "price": "27.00",
       "currency": "EUR",
@@ -1132,7 +1178,7 @@
     },
     {
       "listing_id": 4456588931,
-      "title": "Quiet Beacon – Museum-Grade Atmospheric Abstract Fine Art Print (Archival Giclée)",
+      "title": "Atmospheric Abstract Wall Art, Moody Minimalist Fine Art Print",
       "description": "Quiet Beacon distills diffused light into vertical architectural presence.\n\nA restrained beam of warm luminosity emerges from layered shadow, shaping depth through subtle tonal transitions rather than contrast. The atmos",
       "price": "27.00",
       "currency": "EUR",
@@ -1155,7 +1201,7 @@
     },
     {
       "listing_id": 4456312464,
-      "title": "Stillwood – Museum-Grade Ethereal Forest Abstract Fine Art Print (Archival 12-Color Giclée)",
+      "title": "Ethereal Forest Abstract Wall Art, Atmospheric Fine Art Print",
       "description": "Stillwood distills forest depth into atmospheric architectural light.\n\nVertical tonal gradients suggest filtered luminosity within layered shadow, evoking woodland presence without literal form. Structure emerges through",
       "price": "27.00",
       "currency": "EUR",
@@ -1178,7 +1224,7 @@
     },
     {
       "listing_id": 4456294730,
-      "title": "Amber Compression – Museum-Grade Luminous Abstract Fine Art Print (Archival 12-Color Giclée)",
+      "title": "Amber Luminous Abstract Wall Art, Contemporary Fine Art Print",
       "description": "Amber Compression distills concentrated light into architectural tension.\n\nA focused amber luminosity appears suspended within a deep shadowed field, generating visual gravity through compression rather than expansion. T",
       "price": "27.00",
       "currency": "EUR",
@@ -1201,7 +1247,7 @@
     },
     {
       "listing_id": 4456170069,
-      "title": "Solar Current – Museum-Grade Luminous Abstract Fine Art Print (Archival 12-Color Giclée)",
+      "title": "Blue Luminous Abstract Wall Art, Contemporary Fine Art Print",
       "description": "Solar Current distills radial luminosity into structured architectural rhythm.\n\nDisciplined golden arcs converge inward, shaping depth through symmetry and measured repetition. Light is controlled and intentional — guidi",
       "price": "27.00",
       "currency": "EUR",
@@ -1224,7 +1270,7 @@
     },
     {
       "listing_id": 4456166452,
-      "title": "Golden Drift – Museum-Grade Gold Luminous Abstract Fine Art Print (Archival 12-Color Giclée)",
+      "title": "Gold Luminous Abstract Wall Art, Contemporary Fine Art Print",
       "description": "Golden Drift distills controlled luminosity into architectural motion.\n\nFine strands of warm gold traverse a restrained dark field, creating a suspended glow shaped by precision rather than ornament. Light moves with int",
       "price": "27.00",
       "currency": "EUR",
@@ -1247,7 +1293,7 @@
     },
     {
       "listing_id": 4456140794,
-      "title": "Afterglow – Museum-Grade Luminous Neutral Abstract Fine Art Print (Archival 12-Color Giclée)",
+      "title": "Neutral Luminous Abstract Wall Art, Contemporary Fine Art Print",
       "description": "Afterglow distills restrained luminosity into architectural calm.\n\nSoft layers of beige and shadowed bronze build a suspended glow shaped by tonal depth rather than contrast. Light remains controlled and internal, creati",
       "price": "27.00",
       "currency": "EUR",
@@ -1270,7 +1316,7 @@
     },
     {
       "listing_id": 4456041826,
-      "title": "Silent Contours – Museum-Grade Architectural Abstract Fine Art Print (Archival Giclée)",
+      "title": "Architectural Abstract Wall Art, Neutral Fine Art Print",
       "description": "Silent Contours distills layered structure into architectural precision.\n\nSubtle tonal transitions shape depth through restraint rather than contrast, allowing each plane to emerge with measured clarity. Light remains di",
       "price": "27.00",
       "currency": "EUR",
@@ -1293,7 +1339,7 @@
     },
     {
       "listing_id": 4455993315,
-      "title": "Shadow Axis – Museum-Grade Architectural Abstract Fine Art Print (Archival Giclée)",
+      "title": "Dark Architectural Abstract Wall Art, Minimalist Fine Art Print",
       "description": "Shadow Axis distills structural light into architectural tension.\n\nA deliberate vertical divide separates luminosity from shadow, shaping depth through precision rather than contrast. The axis anchors the composition, ge",
       "price": "27.00",
       "currency": "EUR",
@@ -1316,7 +1362,7 @@
     },
     {
       "listing_id": 4518072552,
-      "title": "Ascension of Jesus Christ Art Print, Angels, Sacred Gold Wall Decor",
+      "title": "Ascension of Jesus Christ Wall Art, Sacred Gold Religious Fine Art Print",
       "description": "This Christian wall art print depicts the Ascension of Jesus Christ surrounded by angels, golden light, and a peaceful heavenly atmosphere.\n\nDesigned for faith-centered interiors, this piece works beautifully in a living",
       "price": "27.00",
       "currency": "EUR",
@@ -1339,7 +1385,7 @@
     },
     {
       "listing_id": 4512877574,
-      "title": "Ginger Cat Barista Art Print, Espresso Machine Coffee Shop Decor (Digital Download)",
+      "title": "Ginger Cat Barista Wall Art, Coffee Shop Fine Art Print, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nStep into a whimsical coffee haven where a charming ginger cat barista, adorned in a dapper bow tie and apron, presides",
       "price": "10.00",
       "currency": "EUR",
@@ -1362,7 +1408,7 @@
     },
     {
       "listing_id": 4509687250,
-      "title": "Vintage Cocktail Bar Matchbook Print, Retro Americana Lounge Art, Mid-Century Home Bar Decor",
+      "title": "Vintage Cocktail Bar Matchbook Wall Art, Retro Lounge Print",
       "description": "Vintage cocktail matchbook wall art inspired by old lounge counters, jazz bars, whiskey rooms, and mid-century nightlife.\n\nThis artwork is made for home bars, cocktail corners, retro Americana gallery walls, and rooms th",
       "price": "27.00",
       "currency": "EUR",
@@ -1385,7 +1431,7 @@
     },
     {
       "listing_id": 4508586518,
-      "title": "Ramen Cat Night Shift Print | Japanese Food, Vintage Poster, Kitchen Decor (Digital Download)",
+      "title": "Ramen Cat Japanese Wall Art, Vintage Food Poster, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nBring personality and humor to your kitchen with this charming Ramen Cat Night Shift printable wall art.\n\nFeaturing a co",
       "price": "10.00",
       "currency": "EUR",
@@ -1408,7 +1454,7 @@
     },
     {
       "listing_id": 4508578527,
-      "title": "Lucky Match Co. Vintage Matchbook Wall Art | Retro Home Bar Decor | Americana Poster Print",
+      "title": "Lucky Match Co. Matchbook Wall Art, Retro Home Bar Print",
       "description": "Lucky Match Co. is a vintage-inspired matchbook wall art print designed for home bars, coffee corners, kitchens, and nostalgic interiors.\n\nFeaturing an oversized retro matchbook illustration, this piece creates an instan",
       "price": "27.00",
       "currency": "EUR",
@@ -1431,7 +1477,7 @@
     },
     {
       "listing_id": 4507799699,
-      "title": "The Outlaw Digital Download | Vintage Cowboy Wall Art | Western Printable Poster | Game Room Decor",
+      "title": "The Outlaw Cowboy Wall Art, Western Poster, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nThe Outlaw captures the timeless silhouette of a lone rider standing against an endless desert horizon.\n\nFramed by a bla",
       "price": "10.00",
       "currency": "EUR",
@@ -1454,7 +1500,7 @@
     },
     {
       "listing_id": 4506772507,
-      "title": "Espresso Emergency Station Print | Retro Coffee Bar Art (Digital Download)",
+      "title": "Espresso Emergency Station Coffee Bar Wall Art, Retro Print, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nTurn your coffee space into a bold conversation piece.\n\nEspresso Emergency Station combines vintage café aesthetics with",
       "price": "10.00",
       "currency": "EUR",
@@ -1477,7 +1523,7 @@
     },
     {
       "listing_id": 4506353528,
-      "title": "Funny Goose Toilet Print, Whimsical Bathroom Wall Art, Pink Powder Room Decor (Digital Download)",
+      "title": "Funny Goose Bathroom Wall Art, Whimsical Powder Room Decor, Digital Download",
       "description": "Instant download.\nNo physical item will be shipped.\n\nDownload link included in PDF after purchase.\n\nA proud goose. A porcelain throne. A roll of pink toilet paper held with royal confidence.\n\nGoose on the Throne is a pla",
       "price": "10.00",
       "currency": "EUR",
