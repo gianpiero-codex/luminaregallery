@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-15T20:59:06.401397+00:00",
+  "last_updated": "2026-09-15T23:29:59.629642+00:00",
   "shop_id": "64473201",
-  "total": 56,
+  "total": 57,
   "products": [
+    {
+      "listing_id": 4576042791,
+      "title": "Emerald Cavern Print, Cave Lake Wall Art, Grotto Photography, Stalactite Decor, Nature Landscape Poster",
+      "description": "Discover the hidden beauty of an underground world with this print of an emerald cavern. The image showcases a serene lake reflecting the intricate formations of stalactites and stalagmites, bathed in a warm, ethereal gl",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4576042791/emerald-cavern-print-cave-lake-wall-art",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/ce8e0c/8529229208/il_570xN.8529229208_qomi.jpg",
+      "section": "Subterranean Light",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "cave wall art",
+        "emerald cave print",
+        "grotto photography",
+        "stalactite art",
+        "nature landscape",
+        "turquoise water art",
+        "underground lake",
+        "geological decor"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4575984579,
       "title": "Emerald Crag Wall Art Print, Rocky Moss Landscape Photography, Nature Texture Decor, Mountain Cliff Art",
