@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-15T17:31:58.489780+00:00",
+  "last_updated": "2026-09-15T20:59:06.401397+00:00",
   "shop_id": "64473201",
-  "total": 55,
+  "total": 56,
   "products": [
+    {
+      "listing_id": 4575984579,
+      "title": "Emerald Crag Wall Art Print, Rocky Moss Landscape Photography, Nature Texture Decor, Mountain Cliff Art",
+      "description": "This striking wall art print captures the rugged beauty of a moss-covered rock face, showcasing intricate textures and vibrant natural hues. The composition draws the viewer into the detailed interplay of stone and resil",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4575984579/emerald-crag-wall-art-print-rocky-moss",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/32628c/8528805704/il_570xN.8528805704_k4rm.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "rocky landscape",
+        "moss art print",
+        "nature photography",
+        "texture wall art",
+        "green decor",
+        "mountain art",
+        "cliff print",
+        "earthy tones"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4574536058,
       "title": "Where Our Souls Rest Art Print, Abstract Dancers Painting, Colorful Romantic Wall Art, Tiziana Petrosino",
