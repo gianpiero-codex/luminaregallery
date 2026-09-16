@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-16T07:23:36.125275+00:00",
+  "last_updated": "2026-09-16T12:44:59.605971+00:00",
   "shop_id": "64473201",
-  "total": 57,
+  "total": 58,
   "products": [
+    {
+      "listing_id": 4576310851,
+      "title": "Stratified Memory - Textured Rock Wall Photography Art Print",
+      "description": "Discover the intricate layers and warm tones of the Stratified Memory, a photographic art print showcasing the fascinating textures of a rock wall. This piece captures natural stratification with earthy hues, perfect for",
+      "price": "32.34",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4576310851/stratified-memory-textured-rock-wall",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/53af35/8579104243/il_570xN.8579104243_3kap.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "rock wall art",
+        "textured photography",
+        "geology print",
+        "earth tones art",
+        "natural strata",
+        "layered rocks",
+        "wall decor photo",
+        "modern art print"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4576042791,
       "title": "Emerald Cavern Print, Cave Lake Wall Art, Grotto Photography, Stalactite Decor, Nature Landscape Poster",
