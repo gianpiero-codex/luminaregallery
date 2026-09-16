@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-16T12:44:59.605971+00:00",
+  "last_updated": "2026-09-16T17:31:55.904206+00:00",
   "shop_id": "64473201",
-  "total": 58,
+  "total": 59,
   "products": [
+    {
+      "listing_id": 4576542427,
+      "title": "Luminous Basin Cave Wall Art Print, Turquoise Waterfall Giclée, Subterranean Light Fine Art",
+      "description": "Discover the serene beauty of our &#39;Luminous Basin&#39; fine art print, capturing the tranquil pools and cascading waters inside a sunlit cave. This artwork brings a peaceful and evocative glimpse into an underground",
+      "price": "32.34",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4576542427/luminous-basin-cave-wall-art-print",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/8fddd7/8580851391/il_570xN.8580851391_5e84.jpg",
+      "section": "Subterranean Light",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "cave wall art",
+        "waterfall print",
+        "turquoise wall art",
+        "underground cave",
+        "blue water art",
+        "nature wall decor",
+        "subterranean light",
+        "serene landscape"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4576310851,
       "title": "Stratified Memory - Textured Rock Wall Photography Art Print",
