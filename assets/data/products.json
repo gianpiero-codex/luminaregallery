@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-19T14:41:02.547095+00:00",
+  "last_updated": "2026-09-19T17:49:45.863299+00:00",
   "shop_id": "64473201",
-  "total": 59,
+  "total": 60,
   "products": [
+    {
+      "listing_id": 4578526385,
+      "title": "Calcite Veil - Stalactite Cave Framed Art Print, Geological Wall Art",
+      "description": "This framed artwork captures the intricate details of calcite formations, showcasing their natural architectural beauty in warm earthy tones. The piece invites viewers to explore the subterranean world, highlighting text",
+      "price": "32.34",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4578526385/calcite-veil-stalactite-cave-framed-art",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/5211a9/8595589059/il_570xN.8595589059_vt99.jpg",
+      "section": "Subterranean Light",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "calcite wall art",
+        "geology print",
+        "mineral wall art",
+        "cave wall art",
+        "stalactite art",
+        "cave formations",
+        "organic textures",
+        "earth tone decor"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4576542427,
       "title": "Luminous Basin Cave Wall Art Print, Turquoise Waterfall Giclée, Subterranean Light Fine Art",
