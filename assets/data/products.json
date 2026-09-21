@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-21T12:39:29.084471+00:00",
+  "last_updated": "2026-09-21T18:32:00.574661+00:00",
   "shop_id": "64473201",
   "total": 60,
   "products": [
+    {
+      "listing_id": 4508578527,
+      "title": "Lucky Match Co. Matchbook Wall Art, Retro Home Bar Print",
+      "description": "Lucky Match Co. is a vintage-inspired matchbook wall art print designed for home bars, coffee corners, kitchens, and nostalgic interiors.\n\nFeaturing an oversized retro matchbook illustration, this piece creates an instan",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4508578527/lucky-match-co-vintage-matchbook-wall",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/75f157/8089754629/il_570xN.8089754629_i545.jpg",
+      "section": "Vintage America",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "matchbook art",
+        "vintage poster",
+        "home bar decor",
+        "retro wall art",
+        "americana decor",
+        "bar cart decor",
+        "retro print",
+        "vintage matchbox"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4578526385,
       "title": "Calcite Veil - Stalactite Cave Framed Art Print, Geological Wall Art",
@@ -1357,29 +1380,6 @@
         "mid century art",
         "jazz bar decor",
         "whiskey room"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4508578527,
-      "title": "Lucky Match Co. Matchbook Wall Art, Retro Home Bar Print",
-      "description": "Lucky Match Co. is a vintage-inspired matchbook wall art print designed for home bars, coffee corners, kitchens, and nostalgic interiors.\n\nFeaturing an oversized retro matchbook illustration, this piece creates an instan",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4508578527/lucky-match-co-vintage-matchbook-wall",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/75f157/8089754629/il_570xN.8089754629_i545.jpg",
-      "section": "Vintage America",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "matchbook art",
-        "vintage poster",
-        "home bar decor",
-        "retro wall art",
-        "americana decor",
-        "bar cart decor",
-        "retro print",
-        "vintage matchbox"
       ],
       "quantity": 999
     }
