@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-23T17:48:32.489367+00:00",
+  "last_updated": "2026-09-23T21:14:59.714863+00:00",
   "shop_id": "64473201",
-  "total": 60,
+  "total": 61,
   "products": [
+    {
+      "listing_id": 4581314753,
+      "title": "A Heart to Hold Art Print, Tender Hand with Heart, Vibrant Kids Room Decor",
+      "description": "A Heart to Hold is a vibrant art print inspired by a heartwarming creation from the kindergarten days of Luminare Gallery founder&#39;s small daughter. This piece beautifully reinterprets the original charm, adapted into",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4581314753/a-heart-to-hold-art-print-tender-hand",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/d76b44/8568599968/il_570xN.8568599968_c6tv.jpg",
+      "section": "Nursery & Kids Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "heart art print",
+        "nursery wall art",
+        "kids room decor",
+        "hand with heart",
+        "vibrant abstract",
+        "colorful painting",
+        "child inspired art",
+        "love symbol print"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4509687250,
       "title": "Vintage Cocktail Bar Matchbook Wall Art, Retro Lounge Print",
@@ -333,7 +356,7 @@
       "currency": "EUR",
       "url": "https://www.etsy.com/listing/4566891336/prismatic-ascension-unicorn-art-print",
       "image_url": "https://i.etsystatic.com/64473201/r/il/b380e5/8511186327/il_570xN.8511186327_2l7p.jpg",
-      "section": "Inner Visions",
+      "section": "Nursery & Kids Art",
       "is_digital": false,
       "type": "print",
       "tags": [
