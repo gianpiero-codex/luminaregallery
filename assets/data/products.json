@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-24T18:35:03.457107+00:00",
+  "last_updated": "2026-09-24T22:05:02.099988+00:00",
   "shop_id": "64473201",
-  "total": 61,
+  "total": 62,
   "products": [
+    {
+      "listing_id": 4582040108,
+      "title": "Colorful Animal Art Print, Nursery & Kids Room Wall Decor - Together Under the Blue",
+      "description": "Together Under the Blue features expressive, stylized animals gathered against a vivid blue sky and green landscape. Cream, ochre, and earthy brown tones contrast with the colorful background, while loose outlines and vi",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4582040108/colorful-animal-art-print-nursery-kids",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/0bb0f2/8573940970/il_570xN.8573940970_pixw.jpg",
+      "section": "Nursery & Kids Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "kids room art",
+        "nursery wall decor",
+        "whimsical animals",
+        "childlike drawing",
+        "animal theme decor",
+        "desert art print",
+        "blue sky green art",
+        "playroom artwork"
+      ],
+      "quantity": 10989
+    },
     {
       "listing_id": 4581314753,
       "title": "A Heart to Hold Art Print, Tender Hand with Heart, Vibrant Kids Room Decor",
