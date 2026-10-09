@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-08T20:02:37.794466+00:00",
+  "last_updated": "2026-10-09T00:33:48.677494+00:00",
   "shop_id": "64473201",
-  "total": 62,
+  "total": 61,
   "products": [
     {
       "listing_id": 4459955323,
@@ -1403,29 +1403,6 @@
         "vertical art print",
         "geometric artwork",
         "gallery wall art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4518072552,
-      "title": "Ascension of Jesus Christ Wall Art, Sacred Gold Religious Fine Art Print",
-      "description": "This Christian wall art print depicts the Ascension of Jesus Christ surrounded by angels, golden light, and a peaceful heavenly atmosphere.\n\nDesigned for faith-centered interiors, this piece works beautifully in a living",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4518072552/ascension-of-jesus-christ-art-print",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/188ab7/8109318446/il_570xN.8109318446_fks2.jpg",
-      "section": "Faith & Inspirational Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "Jesus Wall Art",
-        "Christian Decor",
-        "Jesus Print",
-        "Christ Print",
-        "Ascension Art",
-        "Religious Print",
-        "Sacred Art",
-        "Bible Wall Art"
       ],
       "quantity": 999
     }
