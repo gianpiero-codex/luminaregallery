@@ -37,7 +37,6 @@ window.SITE_CONFIG = {
   ],
 
   categories: [
-    { slug: "wall-art",        label: "Wall Art",        i18nKey: "cat.wall-art" },
-    { slug: "digital-download", label: "Digital Download", i18nKey: "cat.digital-download" }
+    { slug: "wall-art",        label: "Wall Art",        i18nKey: "cat.wall-art" }
   ]
 };

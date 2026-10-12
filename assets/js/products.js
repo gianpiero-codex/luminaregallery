@@ -16,27 +16,27 @@
     return (str || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
   }
 
-  function renderCard(product) {
-    // Detect digital: explicit API field first, fallback to title keyword
-    var isDigital = product.is_digital === true ||
-                    product.type === "digital" ||
-                    (product.title || "").toLowerCase().indexOf("digital download") !== -1 ||
-                    (product.title || "").toLowerCase().indexOf("instant download") !== -1;
+  function isDigitalProduct(product) {
+    if (product.is_digital === true || product.type === "digital" || product.type === "download") return true;
+    if (product.is_digital === false || product.type === "print" || product.type === "physical") return false;
+    return /digital download|instant download|download digitale/i.test(
+      (product.title || "") + " " + (product.section || "")
+    );
+  }
 
-    var catSlug = isDigital ? "digital-download" : "wall-art";
-    var section = isDigital ? "Digital Download" : "Wall Art";
+  function renderCard(product) {
+    var catSlug = "wall-art";
+    var section = "Wall Art";
     var priceLabel = product.price && parseFloat(product.price) > 0
       ? product.currency + " " + product.price
       : "View on Etsy";
 
-    var badge = isDigital
-      ? '<span class="prod-badge prod-badge--digital" data-i18n="badge.digital">⬇ Digital Download</span>'
-      : '<span class="prod-badge prod-badge--print" data-i18n="badge.print">🖼 Print via Gelato</span>';
+    var badge = '<span class="prod-badge prod-badge--print" data-i18n="badge.print">🖼 Print via Gelato</span>';
 
     var article = document.createElement("article");
     article.className        = "product-card";
     article.dataset.category = catSlug;
-    article.dataset.type     = isDigital ? "digital" : "print";
+    article.dataset.type     = "print";
 
     article.innerHTML = [
       '<a class="product-link" href="' + esc(product.url) + '"',
@@ -95,7 +95,7 @@
         container.setAttribute("aria-busy", "false");
 
         var products = (data.products || []).filter(function (p) {
-          return p.image_url;
+          return p.image_url && !isDigitalProduct(p);
         });
         if (limit) products = products.slice(0, limit);
 

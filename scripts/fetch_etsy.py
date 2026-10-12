@@ -252,8 +252,7 @@ def build_products(raw_listings, sections, image_map):
         sec_id           = item.get("shop_section_id")
         etsy_section_raw = sections.get(sec_id, "")
 
-        # Detect digital: by section name or title keyword
-        # (is_digital field not returned by this endpoint)
+        # Respect explicit Etsy product metadata before legacy text heuristics.
         _sec_lower = etsy_section_raw.lower().strip()
         _title_lower = (item.get("title") or "").lower()
         is_digital = (
@@ -261,12 +260,14 @@ def build_products(raw_listings, sections, image_map):
             or "digital download" in _title_lower
             or "instant download" in _title_lower
         )
+        if item.get("is_digital") is True or item.get("type") in {"digital", "download"}:
+            is_digital = True
+        elif item.get("is_digital") is False or item.get("type") in {"print", "physical"}:
+            is_digital = False
         if is_digital:
-            section      = "Digital Download"
-            product_type = "digital"
-        else:
-            section      = resolve_section(etsy_section_raw, item.get("tags", []))
-            product_type = "print"
+            continue  # Luminare Gallery publishes a physical-only catalog.
+        section = resolve_section(etsy_section_raw, item.get("tags", []))
+        product_type = "print"
 
         products.append({
             "listing_id":  item["listing_id"],
