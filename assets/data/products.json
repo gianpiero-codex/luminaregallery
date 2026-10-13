@@ -1,8 +1,54 @@
 {
-  "last_updated": "2026-10-12T18:43:17.910459+00:00",
+  "last_updated": "2026-10-13T01:08:36.095063+00:00",
   "shop_id": "64473201",
-  "total": 61,
+  "total": 63,
   "products": [
+    {
+      "listing_id": 4594028110,
+      "title": "Southwest Desert Landscape Print, Red Rock Mesas at Sunset",
+      "description": "Experience the majestic beauty of the American Southwest with this desert landscape print. It showcases two grand red sandstone mesas, aglow with the rich, warm light of sunset. Above them, a vast blue sky is adorned wit",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4594028110/southwest-desert-landscape-print-red",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/424efa/8666732772/il_570xN.8666732772_ti3o.jpg",
+      "section": "Vintage America",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "desert landscape",
+        "southwest art",
+        "sunset print",
+        "mesa wall art",
+        "red rock decor",
+        "desert photography",
+        "vertical art",
+        "desert horizon"
+      ],
+      "quantity": 18981
+    },
+    {
+      "listing_id": 4518072552,
+      "title": "Ascension of Jesus Christ Wall Art, Sacred Gold Religious Fine Art Print",
+      "description": "This Christian wall art print depicts the Ascension of Jesus Christ surrounded by angels, golden light, and a peaceful heavenly atmosphere.\n\nDesigned for faith-centered interiors, this piece works beautifully in a living",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4518072552/ascension-of-jesus-christ-art-print",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/188ab7/8109318446/il_570xN.8109318446_fks2.jpg",
+      "section": "Faith & Inspirational Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "Jesus Wall Art",
+        "Christian Decor",
+        "Jesus Print",
+        "Christ Print",
+        "Ascension Art",
+        "Religious Print",
+        "Sacred Art",
+        "Bible Wall Art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4459955323,
       "title": "Earth Tone Rock Texture Wall Art, Wabi Sabi Fine Art Print",
