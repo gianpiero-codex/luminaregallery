@@ -1,8 +1,77 @@
 {
-  "last_updated": "2026-10-13T08:11:35.803070+00:00",
+  "last_updated": "2026-10-13T16:16:27.395806+00:00",
   "shop_id": "64473201",
   "total": 63,
   "products": [
+    {
+      "listing_id": 4456140794,
+      "title": "Neutral Luminous Abstract Wall Art, Contemporary Fine Art Print",
+      "description": "Afterglow distills restrained luminosity into architectural calm.\n\nSoft layers of beige and shadowed bronze build a suspended glow shaped by tonal depth rather than contrast. Light remains controlled and internal, creati",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4456140794/afterglow-museum-grade-luminous-neutral",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b2f9/8003321727/il_570xN.8003321727_7kew.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "luminous abstract",
+        "neutral wall art",
+        "beige abstract art",
+        "warm wall decor",
+        "architectural art",
+        "minimalist wall art",
+        "fine art print",
+        "museum grade art"
+      ],
+      "quantity": 999
+    },
+    {
+      "listing_id": 4456041826,
+      "title": "Architectural Abstract Wall Art, Neutral Fine Art Print",
+      "description": "Silent Contours distills layered structure into architectural precision.\n\nSubtle tonal transitions shape depth through restraint rather than contrast, allowing each plane to emerge with measured clarity. Light remains di",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4456041826/silent-contours-museum-grade",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/12af5f/8003313831/il_570xN.8003313831_hcu5.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "architectural art",
+        "arch abstract art",
+        "contour wall art",
+        "layered abstract",
+        "tonal gradients",
+        "neutral fine art",
+        "beige black decor",
+        "minimal geometry"
+      ],
+      "quantity": 999
+    },
+    {
+      "listing_id": 4455993315,
+      "title": "Dark Architectural Abstract Wall Art, Minimalist Fine Art Print",
+      "description": "Shadow Axis distills structural light into architectural tension.\n\nA deliberate vertical divide separates luminosity from shadow, shaping depth through precision rather than contrast. The axis anchors the composition, ge",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4455993315/shadow-axis-museum-grade-architectural",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b16f/8003318117/il_570xN.8003318117_94s3.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "architectural art",
+        "shadow abstract",
+        "structural art print",
+        "modern wall decor",
+        "neutral abstract",
+        "vertical art print",
+        "geometric artwork",
+        "gallery wall art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4594028110,
       "title": "Southwest Desert Landscape Print, Red Rock Mesas at Sunset",
@@ -1380,75 +1449,6 @@
         "fine art print",
         "giclee fine art",
         "luxury wall decor"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456140794,
-      "title": "Neutral Luminous Abstract Wall Art, Contemporary Fine Art Print",
-      "description": "Afterglow distills restrained luminosity into architectural calm.\n\nSoft layers of beige and shadowed bronze build a suspended glow shaped by tonal depth rather than contrast. Light remains controlled and internal, creati",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4456140794/afterglow-museum-grade-luminous-neutral",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b2f9/8003321727/il_570xN.8003321727_7kew.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "luminous abstract",
-        "neutral wall art",
-        "beige abstract art",
-        "warm wall decor",
-        "architectural art",
-        "minimalist wall art",
-        "fine art print",
-        "museum grade art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456041826,
-      "title": "Architectural Abstract Wall Art, Neutral Fine Art Print",
-      "description": "Silent Contours distills layered structure into architectural precision.\n\nSubtle tonal transitions shape depth through restraint rather than contrast, allowing each plane to emerge with measured clarity. Light remains di",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4456041826/silent-contours-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/12af5f/8003313831/il_570xN.8003313831_hcu5.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "architectural art",
-        "arch abstract art",
-        "contour wall art",
-        "layered abstract",
-        "tonal gradients",
-        "neutral fine art",
-        "beige black decor",
-        "minimal geometry"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4455993315,
-      "title": "Dark Architectural Abstract Wall Art, Minimalist Fine Art Print",
-      "description": "Shadow Axis distills structural light into architectural tension.\n\nA deliberate vertical divide separates luminosity from shadow, shaping depth through precision rather than contrast. The axis anchors the composition, ge",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4455993315/shadow-axis-museum-grade-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c7b16f/8003318117/il_570xN.8003318117_94s3.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "architectural art",
-        "shadow abstract",
-        "structural art print",
-        "modern wall decor",
-        "neutral abstract",
-        "vertical art print",
-        "geometric artwork",
-        "gallery wall art"
       ],
       "quantity": 999
     }
