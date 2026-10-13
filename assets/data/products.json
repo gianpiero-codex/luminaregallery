@@ -1,8 +1,100 @@
 {
-  "last_updated": "2026-10-13T16:16:27.395806+00:00",
+  "last_updated": "2026-10-13T21:25:24.837280+00:00",
   "shop_id": "64473201",
   "total": 63,
   "products": [
+    {
+      "listing_id": 4456312464,
+      "title": "Ethereal Forest Abstract Wall Art, Atmospheric Fine Art Print",
+      "description": "Stillwood distills forest depth into atmospheric architectural light.\n\nVertical tonal gradients suggest filtered luminosity within layered shadow, evoking woodland presence without literal form. Structure emerges through",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4456312464/stillwood-museum-grade-ethereal-forest",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/6f0475/7955382622/il_570xN.7955382622_f1ys.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "forest abstract",
+        "ethereal art",
+        "atmospheric art",
+        "green abstract",
+        "nature abstract",
+        "fine art print",
+        "giclee print",
+        "museum grade art"
+      ],
+      "quantity": 999
+    },
+    {
+      "listing_id": 4456294730,
+      "title": "Amber Luminous Abstract Wall Art, Contemporary Fine Art Print",
+      "description": "Amber Compression distills concentrated light into architectural tension.\n\nA focused amber luminosity appears suspended within a deep shadowed field, generating visual gravity through compression rather than expansion. T",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4456294730/amber-compression-museum-grade-luminous",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/46b38f/7955378612/il_570xN.7955378612_elgu.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "amber abstract art",
+        "luminous abstract",
+        "museum grade art",
+        "warm wall decor",
+        "gold abstract art",
+        "architectural art",
+        "fine art print",
+        "giclee fine art"
+      ],
+      "quantity": 999
+    },
+    {
+      "listing_id": 4456170069,
+      "title": "Blue Luminous Abstract Wall Art, Contemporary Fine Art Print",
+      "description": "Solar Current distills radial luminosity into structured architectural rhythm.\n\nDisciplined golden arcs converge inward, shaping depth through symmetry and measured repetition. Light is controlled and intentional — guidi",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4456170069/solar-current-museum-grade-luminous",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/174d41/8003330435/il_570xN.8003330435_q13i.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "luminous abstract",
+        "radial abstract art",
+        "museum grade art",
+        "gold wall art",
+        "architectural art",
+        "fine art print",
+        "giclee fine art",
+        "geometric abstract"
+      ],
+      "quantity": 999
+    },
+    {
+      "listing_id": 4456166452,
+      "title": "Gold Luminous Abstract Wall Art, Contemporary Fine Art Print",
+      "description": "Golden Drift distills controlled luminosity into architectural motion.\n\nFine strands of warm gold traverse a restrained dark field, creating a suspended glow shaped by precision rather than ornament. Light moves with int",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4456166452/golden-drift-museum-grade-gold-luminous",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/c90d76/8003326471/il_570xN.8003326471_4pxg.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "gold abstract art",
+        "luminous wall art",
+        "museum grade art",
+        "neutral wall art",
+        "warm abstract art",
+        "fine art print",
+        "giclee fine art",
+        "luxury wall decor"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4456140794,
       "title": "Neutral Luminous Abstract Wall Art, Contemporary Fine Art Print",
@@ -1357,98 +1449,6 @@
         "vertical wall art",
         "large wall art",
         "modern wall decor"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456312464,
-      "title": "Ethereal Forest Abstract Wall Art, Atmospheric Fine Art Print",
-      "description": "Stillwood distills forest depth into atmospheric architectural light.\n\nVertical tonal gradients suggest filtered luminosity within layered shadow, evoking woodland presence without literal form. Structure emerges through",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4456312464/stillwood-museum-grade-ethereal-forest",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/6f0475/7955382622/il_570xN.7955382622_f1ys.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "forest abstract",
-        "ethereal art",
-        "atmospheric art",
-        "green abstract",
-        "nature abstract",
-        "fine art print",
-        "giclee print",
-        "museum grade art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456294730,
-      "title": "Amber Luminous Abstract Wall Art, Contemporary Fine Art Print",
-      "description": "Amber Compression distills concentrated light into architectural tension.\n\nA focused amber luminosity appears suspended within a deep shadowed field, generating visual gravity through compression rather than expansion. T",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4456294730/amber-compression-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/46b38f/7955378612/il_570xN.7955378612_elgu.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "amber abstract art",
-        "luminous abstract",
-        "museum grade art",
-        "warm wall decor",
-        "gold abstract art",
-        "architectural art",
-        "fine art print",
-        "giclee fine art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456170069,
-      "title": "Blue Luminous Abstract Wall Art, Contemporary Fine Art Print",
-      "description": "Solar Current distills radial luminosity into structured architectural rhythm.\n\nDisciplined golden arcs converge inward, shaping depth through symmetry and measured repetition. Light is controlled and intentional — guidi",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4456170069/solar-current-museum-grade-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/174d41/8003330435/il_570xN.8003330435_q13i.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "luminous abstract",
-        "radial abstract art",
-        "museum grade art",
-        "gold wall art",
-        "architectural art",
-        "fine art print",
-        "giclee fine art",
-        "geometric abstract"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4456166452,
-      "title": "Gold Luminous Abstract Wall Art, Contemporary Fine Art Print",
-      "description": "Golden Drift distills controlled luminosity into architectural motion.\n\nFine strands of warm gold traverse a restrained dark field, creating a suspended glow shaped by precision rather than ornament. Light moves with int",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4456166452/golden-drift-museum-grade-gold-luminous",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/c90d76/8003326471/il_570xN.8003326471_4pxg.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "gold abstract art",
-        "luminous wall art",
-        "museum grade art",
-        "neutral wall art",
-        "warm abstract art",
-        "fine art print",
-        "giclee fine art",
-        "luxury wall decor"
       ],
       "quantity": 999
     }
