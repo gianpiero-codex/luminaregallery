@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-10-15T12:46:26.853021+00:00",
+  "last_updated": "2026-10-15T17:39:03.361315+00:00",
   "shop_id": "64473201",
   "total": 63,
   "products": [
+    {
+      "listing_id": 4457185481,
+      "title": "New York SoHo Watercolor, Urban Architectural Wall Art",
+      "description": "SoHo Corner distills New York architecture into urban restraint.\n\nA red brick façade rises within softened golden light, rendered through layered watercolor depth and subtle atmospheric haze. Fire escapes and muted store",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4457185481/soho-corner-new-york-architectural",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/925c90/8003431265/il_570xN.8003431265_l5ys.jpg",
+      "section": "City Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "new york art",
+        "soho wall art",
+        "city watercolor",
+        "urban wall art",
+        "brick building art",
+        "city art print",
+        "vintage city art",
+        "warm wall decor"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4456679606,
       "title": "Dark Blue Geometric Abstract Wall Art, Architectural Fine Art Print",
@@ -1426,29 +1449,6 @@
         "historic city art",
         "warm wall decor",
         "italian art print"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4457185481,
-      "title": "New York SoHo Watercolor, Urban Architectural Wall Art",
-      "description": "SoHo Corner distills New York architecture into urban restraint.\n\nA red brick façade rises within softened golden light, rendered through layered watercolor depth and subtle atmospheric haze. Fire escapes and muted store",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4457185481/soho-corner-new-york-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/925c90/8003431265/il_570xN.8003431265_l5ys.jpg",
-      "section": "City Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "new york art",
-        "soho wall art",
-        "city watercolor",
-        "urban wall art",
-        "brick building art",
-        "city art print",
-        "vintage city art",
-        "warm wall decor"
       ],
       "quantity": 999
     }
