@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-10-21T06:29:00.881800+00:00",
+  "last_updated": "2026-10-21T12:16:07.970750+00:00",
   "shop_id": "64473201",
   "total": 63,
   "products": [
+    {
+      "listing_id": 4459875020,
+      "title": "Samurai Wall Art, Japanese Red Sun Warrior Fine Art Print",
+      "description": "Silent Ronin features a solitary samurai set against a bold red sun, highlighting minimalist Japanese warrior aesthetics. This printed wall art enhances offices, living rooms, and zen spaces with a strong but balanced vi",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4459875020/split-botanical-pod-wall-art-dark",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/3bca83/8027240959/il_570xN.8027240959_tlls.jpg",
+      "section": "Japanese Inspired Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "samurai wall art",
+        "japanese samurai",
+        "red sun poster",
+        "minimalist warrior",
+        "asian wall art",
+        "ronin art print",
+        "modern samurai",
+        "japanese decor"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4459473973,
       "title": "Rustic Wooden Cross Wall Art, Christian Farmhouse Print",
@@ -1426,29 +1449,6 @@
         "rock texture print",
         "volcanic wall art",
         "modern mineral art"
-      ],
-      "quantity": 999
-    },
-    {
-      "listing_id": 4459875020,
-      "title": "Samurai Wall Art, Japanese Red Sun Warrior Fine Art Print",
-      "description": "Silent Ronin features a solitary samurai set against a bold red sun, highlighting minimalist Japanese warrior aesthetics. This printed wall art enhances offices, living rooms, and zen spaces with a strong but balanced vi",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4459875020/split-botanical-pod-wall-art-dark",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/3bca83/8027240959/il_570xN.8027240959_tlls.jpg",
-      "section": "Japanese Inspired Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "samurai wall art",
-        "japanese samurai",
-        "red sun poster",
-        "minimalist warrior",
-        "asian wall art",
-        "ronin art print",
-        "modern samurai",
-        "japanese decor"
       ],
       "quantity": 999
     }
