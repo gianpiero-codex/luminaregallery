@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-11-07T18:12:15.389181+00:00",
+  "last_updated": "2026-11-07T22:11:27.997920+00:00",
   "shop_id": "64473201",
-  "total": 63,
+  "total": 64,
   "products": [
+    {
+      "listing_id": 4605908396,
+      "title": "The Quiet Between: Neutral Architectural Abstract Art Print",
+      "description": "THE QUIET BETWEEN\nA luminous ivory passage opens between two monumental forms. Charcoal, warm stone and muted bronze create a quiet architectural composition with painterly texture and depth.\n\nThis vertical artwork bring",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4605908396/the-quiet-between-neutral-architectural",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/55e007/8812943831/il_570xN.8812943831_jrlo.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "abstract wall art",
+        "neutral wall decor",
+        "architectural art",
+        "charcoal wall art",
+        "bronze abstract",
+        "warm neutral art",
+        "vertical wall art",
+        "minimalist artwork"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4459913807,
       "title": "Dark Basalt Stone Wall Art, Textured Mineral Fine Art Print",
