@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-11-16T18:03:52.960486+00:00",
+  "last_updated": "2026-11-17T01:57:30.855253+00:00",
   "shop_id": "64473201",
   "total": 64,
   "products": [
+    {
+      "listing_id": 4471935361,
+      "title": "Guardian Angel Christian Wall Art, Religious Nursery Print",
+      "description": "Bring a sense of peace, protection, and warmth into your home with this Guardian Angel Art Print.\n\nThis vintage-inspired Christian wall art shows a gentle guardian angel guiding a young child, creating a comforting symbo",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4471935361/frozen-threshold-minimal-architectural",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/e6b5f0/8024122360/il_570xN.8024122360_kwld.jpg",
+      "section": "Faith & Inspirational Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "guardian angel",
+        "angel wall art",
+        "christian print",
+        "religious decor",
+        "nursery wall art",
+        "baptism gift",
+        "child blessing",
+        "prayer room art"
+      ],
+      "quantity": 999
+    },
     {
       "listing_id": 4605908396,
       "title": "The Quiet Between: Neutral Architectural Abstract Art Print",
@@ -1451,29 +1474,6 @@
         "vertical wall art"
       ],
       "quantity": 998
-    },
-    {
-      "listing_id": 4471935361,
-      "title": "Guardian Angel Christian Wall Art, Religious Nursery Print",
-      "description": "Bring a sense of peace, protection, and warmth into your home with this Guardian Angel Art Print.\n\nThis vintage-inspired Christian wall art shows a gentle guardian angel guiding a young child, creating a comforting symbo",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4471935361/frozen-threshold-minimal-architectural",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/e6b5f0/8024122360/il_570xN.8024122360_kwld.jpg",
-      "section": "Faith & Inspirational Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "guardian angel",
-        "angel wall art",
-        "christian print",
-        "religious decor",
-        "nursery wall art",
-        "baptism gift",
-        "child blessing",
-        "prayer room art"
-      ],
-      "quantity": 999
     }
   ]
 }
