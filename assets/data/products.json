@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-11-26T14:14:03.993575+00:00",
+  "last_updated": "2026-11-26T23:11:33.702598+00:00",
   "shop_id": "64473201",
   "total": 64,
   "products": [
+    {
+      "listing_id": 4455469593,
+      "title": "Neutral Architectural Abstract Wall Art, Museum-Grade Fine Art Print",
+      "description": "Final Threshold distills structural light into architectural equilibrium.\n\nDefined by controlled luminosity, precise geometry, and measured spatial tension, the composition creates depth through discipline rather than co",
+      "price": "27.00",
+      "currency": "EUR",
+      "url": "https://www.etsy.com/listing/4455469593/final-threshold-museum-grade",
+      "image_url": "https://i.etsystatic.com/64473201/r/il/299588/8003272355/il_570xN.8003272355_ey94.jpg",
+      "section": "Abstract Art",
+      "is_digital": false,
+      "type": "print",
+      "tags": [
+        "museum grade art",
+        "architectural print",
+        "neutral abstract",
+        "fine art print",
+        "modern luxury art",
+        "geometric wall art",
+        "minimalist wall art",
+        "vertical wall art"
+      ],
+      "quantity": 998
+    },
     {
       "listing_id": 4471935361,
       "title": "Guardian Angel Christian Wall Art, Religious Nursery Print",
@@ -1451,29 +1474,6 @@
         "tiziana petrosino"
       ],
       "quantity": 10989
-    },
-    {
-      "listing_id": 4455469593,
-      "title": "Neutral Architectural Abstract Wall Art, Museum-Grade Fine Art Print",
-      "description": "Final Threshold distills structural light into architectural equilibrium.\n\nDefined by controlled luminosity, precise geometry, and measured spatial tension, the composition creates depth through discipline rather than co",
-      "price": "27.00",
-      "currency": "EUR",
-      "url": "https://www.etsy.com/listing/4455469593/final-threshold-museum-grade",
-      "image_url": "https://i.etsystatic.com/64473201/r/il/299588/8003272355/il_570xN.8003272355_ey94.jpg",
-      "section": "Abstract Art",
-      "is_digital": false,
-      "type": "print",
-      "tags": [
-        "museum grade art",
-        "architectural print",
-        "neutral abstract",
-        "fine art print",
-        "modern luxury art",
-        "geometric wall art",
-        "minimalist wall art",
-        "vertical wall art"
-      ],
-      "quantity": 998
     }
   ]
 }
